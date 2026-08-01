@@ -6,3 +6,6 @@ __pycache__/
 outputs/
 .workbook/
 *.inspect.ndjson
+r/library/
+**/.pbi/localSettings.json
+**/.pbi/cache.abf

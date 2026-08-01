@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<workbook original-version='18.1' source-build='2026.1.0' source-platform='win' version='18.1' xml:base='https://localhost:8080' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <preferences><preference name='ui.encoding.shelf.height' value='24'/></preferences>
+  <datasources>
+    <datasource caption='Wildlight Analytics (Synthetic)' inline='true' name='federated.wildlight' version='18.1'>
+      <connection class='textscan' directory='Data' filename='analytics_dataset.csv' password='' server='' />
+      <aliases enabled='yes'/>
+      <column datatype='date' name='[booking_date]' role='dimension' type='ordinal'/>
+      <column datatype='string' name='[month]' role='dimension' type='nominal'/>
+      <column datatype='string' name='[package_name]' role='dimension' type='nominal'/>
+      <column datatype='string' name='[service_category]' role='dimension' type='nominal'/>
+      <column datatype='string' name='[lead_source]' role='dimension' type='nominal'/>
+      <column datatype='string' name='[booking_status]' role='dimension' type='nominal'/>
+      <column datatype='real' name='[amount_paid]' role='measure' type='quantitative'/>
+      <column datatype='real' name='[gross_profit]' role='measure' type='quantitative'/>
+      <column datatype='real' name='[outstanding_balance]' role='measure' type='quantitative'/>
+      <column datatype='real' name='[booking_value]' role='measure' type='quantitative'/>
+      <column datatype='integer' name='[booking_id]' role='measure' type='quantitative'/>
+      <column caption='Profit Margin' datatype='real' name='[Calculation_ProfitMargin]' role='measure' type='quantitative'><calculation class='tableau' formula='SUM([gross_profit])/SUM([amount_paid])'/></column>
+      <column caption='Cancellation Rate' datatype='real' name='[Calculation_CancellationRate]' role='measure' type='quantitative'><calculation class='tableau' formula='SUM(IIF([booking_status]=&quot;cancelled&quot;,1,0))/COUNT([booking_id])'/></column>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Monthly Revenue'><table><view><datasources><datasource caption='Wildlight Analytics (Synthetic)' name='federated.wildlight'/></datasources><datasource-dependencies datasource='federated.wildlight'><column datatype='string' name='[month]' role='dimension' type='nominal'/><column datatype='real' name='[amount_paid]' role='measure' type='quantitative'/></datasource-dependencies><aggregation>sum</aggregation></view><style/><panes><pane><encodings><color column='[federated.wildlight].[sum:amount_paid:qk]'/></encodings><mark class='Automatic'/></pane></panes><rows>SUM([federated.wildlight].[amount_paid])</rows><cols>[federated.wildlight].[month]</cols></table></worksheet>
+    <worksheet name='Package Performance'><table><view><datasources><datasource caption='Wildlight Analytics (Synthetic)' name='federated.wildlight'/></datasources><aggregation>sum</aggregation></view><style/><panes><pane><mark class='Bar'/></pane></panes><rows>[federated.wildlight].[package_name]</rows><cols>SUM([federated.wildlight].[amount_paid])</cols></table></worksheet>
+    <worksheet name='Lead Source Performance'><table><view><datasources><datasource caption='Wildlight Analytics (Synthetic)' name='federated.wildlight'/></datasources><aggregation>sum</aggregation></view><style/><panes><pane><mark class='Bar'/></pane></panes><rows>[federated.wildlight].[lead_source]</rows><cols>CNT([federated.wildlight].[booking_id])</cols></table></worksheet>
+    <worksheet name='Outstanding Balances'><table><view><datasources><datasource caption='Wildlight Analytics (Synthetic)' name='federated.wildlight'/></datasources><aggregation>sum</aggregation></view><style/><panes><pane><mark class='Automatic'/></pane></panes><rows>[federated.wildlight].[package_name]</rows><cols>SUM([federated.wildlight].[outstanding_balance])</cols></table></worksheet>
+  </worksheets>
+  <dashboards>
+    <dashboard name='Executive Dashboard'><style/><zones><zone h='50000' id='1' name='Monthly Revenue' type-v2='sheet' w='50000' x='0' y='0'/><zone h='50000' id='2' name='Package Performance' type-v2='sheet' w='50000' x='50000' y='0'/><zone h='50000' id='3' name='Lead Source Performance' type-v2='sheet' w='50000' x='0' y='50000'/><zone h='50000' id='4' name='Outstanding Balances' type-v2='sheet' w='50000' x='50000' y='50000'/></zones></dashboard>
+  </dashboards>
+  <windows><window class='dashboard' name='Executive Dashboard'><viewpoints/></window></windows>
+</workbook>

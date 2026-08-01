@@ -1,0 +1,2 @@
+expression AnalyticsSource = "https://raw.githubusercontent.com/andersjewel/photography-business-analytics/main/data/processed/analytics_dataset.csv" meta [IsParameterQuery=true, Type="Text", IsParameterQueryRequired=true]
+	annotation PBI_ResultType = Text

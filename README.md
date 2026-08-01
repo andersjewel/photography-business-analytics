@@ -18,7 +18,13 @@ The analysis evaluates package and service profitability, channel bookings and c
 
 Python (pandas, NumPy, matplotlib, scikit-learn, sqlite3) generates and cleans the data, loads SQLite, calculates KPIs, produces separate charts, and exports dashboard tables. SQL demonstrates normalized design, constraints, CTEs, joins, windows, CASE-ready business logic, data-quality checks, and views. R independently validates revenue, segmentation, repeat behavior, and service comparisons. Excel provides nine usable tabs with formatted tables, filters, formulas/summary logic, conditional formatting, and native charts. Power BI and Tableau guides translate the same definitions into proposed dashboards.
 
-`synthetic raw CSVs → validation/cleaning → normalized SQLite + booking-grain analytics → Python/R analysis → Excel and BI-ready outputs → recommendations`
+`synthetic raw CSVs → validation/cleaning → normalized SQLite + booking-grain analytics → Python/R analysis → Excel and interactive BI project outputs → recommendations`
+
+## Interactive dashboard deliverables
+
+- **Power BI:** open [`powerbi/WildlightAnalytics.pbip`](powerbi/WildlightAnalytics.pbip) in Power BI Desktop. The validated PBIP/PBIR project contains a Web-connected semantic model, canonical DAX measures, five report pages, KPI cards, a revenue trend, and data-bound package, source, client, and payment visuals.
+- **Tableau:** open [`tableau/Wildlight_Analytics.twbx`](tableau/Wildlight_Analytics.twbx) in Tableau Desktop or Tableau Public. The packaged workbook contains its synthetic CSV data, four worksheets, calculated fields, and an executive dashboard.
+- **R Markdown:** open the rendered [`r/photography_business_findings.html`](r/photography_business_findings.html) or rerun [`r/photography_business_findings.Rmd`](r/photography_business_findings.Rmd). The report includes reproducible KPI calculations, six analytical graphics, findings, recommendations, and limitations.
 
 ## Key results from the generated dataset
 
@@ -63,7 +69,7 @@ python python\export_dashboard_data.py
 python -m pytest -q
 ```
 
-The Excel workbook is included and usable without running code. Rebuilding it uses the bundled Codex spreadsheet workflow described in `excel/build_workbook.mjs`; Power BI `.pbix` and Tableau `.twb/.twbx` authoring remain manual desktop steps by design.
+The Excel workbook and rendered R Markdown report are usable without running code. Power BI uses Microsoft's source-controlled PBIP/PBIR/TMDL format rather than an opaque `.pbix`; Tableau is supplied as a packaged `.twbx` workbook.
 
 ## Skills demonstrated
 
@@ -72,4 +78,3 @@ Synthetic data design, data-quality controls, relational modeling, SQL analysis,
 ## Limitations and future improvements
 
 This is synthetic booking-grain data with simplified attribution and modeled package costs. Two years are not enough for high-confidence forecasting, and package variable costs do not constitute full job costing. Future work could add campaign spend, labor hours, payment fees, capacity, reason codes, multi-touch attribution, confidence intervals, and automated BI refreshes. No recommendation is claimed to have been implemented by a real company.
-

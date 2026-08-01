@@ -1,0 +1,82 @@
+table Analytics
+	measure 'Total Revenue' = SUM(Analytics[amount_paid])
+		formatString: $#,0
+	measure 'Gross Profit' = SUM(Analytics[gross_profit])
+		formatString: $#,0
+	measure 'Profit Margin' = DIVIDE([Gross Profit],[Total Revenue])
+		formatString: 0.0%
+	measure 'Average Booking Value' = AVERAGE(Analytics[booking_value])
+		formatString: $#,0
+	measure 'Cancellation Rate' = DIVIDE(CALCULATE(COUNTROWS(Analytics),Analytics[booking_status]="cancelled"),COUNTROWS(Analytics))
+		formatString: 0.0%
+	measure 'Rescheduling Rate' = DIVIDE(CALCULATE(COUNTROWS(Analytics),Analytics[booking_status]="rescheduled"),COUNTROWS(Analytics))
+		formatString: 0.0%
+	measure 'Outstanding Balance' = SUM(Analytics[outstanding_balance])
+		formatString: $#,0
+	measure 'Session Completion Rate' = DIVIDE(CALCULATE(COUNTROWS(Analytics),Analytics[session_completed]=TRUE()),COUNTROWS(Analytics))
+		formatString: 0.0%
+
+	column booking_id
+		dataType: int64
+		summarizeBy: none
+		sourceColumn: booking_id
+	column client_id
+		dataType: int64
+		summarizeBy: none
+		sourceColumn: client_id
+	column package_name
+		dataType: string
+		sourceColumn: package_name
+	column service_category
+		dataType: string
+		sourceColumn: service_category
+	column booking_date
+		dataType: dateTime
+		formatString: yyyy-mm-dd
+		sourceColumn: booking_date
+	column booking_status
+		dataType: string
+		sourceColumn: booking_status
+	column booking_value
+		dataType: double
+		formatString: $#,0.00
+		sourceColumn: booking_value
+	column lead_source
+		dataType: string
+		sourceColumn: lead_source
+	column amount_paid
+		dataType: double
+		formatString: $#,0.00
+		sourceColumn: amount_paid
+	column outstanding_balance
+		dataType: double
+		formatString: $#,0.00
+		sourceColumn: outstanding_balance
+	column gross_profit
+		dataType: double
+		formatString: $#,0.00
+		sourceColumn: gross_profit
+	column response_hours
+		dataType: double
+		sourceColumn: response_hours
+	column days_to_booking
+		dataType: int64
+		sourceColumn: days_to_booking
+	column session_completed
+		dataType: boolean
+		sourceColumn: session_completed
+	column month
+		dataType: string
+		sourceColumn: month
+
+	partition Analytics = m
+		mode: import
+		source =
+			let
+				Source = Csv.Document(Web.Contents("https://raw.githubusercontent.com/andersjewel/photography-business-analytics/main/data/processed/analytics_dataset.csv"),[Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				Headers = Table.PromoteHeaders(Source,[PromoteAllScalars=true]),
+				Typed = Table.TransformColumnTypes(Headers,{{"booking_id",Int64.Type},{"client_id",Int64.Type},{"booking_date",type date},{"booking_value",type number},{"amount_paid",type number},{"outstanding_balance",type number},{"gross_profit",type number},{"response_hours",type number},{"days_to_booking",Int64.Type},{"session_completed",type logical}})
+			in
+				Typed
+
+	annotation PBI_ResultType = Table

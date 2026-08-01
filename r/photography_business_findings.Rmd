@@ -1,0 +1,113 @@
+---
+title: "Wildlight Portrait Studio: Analytics Findings"
+subtitle: "Independent portfolio case study using synthetic data inspired by common photography-business workflows."
+author: "Anders Jewel"
+date: "`r format(Sys.Date(), '%B %d, %Y')`"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    theme: flatly
+    code_folding: hide
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo=TRUE, warning=FALSE, message=FALSE, fig.width=10, fig.height=5.5, dpi=120)
+root <- normalizePath("..", winslash="/", mustWork=TRUE)
+d <- read.csv(file.path(root,"data","processed","analytics_dataset.csv"), stringsAsFactors=FALSE)
+leads <- read.csv(file.path(root,"data","raw","marketing_leads.csv"), stringsAsFactors=FALSE)
+expenses <- read.csv(file.path(root,"data","raw","expenses.csv"), stringsAsFactors=FALSE)
+d$booking_date <- as.Date(d$booking_date)
+d$inquiry_date <- as.POSIXct(d$inquiry_date)
+money <- function(x) paste0("$",format(round(x),big.mark=",",scientific=FALSE))
+rate <- function(x) paste0(round(100*x,1),"%")
+colors <- c("#173B45","#2F6F73","#C26A4A","#D7A86E","#7C9A92","#B75D69","#6A7FDB","#9B7E6B")
+```
+
+> **Ethics statement.** This report uses entirely synthetic records for the fictional Wildlight Portrait Studio. It contains no real employer, client, financial, or personal data.
+
+# Executive summary
+
+```{r canonical-kpis, echo=FALSE, results='asis'}
+revenue <- sum(d$amount_paid)
+total_expenses <- sum(expenses$amount)
+profit <- revenue-total_expenses
+repeat_rate <- mean(table(d$client_id)>1)
+cat(sprintf("The synthetic dataset records **%s in cash revenue**, **%s in operating expenses**, and **%s in gross profit**. Average booking value is **%s**. The lead-to-booking conversion rate is **%s**, the repeat-client rate is **%s**, cancellations are **%s**, and open balances total **%s**.\n",
+ money(revenue),money(total_expenses),money(profit),money(mean(d$booking_value)),rate(nrow(d)/nrow(leads)),rate(repeat_rate),rate(mean(d$booking_status=="cancelled")),money(sum(d$outstanding_balance))))
+```
+
+# Revenue and seasonal demand
+
+```{r monthly-revenue, echo=FALSE}
+monthly <- aggregate(amount_paid~month,d,sum)
+par(mar=c(7,5,3,1)); plot(seq_len(nrow(monthly)),monthly$amount_paid,type="o",pch=16,lwd=3,col=colors[2],xaxt="n",xlab="",ylab="Revenue (USD)",main="Monthly cash revenue")
+axis(1,seq_len(nrow(monthly)),monthly$month,las=2,cex.axis=.7); grid(nx=NA,ny=NULL,col="#DDDDDD")
+```
+
+October–November and graduation-season demand peaks are visible, while January is consistently softer. The final January 2026 point represents late-December inquiries booked after year-end; it is not a full operating month.
+
+# Package performance and profitability
+
+```{r package-performance, echo=FALSE}
+pkg <- aggregate(cbind(amount_paid,gross_profit)~package_name,d,sum)
+pkg <- pkg[order(pkg$amount_paid,decreasing=TRUE),]
+mat <- t(as.matrix(pkg[,c("amount_paid","gross_profit")]))
+par(mar=c(9,5,3,1)); barplot(mat,beside=TRUE,names.arg=pkg$package_name,las=2,col=colors[c(2,3)],ylab="USD",main="Package revenue and modeled gross profit"); legend("topright",c("Revenue","Gross profit"),fill=colors[c(2,3)],bty="n")
+```
+
+Wedding Collection is the revenue and gross-profit leader. Essential Portrait is the strongest non-wedding package by revenue, while Brand Builder contributes a strong modeled profit at lower booking volume.
+
+# Marketing-source performance
+
+```{r source-performance, echo=FALSE}
+src <- aggregate(cbind(booking_id,amount_paid,response_hours)~lead_source,d,function(x)c(count=length(x),sum=sum(x),mean=mean(x)))
+source_bookings <- aggregate(booking_id~lead_source,d,length); source_bookings <- source_bookings[order(source_bookings$booking_id),]
+par(mar=c(5,10,3,1)); barplot(source_bookings$booking_id,names.arg=source_bookings$lead_source,horiz=TRUE,las=1,col=colors[2],xlab="Attributed bookings",main="Bookings by lead source")
+```
+
+Instagram contributes the most attributed bookings and revenue, followed by Google Search and Referral. Allocation decisions should also include channel spend; the synthetic dataset supports attributed performance but not a complete return-on-ad-spend calculation.
+
+# Client retention
+
+```{r retention, echo=FALSE}
+counts <- table(d$client_id); segments <- c("One booking"=sum(counts==1),"Repeat client"=sum(counts>1))
+barplot(segments,col=colors[c(4,2)],ylab="Clients",main="Booked-client retention profile")
+```
+
+The repeat-client rate is `r rate(repeat_rate)`. A fictional studio could test post-delivery follow-ups, milestone reminders, and referral incentives while monitoring contribution margin rather than repeat count alone.
+
+# Operations and payments
+
+```{r operations, echo=FALSE}
+ops <- c("Completed"=mean(d$booking_status=="completed"),"Cancelled"=mean(d$booking_status=="cancelled"),"Rescheduled"=mean(d$booking_status=="rescheduled"),"Confirmed"=mean(d$booking_status=="confirmed"))
+barplot(100*ops,col=colors[1:4],ylab="Percent of bookings",main="Booking outcomes"); abline(h=0)
+```
+
+Average first response time is `r round(mean(d$response_hours),1)` hours and average inquiry-to-booking time is `r round(mean(d$days_to_booking),1)` days. Open balances total `r money(sum(d$outstanding_balance))`. The analysis suggests a response-time service level, required deposits, automated invoice reminders, and daily exception queues.
+
+# Forecasting perspective
+
+```{r forecast, echo=FALSE}
+if (file.exists(file.path(root,"data","processed","revenue_forecast.csv"))) {
+  fc <- read.csv(file.path(root,"data","processed","revenue_forecast.csv"));
+  plot(seq_len(nrow(monthly)),monthly$amount_paid,type="l",lwd=3,col=colors[2],xlim=c(1,nrow(monthly)+nrow(fc)),ylim=range(c(monthly$amount_paid,fc$forecast_revenue)),xlab="Month index",ylab="Revenue (USD)",main="Historical revenue and directional forecast")
+  lines((nrow(monthly)+1):(nrow(monthly)+nrow(fc)),fc$forecast_revenue,lwd=3,lty=2,col=colors[3]); legend("topleft",c("Historical","Forecast"),col=colors[c(2,3)],lty=c(1,2),lwd=3,bty="n")
+}
+```
+
+The forecast is a seasonal-trend baseline for planning, not a production prediction. Two synthetic years do not support high-confidence inference or a robust out-of-sample evaluation.
+
+# Recommendations
+
+1. Respond to new inquiries within one business day and surface SLA exceptions daily.
+2. Require a deposit and agreement before confirmation; automate balance reminders.
+3. Plan staffing and campaigns ahead of April–May and October–November demand.
+4. Preserve Wedding Collection as the premium anchor while testing portrait and branding bundles.
+5. Evaluate marketing channels using conversion, attributed revenue, and spend—not lead volume alone.
+6. Add cancellation/reschedule reasons and labor-hour costs to improve root-cause and margin analysis.
+
+# Reproducibility and limitations
+
+This R Markdown report reads the same processed CSVs used by Python, SQL, Excel, Power BI, and Tableau assets. Package variable costs are simplified and do not represent full job costing. Source attribution is single-touch. No recommendation is claimed to have been implemented by a real organization.
+

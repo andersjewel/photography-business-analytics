@@ -1,0 +1,5 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {"type":"Report","displayName":"Wildlight Analytics"},
+  "config": {"version":"2.0","logicalId":"7b578e5a-0e97-4e91-9a0e-d54196372e0d"}
+}
