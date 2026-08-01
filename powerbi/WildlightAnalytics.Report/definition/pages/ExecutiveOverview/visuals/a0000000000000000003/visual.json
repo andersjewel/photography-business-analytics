@@ -1,1 +1,37 @@
-{"$schema":"https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.9.0/schema.json","name":"a0000000000000000003","position":{"x":640,"y":20,"z":3000,"height":120,"width":290,"tabOrder":3000},"visual":{"visualType":"cardVisual","query":{"queryState":{"Data":{"projections":[{"field":{"Measure":{"Expression":{"SourceRef":{"Entity":"Analytics"}},"Property":"Profit Margin"}},"queryRef":"Analytics.Profit Margin","nativeQueryRef":"Profit Margin"}]}}}}}
+{
+    "$schema":  "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.9.0/schema.json",
+    "name":  "a0000000000000000003",
+    "position":  {
+                     "width":  240,
+                     "y":  176,
+                     "z":  103,
+                     "x":  736,
+                     "tabOrder":  103,
+                     "height":  98
+                 },
+    "visual":  {
+                   "visualType":  "cardVisual",
+                   "query":  {
+                                 "queryState":  {
+                                                    "Data":  {
+                                                                 "projections":  [
+                                                                                     {
+                                                                                         "field":  {
+                                                                                                       "Measure":  {
+                                                                                                                       "Expression":  {
+                                                                                                                                          "SourceRef":  {
+                                                                                                                                                            "Entity":  "Analytics"
+                                                                                                                                                        }
+                                                                                                                                      },
+                                                                                                                       "Property":  "Profit Margin"
+                                                                                                                   }
+                                                                                                   },
+                                                                                         "queryRef":  "Analytics.Profit Margin",
+                                                                                         "nativeQueryRef":  "Profit Margin"
+                                                                                     }
+                                                                                 ]
+                                                             }
+                                                }
+                             }
+               }
+}

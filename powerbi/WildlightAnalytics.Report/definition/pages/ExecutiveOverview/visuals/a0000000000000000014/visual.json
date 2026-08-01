@@ -1,0 +1,108 @@
+{
+    "position":  {
+                     "width":  246,
+                     "y":  82,
+                     "z":  80,
+                     "x":  1000,
+                     "tabOrder":  80,
+                     "height":  80
+                 },
+    "name":  "a0000000000000000014",
+    "$schema":  "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.9.0/schema.json",
+    "visual":  {
+                   "query":  {
+                                 "queryState":  {
+                                                    "Values":  {
+                                                                   "projections":  [
+                                                                                       {
+                                                                                           "field":  {
+                                                                                                         "Column":  {
+                                                                                                                        "Expression":  {
+                                                                                                                                           "SourceRef":  {
+                                                                                                                                                             "Entity":  "Analytics"
+                                                                                                                                                         }
+                                                                                                                                       },
+                                                                                                                        "Property":  "booking_status"
+                                                                                                                    }
+                                                                                                     },
+                                                                                           "nativeQueryRef":  "booking_status",
+                                                                                           "queryRef":  "Analytics.booking_status"
+                                                                                       }
+                                                                                   ]
+                                                               }
+                                                }
+                             },
+                   "objects":  {
+                                   "header":  [
+                                                  {
+                                                      "properties":  {
+                                                                         "text":  {
+                                                                                      "expr":  {
+                                                                                                   "Literal":  {
+                                                                                                                   "Value":  "\u0027Booking status\u0027"
+                                                                                                               }
+                                                                                               }
+                                                                                  },
+                                                                         "show":  {
+                                                                                      "expr":  {
+                                                                                                   "Literal":  {
+                                                                                                                   "Value":  "true"
+                                                                                                               }
+                                                                                               }
+                                                                                  }
+                                                                     }
+                                                  }
+                                              ],
+                                   "data":  [
+                                                {
+                                                    "properties":  {
+                                                                       "mode":  {
+                                                                                    "expr":  {
+                                                                                                 "Literal":  {
+                                                                                                                 "Value":  "\u0027Dropdown\u0027"
+                                                                                                             }
+                                                                                             }
+                                                                                }
+                                                                   }
+                                                }
+                                            ]
+                               },
+                   "visualContainerObjects":  {
+                                                  "padding":  [
+                                                                  {
+                                                                      "properties":  {
+                                                                                         "left":  {
+                                                                                                      "expr":  {
+                                                                                                                   "Literal":  {
+                                                                                                                                   "Value":  "8D"
+                                                                                                                               }
+                                                                                                               }
+                                                                                                  },
+                                                                                         "right":  {
+                                                                                                       "expr":  {
+                                                                                                                    "Literal":  {
+                                                                                                                                    "Value":  "8D"
+                                                                                                                                }
+                                                                                                                }
+                                                                                                   },
+                                                                                         "bottom":  {
+                                                                                                        "expr":  {
+                                                                                                                     "Literal":  {
+                                                                                                                                     "Value":  "8D"
+                                                                                                                                 }
+                                                                                                                 }
+                                                                                                    },
+                                                                                         "top":  {
+                                                                                                     "expr":  {
+                                                                                                                  "Literal":  {
+                                                                                                                                  "Value":  "8D"
+                                                                                                                              }
+                                                                                                              }
+                                                                                                 }
+                                                                                     }
+                                                                  }
+                                                              ]
+                                              },
+                   "visualType":  "slicer"
+               }
+}

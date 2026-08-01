@@ -1,1 +1,37 @@
-{"$schema":"https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.9.0/schema.json","name":"a0000000000000000001","position":{"x":20,"y":20,"z":1000,"height":120,"width":290,"tabOrder":1000},"visual":{"visualType":"cardVisual","query":{"queryState":{"Data":{"projections":[{"field":{"Measure":{"Expression":{"SourceRef":{"Entity":"Analytics"}},"Property":"Total Revenue"}},"queryRef":"Analytics.Total Revenue","nativeQueryRef":"Total Revenue"}]}}}}}
+{
+    "$schema":  "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.9.0/schema.json",
+    "name":  "a0000000000000000001",
+    "position":  {
+                     "width":  240,
+                     "y":  176,
+                     "z":  101,
+                     "x":  208,
+                     "tabOrder":  101,
+                     "height":  98
+                 },
+    "visual":  {
+                   "visualType":  "cardVisual",
+                   "query":  {
+                                 "queryState":  {
+                                                    "Data":  {
+                                                                 "projections":  [
+                                                                                     {
+                                                                                         "field":  {
+                                                                                                       "Measure":  {
+                                                                                                                       "Expression":  {
+                                                                                                                                          "SourceRef":  {
+                                                                                                                                                            "Entity":  "Analytics"
+                                                                                                                                                        }
+                                                                                                                                      },
+                                                                                                                       "Property":  "Total Revenue"
+                                                                                                                   }
+                                                                                                   },
+                                                                                         "queryRef":  "Analytics.Total Revenue",
+                                                                                         "nativeQueryRef":  "Total Revenue"
+                                                                                     }
+                                                                                 ]
+                                                             }
+                                                }
+                             }
+               }
+}

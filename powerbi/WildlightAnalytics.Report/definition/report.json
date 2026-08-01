@@ -1,6 +1,51 @@
 {
-  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/report/3.3.0/schema.json",
-  "themeCollection": {"baseTheme":{"name":"CY24SU06","type":"SharedResources","reportVersionAtImport":{"visual":"3.0.0","page":"3.0.0","report":"3.0.0"}}},
-  "objects": {"section":[{"properties":{"verticalAlignment":{"expr":{"Literal":{"Value":"'Top'"}}}}}]},
-  "resourcePackages": []
+    "$schema":  "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/report/3.3.0/schema.json",
+    "themeCollection":  {
+                            "baseTheme":  {
+                                              "name":  "CY24SU06",
+                                              "type":  "SharedResources",
+                                              "reportVersionAtImport":  {
+                                                                            "visual":  "3.0.0",
+                                                                            "page":  "3.0.0",
+                                                                            "report":  "3.0.0"
+                                                                        }
+                                          },
+                            "customTheme":  {
+                                                "name":  "WildlightEditorial-8f31c2a4.json",
+                                                "reportVersionAtImport":  {
+                                                                              "page":  "3.0.0",
+                                                                              "visual":  "3.0.0",
+                                                                              "report":  "3.0.0"
+                                                                          },
+                                                "type":  "RegisteredResources"
+                                            }
+                        },
+    "objects":  {
+                    "section":  [
+                                    {
+                                        "properties":  {
+                                                           "verticalAlignment":  {
+                                                                                     "expr":  {
+                                                                                                  "Literal":  {
+                                                                                                                  "Value":  "\u0027Top\u0027"
+                                                                                                              }
+                                                                                              }
+                                                                                 }
+                                                       }
+                                    }
+                                ]
+                },
+    "resourcePackages":  [
+                             {
+                                 "name":  "RegisteredResources",
+                                 "items":  [
+                                               {
+                                                   "path":  "WildlightEditorial-8f31c2a4.json",
+                                                   "name":  "WildlightEditorial-8f31c2a4.json",
+                                                   "type":  "CustomTheme"
+                                               }
+                                           ],
+                                 "type":  "RegisteredResources"
+                             }
+                         ]
 }

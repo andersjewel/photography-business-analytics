@@ -1,1 +1,61 @@
-{"$schema":"https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.9.0/schema.json","name":"c0000000000000000001","position":{"x":20,"y":40,"z":1000,"height":640,"width":1240,"tabOrder":1000},"visual":{"visualType":"clusteredColumnChart","query":{"queryState":{"Category":{"projections":[{"field":{"Column":{"Expression":{"SourceRef":{"Entity":"Analytics"}},"Property":"lead_source"}},"queryRef":"Analytics.lead_source","nativeQueryRef":"lead_source","active":true}]},"Y":{"projections":[{"field":{"Aggregation":{"Expression":{"Column":{"Expression":{"SourceRef":{"Entity":"Analytics"}},"Property":"booking_id"}},"Function":2}},"queryRef":"Count(Analytics.booking_id)","nativeQueryRef":"Count of booking_id"}]}}}}}
+{
+    "$schema":  "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.9.0/schema.json",
+    "name":  "c0000000000000000001",
+    "position":  {
+                     "width":  1032,
+                     "y":  112,
+                     "z":  100,
+                     "x":  208,
+                     "tabOrder":  100,
+                     "height":  568
+                 },
+    "visual":  {
+                   "visualType":  "clusteredColumnChart",
+                   "query":  {
+                                 "queryState":  {
+                                                    "Category":  {
+                                                                     "projections":  [
+                                                                                         {
+                                                                                             "field":  {
+                                                                                                           "Column":  {
+                                                                                                                          "Expression":  {
+                                                                                                                                             "SourceRef":  {
+                                                                                                                                                               "Entity":  "Analytics"
+                                                                                                                                                           }
+                                                                                                                                         },
+                                                                                                                          "Property":  "lead_source"
+                                                                                                                      }
+                                                                                                       },
+                                                                                             "queryRef":  "Analytics.lead_source",
+                                                                                             "nativeQueryRef":  "lead_source",
+                                                                                             "active":  true
+                                                                                         }
+                                                                                     ]
+                                                                 },
+                                                    "Y":  {
+                                                              "projections":  [
+                                                                                  {
+                                                                                      "field":  {
+                                                                                                    "Aggregation":  {
+                                                                                                                        "Expression":  {
+                                                                                                                                           "Column":  {
+                                                                                                                                                          "Expression":  {
+                                                                                                                                                                             "SourceRef":  {
+                                                                                                                                                                                               "Entity":  "Analytics"
+                                                                                                                                                                                           }
+                                                                                                                                                                         },
+                                                                                                                                                          "Property":  "booking_id"
+                                                                                                                                                      }
+                                                                                                                                       },
+                                                                                                                        "Function":  2
+                                                                                                                    }
+                                                                                                },
+                                                                                      "queryRef":  "Count(Analytics.booking_id)",
+                                                                                      "nativeQueryRef":  "Count of booking_id"
+                                                                                  }
+                                                                              ]
+                                                          }
+                                                }
+                             }
+               }
+}

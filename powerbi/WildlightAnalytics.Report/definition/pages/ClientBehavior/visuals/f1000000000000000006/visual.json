@@ -1,0 +1,100 @@
+{
+    "position":  {
+                     "width":  880,
+                     "y":  55,
+                     "z":  10,
+                     "x":  208,
+                     "tabOrder":  10,
+                     "height":  26
+                 },
+    "name":  "f1000000000000000006",
+    "$schema":  "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.9.0/schema.json",
+    "visual":  {
+                   "objects":  {
+                                   "general":  [
+                                                   {
+                                                       "properties":  {
+                                                                          "paragraphs":  [
+                                                                                             {
+                                                                                                 "horizontalTextAlignment":  "left",
+                                                                                                 "textRuns":  [
+                                                                                                                  {
+                                                                                                                      "textStyle":  {
+                                                                                                                                        "color":  "#6F756E",
+                                                                                                                                        "fontFamily":  "Segoe UI Semibold",
+                                                                                                                                        "fontSize":  "10px"
+                                                                                                                                    },
+                                                                                                                      "value":  "Service demand and client preferences across the portfolio"
+                                                                                                                  }
+                                                                                                              ]
+                                                                                             }
+                                                                                         ]
+                                                                      }
+                                                   }
+                                               ]
+                               },
+                   "visualContainerObjects":  {
+                                                  "background":  [
+                                                                     {
+                                                                         "properties":  {
+                                                                                            "show":  {
+                                                                                                         "expr":  {
+                                                                                                                      "Literal":  {
+                                                                                                                                      "Value":  "false"
+                                                                                                                                  }
+                                                                                                                  }
+                                                                                                     }
+                                                                                        }
+                                                                     }
+                                                                 ],
+                                                  "border":  [
+                                                                 {
+                                                                     "properties":  {
+                                                                                        "show":  {
+                                                                                                     "expr":  {
+                                                                                                                  "Literal":  {
+                                                                                                                                  "Value":  "false"
+                                                                                                                              }
+                                                                                                              }
+                                                                                                 }
+                                                                                    }
+                                                                 }
+                                                             ],
+                                                  "padding":  [
+                                                                  {
+                                                                      "properties":  {
+                                                                                         "left":  {
+                                                                                                      "expr":  {
+                                                                                                                   "Literal":  {
+                                                                                                                                   "Value":  "0D"
+                                                                                                                               }
+                                                                                                               }
+                                                                                                  },
+                                                                                         "right":  {
+                                                                                                       "expr":  {
+                                                                                                                    "Literal":  {
+                                                                                                                                    "Value":  "0D"
+                                                                                                                                }
+                                                                                                                }
+                                                                                                   },
+                                                                                         "bottom":  {
+                                                                                                        "expr":  {
+                                                                                                                     "Literal":  {
+                                                                                                                                     "Value":  "0D"
+                                                                                                                                 }
+                                                                                                                 }
+                                                                                                    },
+                                                                                         "top":  {
+                                                                                                     "expr":  {
+                                                                                                                  "Literal":  {
+                                                                                                                                  "Value":  "0D"
+                                                                                                                              }
+                                                                                                              }
+                                                                                                 }
+                                                                                     }
+                                                                  }
+                                                              ]
+                                              },
+                   "visualType":  "textbox"
+               }
+}

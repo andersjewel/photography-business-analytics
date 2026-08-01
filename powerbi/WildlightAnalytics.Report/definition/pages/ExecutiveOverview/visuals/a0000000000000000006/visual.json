@@ -1,0 +1,70 @@
+{
+    "$schema":  "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.9.0/schema.json",
+    "name":  "a0000000000000000006",
+    "position":  {
+                     "width":  512,
+                     "y":  298,
+                     "z":  111,
+                     "x":  728,
+                     "tabOrder":  111,
+                     "height":  382
+                 },
+    "visual":  {
+                   "visualType":  "clusteredBarChart",
+                   "query":  {
+                                 "queryState":  {
+                                                    "Category":  {
+                                                                     "projections":  [
+                                                                                         {
+                                                                                             "field":  {
+                                                                                                           "Column":  {
+                                                                                                                          "Expression":  {
+                                                                                                                                             "SourceRef":  {
+                                                                                                                                                               "Entity":  "Analytics"
+                                                                                                                                                           }
+                                                                                                                                         },
+                                                                                                                          "Property":  "package_name"
+                                                                                                                      }
+                                                                                                       },
+                                                                                             "queryRef":  "Analytics.package_name",
+                                                                                             "nativeQueryRef":  "package_name",
+                                                                                             "active":  true
+                                                                                         }
+                                                                                     ]
+                                                                 },
+                                                    "Y":  {
+                                                              "projections":  [
+                                                                                  {
+                                                                                      "field":  {
+                                                                                                    "Measure":  {
+                                                                                                                    "Expression":  {
+                                                                                                                                       "SourceRef":  {
+                                                                                                                                                         "Entity":  "Analytics"
+                                                                                                                                                     }
+                                                                                                                                   },
+                                                                                                                    "Property":  "Total Revenue"
+                                                                                                                }
+                                                                                                },
+                                                                                      "queryRef":  "Analytics.Total Revenue",
+                                                                                      "nativeQueryRef":  "Total Revenue"
+                                                                                  },
+                                                                                  {
+                                                                                      "field":  {
+                                                                                                    "Measure":  {
+                                                                                                                    "Expression":  {
+                                                                                                                                       "SourceRef":  {
+                                                                                                                                                         "Entity":  "Analytics"
+                                                                                                                                                     }
+                                                                                                                                   },
+                                                                                                                    "Property":  "Gross Profit"
+                                                                                                                }
+                                                                                                },
+                                                                                      "queryRef":  "Analytics.Gross Profit",
+                                                                                      "nativeQueryRef":  "Gross Profit"
+                                                                                  }
+                                                                              ]
+                                                          }
+                                                }
+                             }
+               }
+}

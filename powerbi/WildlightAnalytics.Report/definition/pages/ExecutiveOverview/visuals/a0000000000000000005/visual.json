@@ -1,1 +1,56 @@
-{"$schema":"https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.9.0/schema.json","name":"a0000000000000000005","position":{"x":20,"y":160,"z":5000,"height":520,"width":1240,"tabOrder":5000},"visual":{"visualType":"lineChart","query":{"queryState":{"Category":{"projections":[{"field":{"Column":{"Expression":{"SourceRef":{"Entity":"Analytics"}},"Property":"month"}},"queryRef":"Analytics.month","nativeQueryRef":"month","active":true}]},"Y":{"projections":[{"field":{"Measure":{"Expression":{"SourceRef":{"Entity":"Analytics"}},"Property":"Total Revenue"}},"queryRef":"Analytics.Total Revenue","nativeQueryRef":"Total Revenue"}]}}}}}
+{
+    "$schema":  "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.9.0/schema.json",
+    "name":  "a0000000000000000005",
+    "position":  {
+                     "width":  500,
+                     "y":  298,
+                     "z":  110,
+                     "x":  208,
+                     "tabOrder":  110,
+                     "height":  382
+                 },
+    "visual":  {
+                   "visualType":  "lineChart",
+                   "query":  {
+                                 "queryState":  {
+                                                    "Category":  {
+                                                                     "projections":  [
+                                                                                         {
+                                                                                             "field":  {
+                                                                                                           "Column":  {
+                                                                                                                          "Expression":  {
+                                                                                                                                             "SourceRef":  {
+                                                                                                                                                               "Entity":  "Analytics"
+                                                                                                                                                           }
+                                                                                                                                         },
+                                                                                                                          "Property":  "month"
+                                                                                                                      }
+                                                                                                       },
+                                                                                             "queryRef":  "Analytics.month",
+                                                                                             "nativeQueryRef":  "month",
+                                                                                             "active":  true
+                                                                                         }
+                                                                                     ]
+                                                                 },
+                                                    "Y":  {
+                                                              "projections":  [
+                                                                                  {
+                                                                                      "field":  {
+                                                                                                    "Measure":  {
+                                                                                                                    "Expression":  {
+                                                                                                                                       "SourceRef":  {
+                                                                                                                                                         "Entity":  "Analytics"
+                                                                                                                                                     }
+                                                                                                                                   },
+                                                                                                                    "Property":  "Total Revenue"
+                                                                                                                }
+                                                                                                },
+                                                                                      "queryRef":  "Analytics.Total Revenue",
+                                                                                      "nativeQueryRef":  "Total Revenue"
+                                                                                  }
+                                                                              ]
+                                                          }
+                                                }
+                             }
+               }
+}

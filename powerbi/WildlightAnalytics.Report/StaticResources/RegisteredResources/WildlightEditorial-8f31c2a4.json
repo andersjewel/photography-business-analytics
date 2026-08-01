@@ -1,0 +1,95 @@
+{
+    "neutral":  "#D6A84B",
+    "background":  "#FFFDF8",
+    "foregroundNeutralTertiary":  "#9AA09A",
+    "foreground":  "#183A37",
+    "textClasses":  {
+                        "label":  {
+                                      "color":  "#6F756E",
+                                      "fontFace":  "Segoe UI",
+                                      "fontSize":  10
+                                  },
+                        "title":  {
+                                      "color":  "#183A37",
+                                      "fontFace":  "Segoe UI Semibold",
+                                      "fontSize":  13
+                                  },
+                        "callout":  {
+                                        "color":  "#183A37",
+                                        "fontFace":  "Segoe UI Semibold",
+                                        "fontSize":  30
+                                    },
+                        "header":  {
+                                       "color":  "#183A37",
+                                       "fontFace":  "Segoe UI Semibold",
+                                       "fontSize":  11
+                                   }
+                    },
+    "visualStyles":  {
+                         "*":  {
+                                   "*":  {
+                                             "title":  [
+                                                           {
+                                                               "fontSize":  12,
+                                                               "fontColor":  {
+                                                                                 "solid":  {
+                                                                                               "color":  "#183A37"
+                                                                                           }
+                                                                             },
+                                                               "fontFamily":  "Segoe UI Semibold",
+                                                               "alignment":  "left",
+                                                               "show":  true
+                                                           }
+                                                       ],
+                                             "background":  [
+                                                                {
+                                                                    "color":  {
+                                                                                  "solid":  {
+                                                                                                "color":  "#FFFDF8"
+                                                                                            }
+                                                                              },
+                                                                    "transparency":  0,
+                                                                    "show":  true
+                                                                }
+                                                            ],
+                                             "visualHeader":  [
+                                                                  {
+                                                                      "show":  false
+                                                                  }
+                                                              ],
+                                             "border":  [
+                                                            {
+                                                                "radius":  8,
+                                                                "color":  {
+                                                                              "solid":  {
+                                                                                            "color":  "#DED4C6"
+                                                                                        }
+                                                                          },
+                                                                "show":  true
+                                                            }
+                                                        ]
+                                         }
+                               }
+                     },
+    "minimum":  "#E8DDD0",
+    "foregroundNeutralSecondary":  "#6F756E",
+    "tableAccent":  "#C66A4A",
+    "null":  "#B7A99A",
+    "maximum":  "#183A37",
+    "backgroundLight":  "#E8DDD0",
+    "good":  "#3F7D67",
+    "name":  "WildlightEditorial-8f31c2a4.json",
+    "center":  "#D6A84B",
+    "dataColors":  [
+                       "#C66A4A",
+                       "#183A37",
+                       "#D6A84B",
+                       "#6E8B84",
+                       "#A94F3B",
+                       "#7A6A58",
+                       "#B5C5BE",
+                       "#E3B8A6"
+                   ],
+    "bad":  "#A94F3B",
+    "backgroundNeutral":  "#F7F2E8"
+}
