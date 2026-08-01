@@ -1,65 +1,143 @@
-# Photography Business Analytics and Operations Dashboard
+# Photography Business Analytics & Operations Dashboard
 
-> **Independent portfolio case study using synthetic data inspired by common photography-business workflows.**
+### Turning disconnected booking, marketing, and payment records into a decision-ready reporting system
 
-> “This independent portfolio project uses entirely synthetic data. It was created to demonstrate analytical, technical, documentation, and process-improvement skills commonly used in small-business analytics. It does not contain data from any real employer, client, or individual.”
+[![Python](https://img.shields.io/badge/Python-Data%20Pipeline-3776AB?logo=python&logoColor=white)](python/)
+[![SQL](https://img.shields.io/badge/SQL-SQLite%20Analysis-336791?logo=sqlite&logoColor=white)](sql/)
+[![R](https://img.shields.io/badge/R-Reproducible%20Report-276DC3?logo=r&logoColor=white)](r/photography_business_findings.Rmd)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Interactive%20Project-F2C811?logo=powerbi&logoColor=black)](powerbi/WildlightAnalytics.pbip)
+[![Tableau](https://img.shields.io/badge/Tableau-Packaged%20Workbook-E97627?logo=tableau&logoColor=white)](tableau/Wildlight_Analytics.twbx)
+[![Excel](https://img.shields.io/badge/Excel-Executive%20Workbook-217346?logo=microsoftexcel&logoColor=white)](excel/photography_business_analysis.xlsx)
 
-## Overview
+> **This independent portfolio project uses entirely synthetic data. It was created to demonstrate analytical, technical, documentation, and process-improvement skills commonly used in small-business analytics. It does not contain data from any real employer, client, or individual.**
 
-Wildlight Portrait Studio is a fictional photography business with booking, revenue, marketing, and payment information spread across disconnected files. This case study builds a clean reporting system and identifies opportunities to improve revenue, marketing efficiency, client retention, payment follow-up, and administrative workflows. The solution combines SQL, Python, R, Excel, Power BI planning, Tableau planning, and project-coordination documentation.
+## Project at a glance
 
-![Dashboard preview](visuals/dashboard_preview.png)
+Wildlight Portrait Studio is a fictional photography business whose lead, booking, session, payment, and expense records were spread across disconnected files. The goal was to create one reliable reporting system that could answer four practical questions:
 
-## Business problem and questions
+- Where is revenue and profit coming from?
+- Which marketing channels produce valuable bookings?
+- Where are clients dropping out or leaving balances unpaid?
+- Which workflow improvements could reduce administrative effort?
 
-The analysis evaluates package and service profitability, channel bookings and conversion, repeat behavior, booking value, cancellations and reschedules, seasonality, lead response and booking lag, outstanding balances, workflow bottlenecks, marketing allocation, and a simple revenue forecast. Definitions live in [`project_plan/data_dictionary.md`](project_plan/data_dictionary.md); the complete answers are in [`reports/findings.md`](reports/findings.md).
+I designed the synthetic data, introduced realistic quality problems, built a repeatable cleaning and validation pipeline, modeled the business in SQL, analyzed it in Python and R, and translated the results into Excel, Power BI, and Tableau deliverables.
 
-## Tools and analytical workflow
+![Wildlight Portrait Studio dashboard](visuals/dashboard_preview.png)
 
-Python (pandas, NumPy, matplotlib, scikit-learn, sqlite3) generates and cleans the data, loads SQLite, calculates KPIs, produces separate charts, and exports dashboard tables. SQL demonstrates normalized design, constraints, CTEs, joins, windows, CASE-ready business logic, data-quality checks, and views. R independently validates revenue, segmentation, repeat behavior, and service comparisons. Excel provides nine usable tabs with formatted tables, filters, formulas/summary logic, conditional formatting, and native charts. Power BI and Tableau guides translate the same definitions into proposed dashboards.
+## Executive findings
 
-`synthetic raw CSVs → validation/cleaning → normalized SQLite + booking-grain analytics → Python/R analysis → Excel and interactive BI project outputs → recommendations`
+| Business measure | Result | Why it matters |
+|---|---:|---|
+| Cash revenue | **$638,507** | Establishes the revenue baseline for the two-year synthetic period |
+| Gross profit | **$460,887** | Indicates strong modeled contribution after operating expenses |
+| Profit margin | **72.2%** | Supports package and service profitability comparisons |
+| Average booking value | **$857** | Provides a benchmark for pricing and sales-mix decisions |
+| Lead-to-booking conversion | **50.0%** | Measures how efficiently inquiries become bookings |
+| Repeat-client rate | **33.1%** | Shows meaningful retention opportunity |
+| Cancellation / rescheduling | **7.7% / 8.9%** | Identifies avoidable operational friction |
+| Outstanding balance | **$132,583** | Highlights the need for stronger payment follow-up |
+| Average first response | **36.7 hours** | Suggests that a one-business-day response target could help |
+| Session completion rate | **78.0%** | Surfaces booking-to-session workflow exceptions |
 
-## Interactive dashboard deliverables
+### What the analysis suggests
 
-- **Power BI:** open [`powerbi/WildlightAnalytics.pbip`](powerbi/WildlightAnalytics.pbip) in Power BI Desktop. The validated PBIP/PBIR project contains a Web-connected semantic model, canonical DAX measures, five report pages, KPI cards, a revenue trend, and data-bound package, source, client, and payment visuals.
-- **Tableau:** open [`tableau/Wildlight_Analytics.twbx`](tableau/Wildlight_Analytics.twbx) in Tableau Desktop or Tableau Public. The packaged workbook contains its synthetic CSV data, four worksheets, calculated fields, and an executive dashboard.
-- **R Markdown:** open the rendered [`r/photography_business_findings.html`](r/photography_business_findings.html) or rerun [`r/photography_business_findings.Rmd`](r/photography_business_findings.Rmd). The report includes reproducible KPI calculations, six analytical graphics, findings, recommendations, and limitations.
+- **Wedding Collection is the strongest package**, generating approximately $306K in revenue and $171K in modeled gross profit.
+- **Instagram generates the most attributed bookings and revenue**, with Google Search and Referral forming the next-highest-volume group.
+- **Demand is seasonal.** October–November family and mini sessions and April–May graduation demand create clear capacity-planning windows; January is consistently softer.
+- **Operational follow-up is the clearest improvement opportunity.** Slow first responses, partial payments, reschedules, and incomplete session records create avoidable administrative work.
+- A fictional studio could test a **24-business-hour response SLA, required deposits, automated reminders, and daily exception queues** before investing in additional lead volume.
 
-## Key results from the generated dataset
+These findings describe a synthetic scenario. They are analytical recommendations, not claims about changes implemented by a real organization.
 
-| KPI | Result |
-|---|---:|
-| Revenue | $638,507 |
-| Expenses | $177,620 |
-| Gross profit | $460,887 |
-| Profit margin | 72.2% |
-| Average booking value | $857 |
-| Lead-to-booking conversion | 50.0% |
-| Repeat-client rate | 33.1% |
-| Cancellation / rescheduling | 7.7% / 8.9% |
-| Outstanding balance | $132,583 |
-| Avg. response / inquiry-to-booking | 36.7 hours / 12.3 days |
-| Session completion | 78.0% |
+## Deliverables
 
-The synthetic dataset indicates that Wedding Collection leads revenue and modeled gross profit. Instagram contributes the most attributed bookings; Search and Referral are the next-largest sources. October–November and graduation season show demand spikes, while January is consistently softer. The analysis suggests tightening response SLAs and automating balance follow-up before pursuing additional volume.
+| Deliverable | What it contains | Open it |
+|---|---|---|
+| Power BI project | Five pages, canonical DAX measures, KPI cards, revenue trend, and package, marketing, client, and payment visuals | [`WildlightAnalytics.pbip`](powerbi/WildlightAnalytics.pbip) |
+| Tableau workbook | Packaged data, four analytical worksheets, calculated fields, and an executive dashboard | [`Wildlight_Analytics.twbx`](tableau/Wildlight_Analytics.twbx) |
+| Excel workbook | Nine formatted sheets, filters, KPI summaries, conditional formatting, exception reporting, and native charts | [`photography_business_analysis.xlsx`](excel/photography_business_analysis.xlsx) |
+| R Markdown report | Reproducible calculations, six graphics, interpretation, recommendations, and limitations | [`HTML report`](r/photography_business_findings.html) · [`Rmd source`](r/photography_business_findings.Rmd) |
+| SQL analysis | Normalized schema, constraints, quality checks, business queries, CTEs, windows, and reusable views | [`sql/`](sql/) |
+| Project documentation | Charter, requirements, stakeholder matrix, risks, data dictionary, process plan, and lessons learned | [`project_plan/`](project_plan/) |
 
-## Repository map
+## From raw files to recommendations
 
-- `data/`: seven raw files, cleaned tables, analytics extracts, and reproducible generator
-- `sql/`: schema, loading notes, QA, exploratory/business queries, and reusable views
-- `python/` and `r/`: cleaning, analysis, charts, forecast, validation, and segmentation
-- `excel/`: professional workbook and build/use instructions
-- `powerbi/` and `tableau/`: data-model, measure, calculated-field, layout, and drill guidance
-- `project_plan/`: charter, stakeholders, requirements, risks, dictionary, and lessons learned
-- `reports/`, `visuals/`, `tests/`: decision narrative, screenshots, and metric/data tests
+```text
+Synthetic source data
+        ↓
+Data-quality profiling and cleaning
+        ↓
+Normalized SQLite model + booking-level analytics table
+        ↓
+SQL, Python, and R analysis
+        ↓
+Excel, Power BI, Tableau, and R Markdown reporting
+        ↓
+Executive findings and process-improvement recommendations
+```
 
-## Run locally
+### 1. Build realistic synthetic data
+
+The generator creates two years of activity across clients, leads, bookings, sessions, packages, payments, and expenses. Seasonality reflects common portrait-business patterns such as graduation demand, holiday family sessions, wedding seasons, mini-session promotions, and softer January demand.
+
+### 2. Detect and resolve data-quality issues
+
+The raw files deliberately include duplicate clients, missing phone numbers, invalid emails, inconsistent date formats, source-name misspellings, blank package labels, negative payments, partial payments, cancellations, reschedules, late payments, and bookings without completed sessions.
+
+The cleaning pipeline standardizes valid values while retaining legitimate business exceptions for analysis. A machine-readable quality report records the corrections made.
+
+### 3. Define one source of truth
+
+The normalized SQLite design separates clients, leads, bookings, sessions, packages, payments, and expenses. A booking-grain analytics table then provides consistent definitions for revenue, gross profit, balances, response time, inquiry-to-booking time, and completion status.
+
+### 4. Analyze and communicate
+
+- **SQL** answers operational and financial questions with joins, aggregations, CTEs, window functions, date logic, and reusable views.
+- **Python** runs the core pipeline, produces charts and dashboard extracts, and generates a simple seasonal-trend forecast.
+- **R** independently validates the analysis and presents findings through a reproducible R Markdown report.
+- **Excel, Power BI, and Tableau** translate the same canonical metrics into stakeholder-friendly reporting tools.
+
+## Dashboard views
+
+### Revenue seasonality
+
+![Monthly revenue analysis](visuals/monthly_revenue.png)
+
+### Package performance
+
+![Package revenue and profit analysis](visuals/package_performance.png)
+
+### Marketing-source performance
+
+![Lead source analysis](visuals/lead_source_performance.png)
+
+## Repository structure
+
+```text
+photography-business-analytics/
+├── data/           Synthetic raw data, cleaned data, and dashboard extracts
+├── sql/            Schema, quality checks, business queries, and views
+├── python/         Generation, cleaning, analysis, forecasting, and exports
+├── r/              R analysis plus rendered R Markdown findings report
+├── excel/          Executive analysis workbook
+├── powerbi/        Validated PBIP/PBIR/TMDL project and DAX documentation
+├── tableau/        Packaged Tableau workbook and build documentation
+├── project_plan/   Charter, requirements, stakeholders, risks, and dictionary
+├── reports/        Executive summary, findings, and recommendations
+├── visuals/        Dashboard and analytical previews
+└── tests/          Data-generation, cleaning, and KPI checks
+```
+
+## Run the project
 
 ```powershell
+git clone https://github.com/andersjewel/photography-business-analytics.git
+cd photography-business-analytics
+
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 python -m pip install -r requirements.txt
+
 python data\synthetic_data_generation\generate_data.py
 python python\data_cleaning.py
 python python\business_analysis.py
@@ -69,12 +147,19 @@ python python\export_dashboard_data.py
 python -m pytest -q
 ```
 
-The Excel workbook and rendered R Markdown report are usable without running code. Power BI uses Microsoft's source-controlled PBIP/PBIR/TMDL format rather than an opaque `.pbix`; Tableau is supplied as a packaged `.twbx` workbook.
+The Excel workbook and rendered R report can be reviewed without running code. Power BI Desktop is required for the `.pbip` project; Tableau Desktop or Tableau Public can open the packaged `.twbx` workbook.
 
 ## Skills demonstrated
 
-Synthetic data design, data-quality controls, relational modeling, SQL analysis, Python/R analytics, forecasting, Excel reporting, BI requirements, KPI governance, business storytelling, risk management, and process improvement.
+`Data cleaning` · `SQL` · `Python` · `R` · `Excel` · `Power BI` · `Tableau` · `SQLite` · `Data modeling` · `KPI design` · `Forecasting` · `Business analysis` · `Process improvement` · `Requirements gathering` · `Project coordination` · `Executive communication`
 
-## Limitations and future improvements
+## Limitations and next steps
 
-This is synthetic booking-grain data with simplified attribution and modeled package costs. Two years are not enough for high-confidence forecasting, and package variable costs do not constitute full job costing. Future work could add campaign spend, labor hours, payment fees, capacity, reason codes, multi-touch attribution, confidence intervals, and automated BI refreshes. No recommendation is claimed to have been implemented by a real company.
+- The data is synthetic and uses simplified, single-touch marketing attribution.
+- Package variable costs are suitable for comparative analysis but do not represent complete job costing.
+- Two years of history support a directional forecast, not a high-confidence production model.
+- A future version could add campaign spend, labor hours, payment fees, capacity constraints, reason codes, multi-touch attribution, and automated dashboard refreshes.
+
+---
+
+**Independent portfolio case study by [Anders Jewel](https://github.com/andersjewel).**
