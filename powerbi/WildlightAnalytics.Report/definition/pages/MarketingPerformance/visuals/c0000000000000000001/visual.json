@@ -1,14 +1,14 @@
 {
-    "$schema":  "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.9.0/schema.json",
-    "name":  "c0000000000000000001",
     "position":  {
-                     "width":  1032,
-                     "y":  112,
+                     "width":  504,
+                     "y":  198,
                      "z":  100,
                      "x":  208,
                      "tabOrder":  100,
-                     "height":  568
+                     "height":  218
                  },
+    "name":  "c0000000000000000001",
+    "$schema":  "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.9.0/schema.json",
     "visual":  {
                    "visualType":  "clusteredColumnChart",
                    "query":  {
@@ -26,9 +26,9 @@
                                                                                                                           "Property":  "lead_source"
                                                                                                                       }
                                                                                                        },
-                                                                                             "queryRef":  "Analytics.lead_source",
                                                                                              "nativeQueryRef":  "lead_source",
-                                                                                             "active":  true
+                                                                                             "active":  true,
+                                                                                             "queryRef":  "Analytics.lead_source"
                                                                                          }
                                                                                      ]
                                                                  },
@@ -37,6 +37,7 @@
                                                                                   {
                                                                                       "field":  {
                                                                                                     "Aggregation":  {
+                                                                                                                        "Function":  2,
                                                                                                                         "Expression":  {
                                                                                                                                            "Column":  {
                                                                                                                                                           "Expression":  {
@@ -44,14 +45,51 @@
                                                                                                                                                                                                "Entity":  "Analytics"
                                                                                                                                                                                            }
                                                                                                                                                                          },
-                                                                                                                                                          "Property":  "booking_id"
+                                                                                                                                                          "Property":  "o"
                                                                                                                                                       }
-                                                                                                                                       },
-                                                                                                                        "Function":  2
+                                                                                                                                       }
                                                                                                                     }
                                                                                                 },
-                                                                                      "queryRef":  "Count(Analytics.booking_id)",
-                                                                                      "nativeQueryRef":  "Count of booking_id"
+                                                                                      "nativeQueryRef":  "u",
+                                                                                      "queryRef":  "Count(Analytics.o)"
+                                                                                  },
+                                                                                  {
+                                                                                      "field":  {
+                                                                                                    "Aggregation":  {
+                                                                                                                        "Function":  2,
+                                                                                                                        "Expression":  {
+                                                                                                                                           "Column":  {
+                                                                                                                                                          "Expression":  {
+                                                                                                                                                                             "SourceRef":  {
+                                                                                                                                                                                               "Entity":  "Analytics"
+                                                                                                                                                                                           }
+                                                                                                                                                                         },
+                                                                                                                                                          "Property":  "o"
+                                                                                                                                                      }
+                                                                                                                                       }
+                                                                                                                    }
+                                                                                                },
+                                                                                      "nativeQueryRef":  "o",
+                                                                                      "queryRef":  "Count(Analytics.o)"
+                                                                                  },
+                                                                                  {
+                                                                                      "field":  {
+                                                                                                    "Aggregation":  {
+                                                                                                                        "Function":  2,
+                                                                                                                        "Expression":  {
+                                                                                                                                           "Column":  {
+                                                                                                                                                          "Expression":  {
+                                                                                                                                                                             "SourceRef":  {
+                                                                                                                                                                                               "Entity":  "Analytics"
+                                                                                                                                                                                           }
+                                                                                                                                                                         },
+                                                                                                                                                          "Property":  "o"
+                                                                                                                                                      }
+                                                                                                                                       }
+                                                                                                                    }
+                                                                                                },
+                                                                                      "nativeQueryRef":  "o",
+                                                                                      "queryRef":  "Count(Analytics.o)"
                                                                                   }
                                                                               ]
                                                           }

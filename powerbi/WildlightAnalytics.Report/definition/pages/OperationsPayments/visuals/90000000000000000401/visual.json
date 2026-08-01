@@ -1,16 +1,16 @@
 {
     "position":  {
-                     "width":  504,
+                     "width":  512,
                      "y":  198,
                      "z":  100,
-                     "x":  208,
+                     "x":  728,
                      "tabOrder":  100,
                      "height":  218
                  },
-    "name":  "e0000000000000000001",
+    "name":  "90000000000000000401",
     "$schema":  "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.9.0/schema.json",
     "visual":  {
-                   "visualType":  "clusteredBarChart",
+                   "visualType":  "clusteredColumnChart",
                    "query":  {
                                  "queryState":  {
                                                     "Category":  {
@@ -45,13 +45,13 @@
                                                                                                                                                                                                "Entity":  "Analytics"
                                                                                                                                                                                            }
                                                                                                                                                                          },
-                                                                                                                                                          "Property":  "e"
+                                                                                                                                                          "Property":  "o"
                                                                                                                                                       }
                                                                                                                                        }
                                                                                                                     }
                                                                                                 },
-                                                                                      "nativeQueryRef":  "a",
-                                                                                      "queryRef":  "Count(Analytics.e)"
+                                                                                      "nativeQueryRef":  "u",
+                                                                                      "queryRef":  "Count(Analytics.o)"
                                                                                   },
                                                                                   {
                                                                                       "field":  {
@@ -64,13 +64,13 @@
                                                                                                                                                                                                "Entity":  "Analytics"
                                                                                                                                                                                            }
                                                                                                                                                                          },
-                                                                                                                                                          "Property":  "u"
+                                                                                                                                                          "Property":  "o"
                                                                                                                                                       }
                                                                                                                                        }
                                                                                                                     }
                                                                                                 },
-                                                                                      "nativeQueryRef":  "t",
-                                                                                      "queryRef":  "Count(Analytics.u)"
+                                                                                      "nativeQueryRef":  "o",
+                                                                                      "queryRef":  "Count(Analytics.o)"
                                                                                   },
                                                                                   {
                                                                                       "field":  {
@@ -83,13 +83,13 @@
                                                                                                                                                                                                "Entity":  "Analytics"
                                                                                                                                                                                            }
                                                                                                                                                                          },
-                                                                                                                                                          "Property":  "u"
+                                                                                                                                                          "Property":  "o"
                                                                                                                                                       }
                                                                                                                                        }
                                                                                                                     }
                                                                                                 },
-                                                                                      "nativeQueryRef":  "t",
-                                                                                      "queryRef":  "Count(Analytics.u)"
+                                                                                      "nativeQueryRef":  "o",
+                                                                                      "queryRef":  "Count(Analytics.o)"
                                                                                   }
                                                                               ]
                                                           }

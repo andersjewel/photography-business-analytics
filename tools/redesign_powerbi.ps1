@@ -35,6 +35,37 @@ function New-Slicer($id,$x,$label,$column) {
     $vco=@{padding=@(@{properties=@{top=(Lit '8D');bottom=(Lit '8D');left=(Lit '8D');right=(Lit '8D')}})}
     return @{'$schema'=$visualSchema;name=$id;position=(New-Position $x 82 80 80 246 80);visual=@{visualType='slicer';query=$query;objects=$objects;visualContainerObjects=$vco}}
 }
+function New-FieldProjection([string]$kind,[string]$property,[string]$label) {
+    if($kind -eq 'measure') {
+        return @{field=@{Measure=@{Expression=@{SourceRef=@{Entity='Analytics'}};Property=$property}};queryRef="Analytics.$property";nativeQueryRef=$label}
+    }
+    if($kind -eq 'average') {
+        return @{field=@{Aggregation=@{Expression=@{Column=@{Expression=@{SourceRef=@{Entity='Analytics'}};Property=$property}};Function=1}};queryRef="Average(Analytics.$property)";nativeQueryRef=$label}
+    }
+    return @{field=@{Aggregation=@{Expression=@{Column=@{Expression=@{SourceRef=@{Entity='Analytics'}};Property=$property}};Function=2}};queryRef="Count(Analytics.$property)";nativeQueryRef=$label}
+}
+function New-Chart($id,$type,$x,$y,$w,$h,$category,$series) {
+    $categoryProjection=@{field=@{Column=@{Expression=@{SourceRef=@{Entity='Analytics'}};Property=$category}};queryRef="Analytics.$category";nativeQueryRef=$category;active=$true}
+    $values=@()
+    foreach($item in $series){$values += New-FieldProjection $item[0] $item[1] $item[2]}
+    $query=@{queryState=@{Category=@{projections=@($categoryProjection)};Y=@{projections=$values}}}
+    return @{'$schema'=$visualSchema;name=$id;position=(New-Position $x $y 100 $h $w 100);visual=@{visualType=$type;query=$query}}
+}
+function Add-PageSlicers([string]$page) {
+    $v=Join-Path $definition "pages\$page\visuals"
+    $items=@(
+        (New-Slicer '90000000000000000011' 208 'Month' 'month'),
+        (New-Slicer '90000000000000000012' 472 'Service' 'service_category'),
+        (New-Slicer '90000000000000000013' 736 'Lead source' 'lead_source'),
+        (New-Slicer '90000000000000000014' 1000 'Booking status' 'booking_status')
+    )
+    foreach($item in $items){Save-Json $item (Join-Path $v "$($item.name)\visual.json")}
+}
+function Add-ChartTitle([string]$page,[string]$id,[int]$x,[int]$y,[int]$w,[string]$title) {
+    $v=Join-Path $definition "pages\$page\visuals"
+    $item=New-Text $id $x $y 120 24 $w $title 12 '#183A37'
+    Save-Json $item (Join-Path $v "$id\visual.json")
+}
 function Add-Chrome([string]$page,[string]$title,[string]$subtitle,[int]$active) {
     $v = Join-Path $definition "pages\$page\visuals"
     $items = @(
@@ -88,6 +119,7 @@ Add-Chrome 'SalesRevenue' 'Sales & Revenue' 'Package performance and the mix of 
 Add-Chrome 'MarketingPerformance' 'Marketing Performance' 'Booking volume and acquisition effectiveness by lead source' 2
 Add-Chrome 'ClientBehavior' 'Client Behavior' 'Service demand and client preferences across the portfolio' 3
 Add-Chrome 'OperationsPayments' 'Operations & Payments' 'Outstanding balances and workflow status requiring attention' 4
+foreach($page in @('SalesRevenue','MarketingPerformance','ClientBehavior','OperationsPayments')){Add-PageSlicers $page}
 
 $exec=Join-Path $definition 'pages\ExecutiveOverview\visuals'
 $cardPositions=@(@(208,176),@(472,176),@(736,176),@(1000,176))
@@ -111,10 +143,36 @@ $slicers=@(
 )
 foreach($s in $slicers){Save-Json $s (Join-Path $exec "$($s.name)\visual.json")}
 
-$singlePages=@('SalesRevenue','MarketingPerformance','ClientBehavior','OperationsPayments')
-foreach($page in $singlePages){
-    $file=Get-ChildItem (Join-Path $definition "pages\$page\visuals") -Recurse -Filter visual.json | Where-Object {$_.Directory.Name -notlike 'f1*'} | Select-Object -First 1
-    $j=Get-Content $file.FullName -Raw|ConvertFrom-Json
-    $j.position=[pscustomobject](New-Position 208 112 100 568 1032 100)
-    Save-Json $j $file.FullName
+$pageCharts=@{
+    SalesRevenue=@(
+        @('b0000000000000000001','clusteredColumnChart',208,198,504,218,'package_name',@(@('measure','Total Revenue','Revenue'),@('measure','Gross Profit','Gross Profit')),'Revenue and Profit by Package'),
+        @('90000000000000000101','lineChart',728,198,512,218,'month',@(@('measure','Total Revenue','Revenue')),'Monthly Revenue Trend'),
+        @('90000000000000000102','clusteredBarChart',208,466,1032,214,'booking_status',@(@('measure','Total Revenue','Revenue')),'Revenue by Booking Status')
+    )
+    MarketingPerformance=@(
+        @('c0000000000000000001','clusteredColumnChart',208,198,504,218,'lead_source',@(@('count','booking_id','Bookings')),'Bookings by Lead Source'),
+        @('90000000000000000201','clusteredBarChart',728,198,512,218,'lead_source',@(@('measure','Total Revenue','Revenue')),'Revenue by Lead Source'),
+        @('90000000000000000202','clusteredBarChart',208,466,1032,214,'lead_source',@(@('average','response_hours','Average Response Hours')),'Average Response Time by Lead Source')
+    )
+    ClientBehavior=@(
+        @('d0000000000000000001','clusteredBarChart',208,198,504,218,'service_category',@(@('count','client_id','Clients')),'Client Demand by Service'),
+        @('90000000000000000301','clusteredColumnChart',728,198,512,218,'service_category',@(@('measure','Total Revenue','Revenue'),@('measure','Gross Profit','Gross Profit')),'Revenue and Profit by Service'),
+        @('90000000000000000302','clusteredBarChart',208,466,1032,214,'package_name',@(@('measure','Average Booking Value','Average Booking Value')),'Average Booking Value by Package')
+    )
+    OperationsPayments=@(
+        @('e0000000000000000001','clusteredBarChart',208,198,504,218,'booking_status',@(@('measure','Outstanding Balance','Outstanding Balance')),'Outstanding Balance by Status'),
+        @('90000000000000000401','clusteredColumnChart',728,198,512,218,'booking_status',@(@('count','booking_id','Bookings')),'Booking Volume by Status'),
+        @('90000000000000000402','clusteredBarChart',208,466,1032,214,'lead_source',@(@('measure','Outstanding Balance','Outstanding Balance')),'Outstanding Balance by Lead Source')
+    )
+}
+$titleIds=@('90000000000000000901','90000000000000000902','90000000000000000903')
+foreach($page in $pageCharts.Keys){
+    $v=Join-Path $definition "pages\$page\visuals";$index=0
+    foreach($spec in $pageCharts[$page]){
+        $chart=New-Chart $spec[0] $spec[1] $spec[2] $spec[3] $spec[4] $spec[5] $spec[6] $spec[7]
+        Save-Json $chart (Join-Path $v "$($chart.name)\visual.json")
+        $titleY=if($index -lt 2){170}else{438}
+        Add-ChartTitle $page $titleIds[$index] $spec[2] $titleY $spec[4] $spec[8]
+        $index++
+    }
 }

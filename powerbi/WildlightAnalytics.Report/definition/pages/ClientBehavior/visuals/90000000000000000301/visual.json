@@ -1,13 +1,13 @@
 {
     "position":  {
-                     "width":  504,
+                     "width":  512,
                      "y":  198,
                      "z":  100,
-                     "x":  208,
+                     "x":  728,
                      "tabOrder":  100,
                      "height":  218
                  },
-    "name":  "b0000000000000000001",
+    "name":  "90000000000000000301",
     "$schema":  "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.9.0/schema.json",
     "visual":  {
                    "visualType":  "clusteredColumnChart",
@@ -23,12 +23,12 @@
                                                                                                                                                                "Entity":  "Analytics"
                                                                                                                                                            }
                                                                                                                                          },
-                                                                                                                          "Property":  "package_name"
+                                                                                                                          "Property":  "service_category"
                                                                                                                       }
                                                                                                        },
-                                                                                             "nativeQueryRef":  "package_name",
+                                                                                             "nativeQueryRef":  "service_category",
                                                                                              "active":  true,
-                                                                                             "queryRef":  "Analytics.package_name"
+                                                                                             "queryRef":  "Analytics.service_category"
                                                                                          }
                                                                                      ]
                                                                  },
