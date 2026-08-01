@@ -1,0 +1,901 @@
+booking_id,lead_id,client_id,package_id,package_name,service_category,booking_date,session_date,booking_status,booking_value
+1,1082,991,5,Brand Builder,Branding/headshots,2025-10-28,2026-02-02,completed,781.27
+2,150,686,5,Brand Builder,Branding/headshots,2025-04-12,2025-04-21,completed,768.73
+3,1158,1066,1,Mini Moment,Mini sessions,2024-09-14,2024-10-15,completed,223.55
+4,103,985,3,Signature Story,Couples,2024-04-29,2024-07-08,rescheduled,695.62
+5,1717,100,4,Milestone,Graduation,2025-07-19,2025-09-15,rescheduled,559.32
+6,301,70,2,Essential Portrait,Newborn,2024-02-28,2024-06-21,completed,498.25
+7,1010,180,5,Brand Builder,Branding/headshots,2025-05-19,2025-06-16,completed,859.01
+8,889,789,2,Essential Portrait,Family portraits,2025-09-24,2025-11-14,cancelled,487.17
+9,1706,513,2,Essential Portrait,Newborn,2025-07-28,2025-11-08,rescheduled,496.35
+10,770,440,4,Milestone,Graduation,2024-11-06,2025-01-31,cancelled,493.63
+11,460,44,5,Brand Builder,Branding/headshots,2025-11-11,2025-12-29,completed,793.73
+12,1788,185,4,Milestone,Graduation,2024-11-21,2025-01-20,completed,522.63
+13,1632,119,4,Milestone,Graduation,2024-12-28,2025-04-07,completed,560.59
+14,1212,721,4,Milestone,Graduation,2025-12-20,2026-01-23,completed,525.69
+15,1547,330,2,Essential Portrait,Family portraits,2025-01-02,2025-01-18,rescheduled,458.08
+16,694,186,1,Mini Moment,Mini sessions,2025-04-03,2025-06-28,completed,230.02
+17,625,842,5,Brand Builder,Branding/headshots,2025-05-14,2025-09-07,completed,901.78
+18,116,1156,2,Essential Portrait,Newborn,2024-11-09,2025-02-18,completed,508.78
+19,234,295,2,Essential Portrait,Family portraits,2024-11-03,2024-12-03,completed,487.46
+20,1499,476,1,Mini Moment,Mini sessions,2024-04-05,2024-06-18,completed,212.32
+21,992,541,2,Essential Portrait,Family portraits,2024-10-17,2025-01-02,completed,511.3
+22,24,113,6,Wedding Collection,Weddings,2025-05-31,2025-06-22,completed,2931.12
+23,81,996,6,Wedding Collection,Weddings,2025-03-19,2025-07-17,completed,3377.95
+24,1682,673,3,Signature Story,Couples,2025-06-25,2025-07-29,rescheduled,634.05
+25,513,875,5,Brand Builder,Branding/headshots,2024-11-14,2025-02-23,completed,863.66
+26,685,626,2,Essential Portrait,Family portraits,2025-08-14,2025-09-19,completed,487.04
+27,416,77,2,Essential Portrait,Newborn,2025-06-18,2025-08-04,completed,480.75
+28,1462,938,5,Brand Builder,Branding/headshots,2025-08-30,2025-12-03,completed,909.29
+29,101,1077,4,Milestone,Graduation,2025-01-18,2025-04-03,completed,532.91
+30,844,397,1,Mini Moment,Mini sessions,2025-03-14,2025-05-31,completed,205.28
+31,581,271,3,Signature Story,Couples,2024-12-16,2025-03-08,confirmed,610.14
+32,1639,182,1,Mini Moment,Mini sessions,2024-12-10,2025-02-01,completed,222.56
+33,1430,808,2,Essential Portrait,Maternity,2024-03-08,2024-03-26,completed,506.55
+34,477,1090,2,Essential Portrait,Newborn,2025-08-09,2025-09-27,completed,502.45
+35,667,441,3,Signature Story,Couples,2024-10-08,2025-01-21,completed,646.82
+36,1507,981,4,Milestone,Graduation,2024-10-08,2024-12-12,completed,558.78
+37,1544,199,3,Signature Story,Couples,2025-12-17,2026-03-27,completed,591.42
+38,258,993,1,Mini Moment,Mini sessions,2024-03-25,2024-05-31,completed,210.73
+39,1141,35,1,Mini Moment,Mini sessions,2024-10-31,2025-02-20,rescheduled,216.71
+40,179,176,2,Essential Portrait,Maternity,2025-05-04,2025-08-12,completed,443.48
+41,540,771,4,Milestone,Graduation,2025-09-19,2025-12-10,completed,476.55
+42,832,886,3,Signature Story,Couples,2025-10-25,2026-02-14,completed,652.02
+43,631,866,4,Milestone,Graduation,2025-10-29,2026-02-19,completed,556.81
+44,529,33,2,Essential Portrait,Maternity,2024-05-18,2024-08-22,completed,447.84
+45,910,53,6,Wedding Collection,Weddings,2024-02-08,2024-06-04,completed,3267.09
+46,815,86,2,Essential Portrait,Maternity,2024-12-13,2025-03-23,completed,476.87
+47,1641,287,4,Milestone,Graduation,2025-12-25,2026-02-13,completed,494.55
+48,1460,978,6,Wedding Collection,Weddings,2025-05-29,2025-07-04,completed,3336.36
+49,1719,539,4,Milestone,Graduation,2025-12-27,2026-03-20,completed,560.13
+50,386,305,6,Wedding Collection,Weddings,2024-09-24,2024-11-08,completed,3182.47
+51,919,15,6,Wedding Collection,Weddings,2025-10-27,2026-01-13,completed,3441.18
+52,79,630,2,Essential Portrait,Family portraits,2025-10-17,2025-11-03,confirmed,450.49
+53,26,151,6,Wedding Collection,Weddings,2024-04-26,2024-08-12,completed,3158.11
+54,799,1193,2,Essential Portrait,Maternity,2025-08-24,2025-12-15,completed,484.46
+55,243,966,6,Wedding Collection,Weddings,2025-07-22,2025-11-13,completed,3026.49
+56,933,572,2,Essential Portrait,Maternity,2024-11-04,2025-02-14,confirmed,448.46
+57,1433,409,4,Milestone,Graduation,2025-04-18,2025-07-09,completed,517.11
+58,1581,485,2,Essential Portrait,Newborn,2025-11-28,2025-12-15,completed,512.11
+59,9,812,5,Brand Builder,Branding/headshots,2024-09-25,2024-10-12,cancelled,892.36
+60,350,1191,1,Mini Moment,Mini sessions,2025-01-19,2025-03-14,cancelled,206.14
+61,1549,95,2,Essential Portrait,Family portraits,2025-07-23,2025-09-26,completed,472.56
+62,909,178,1,Mini Moment,Mini sessions,2024-04-09,2024-06-05,completed,241.83
+63,988,642,6,Wedding Collection,Weddings,2024-12-04,2025-03-23,cancelled,3290.38
+64,754,767,2,Essential Portrait,Family portraits,2024-07-01,2024-09-21,completed,455.54
+65,155,357,1,Mini Moment,Mini sessions,2025-10-21,2026-02-12,completed,228.56
+66,244,493,5,Brand Builder,Branding/headshots,2024-07-21,2024-09-07,completed,893.64
+67,1467,632,4,Milestone,Graduation,2025-06-02,2025-08-07,completed,492.99
+68,693,482,2,Essential Portrait,Family portraits,2024-07-22,2024-09-15,rescheduled,450.75
+69,221,435,2,Essential Portrait,Family portraits,2024-03-24,2024-06-24,completed,435.26
+70,653,619,4,Milestone,Graduation,2024-12-26,2025-02-20,rescheduled,478.96
+71,1403,1049,4,Milestone,Graduation,2024-07-28,2024-11-23,completed,491.87
+72,228,550,2,Essential Portrait,Maternity,2024-10-09,2024-10-16,completed,444.55
+73,403,1064,5,Brand Builder,Branding/headshots,2024-11-18,2024-12-20,completed,900.76
+74,396,1139,2,Essential Portrait,Family portraits,2025-11-06,2025-12-16,completed,503.42
+75,835,1162,5,Brand Builder,Branding/headshots,2024-06-07,2024-08-02,completed,894.73
+76,730,30,5,Brand Builder,Branding/headshots,2025-04-27,2025-07-21,completed,845.37
+77,612,28,6,Wedding Collection,Weddings,2025-03-20,2025-06-06,completed,3048.17
+78,274,724,5,Brand Builder,Branding/headshots,2025-07-23,2025-09-03,completed,827.05
+79,1727,207,4,Milestone,Graduation,2024-12-08,2025-04-07,completed,540.04
+80,1398,131,6,Wedding Collection,Weddings,2024-06-20,2024-07-21,completed,3069.12
+81,1129,1079,2,Essential Portrait,Family portraits,2024-04-19,2024-07-31,confirmed,511.33
+82,648,57,6,Wedding Collection,Weddings,2024-05-18,2024-09-01,completed,3374.84
+83,157,481,5,Brand Builder,Branding/headshots,2024-12-08,2025-01-14,completed,912.14
+84,985,790,1,Mini Moment,Mini sessions,2025-09-11,2025-10-02,confirmed,242.18
+85,957,342,1,Mini Moment,Mini sessions,2025-08-04,2025-09-21,completed,212.95
+86,408,65,2,Essential Portrait,Family portraits,2025-10-24,2025-11-15,completed,485.84
+87,46,761,2,Essential Portrait,Family portraits,2024-12-06,2025-01-05,rescheduled,440.85
+88,788,730,2,Essential Portrait,Family portraits,2025-11-21,2026-03-17,completed,481.1
+89,4,322,2,Essential Portrait,Family portraits,2025-10-18,2025-11-27,rescheduled,478.98
+90,1167,93,6,Wedding Collection,Weddings,2025-10-12,2025-11-30,rescheduled,3220.69
+91,1309,1143,2,Essential Portrait,Maternity,2025-05-21,2025-09-01,completed,452.34
+92,1589,1138,1,Mini Moment,Mini sessions,2024-06-10,2024-08-22,completed,219.21
+93,1105,923,2,Essential Portrait,Family portraits,2024-02-12,2024-04-08,rescheduled,464.47
+94,1437,407,1,Mini Moment,Mini sessions,2024-11-11,2024-12-16,completed,224.18
+95,867,500,2,Essential Portrait,Family portraits,2024-04-14,2024-05-20,confirmed,463.03
+96,965,30,5,Brand Builder,Branding/headshots,2024-09-29,2024-12-02,completed,770.08
+97,182,29,3,Signature Story,Couples,2025-11-27,2025-12-04,completed,674.65
+98,471,1084,2,Essential Portrait,Family portraits,2025-08-20,2025-12-13,completed,495.62
+99,1659,675,1,Mini Moment,Mini sessions,2024-12-12,2025-03-31,completed,214.2
+100,1534,512,5,Brand Builder,Branding/headshots,2025-05-28,2025-06-23,completed,796.43
+101,1397,361,2,Essential Portrait,Maternity,2024-02-20,2024-05-14,completed,488.13
+102,1306,662,1,Mini Moment,Mini sessions,2025-10-22,2026-01-17,completed,206.77
+103,1094,1025,3,Signature Story,Couples,2024-12-14,2025-01-31,cancelled,613.26
+104,1490,430,2,Essential Portrait,Newborn,2025-06-19,2025-07-26,completed,477.26
+105,1645,10,6,Wedding Collection,Weddings,2025-10-25,2025-11-20,completed,3123.93
+106,1529,779,1,Mini Moment,Mini sessions,2025-10-30,2025-12-07,completed,209.2
+107,564,366,2,Essential Portrait,Newborn,2024-09-27,2024-10-27,completed,475.57
+108,1603,437,2,Essential Portrait,Newborn,2025-05-10,2025-07-23,completed,429.84
+109,196,380,4,Milestone,Graduation,2025-04-29,2025-06-25,completed,521.25
+110,1254,786,1,Mini Moment,Mini sessions,2025-11-12,2026-01-13,completed,208.29
+111,1753,572,3,Signature Story,Couples,2025-05-24,2025-06-28,completed,620.13
+112,1635,315,6,Wedding Collection,Weddings,2024-11-08,2025-01-18,completed,3053.49
+113,1422,1109,2,Essential Portrait,Newborn,2024-07-28,2024-11-15,completed,433.15
+114,1189,1124,4,Milestone,Graduation,2025-04-30,2025-08-23,rescheduled,548.96
+115,1540,564,2,Essential Portrait,Family portraits,2025-07-02,2025-07-26,cancelled,501.53
+116,392,181,2,Essential Portrait,Newborn,2025-10-08,2026-01-06,completed,469.76
+117,375,919,4,Milestone,Graduation,2025-06-21,2025-10-14,completed,490.27
+118,204,1146,1,Mini Moment,Mini sessions,2025-12-06,2025-12-25,completed,222.42
+119,600,193,3,Signature Story,Couples,2025-10-08,2025-11-10,completed,606.09
+120,926,761,2,Essential Portrait,Maternity,2025-11-30,2026-03-02,completed,450.41
+121,920,493,5,Brand Builder,Branding/headshots,2025-12-22,2026-03-06,rescheduled,899.68
+122,1566,346,1,Mini Moment,Mini sessions,2025-05-16,2025-06-13,completed,203.77
+123,521,1096,1,Mini Moment,Mini sessions,2024-02-19,2024-05-23,completed,227.62
+124,511,225,2,Essential Portrait,Family portraits,2024-12-18,2025-04-14,completed,447.55
+125,3,767,2,Essential Portrait,Newborn,2025-09-01,2025-10-17,completed,455.97
+126,534,30,2,Essential Portrait,Family portraits,2024-07-17,2024-10-05,completed,481.38
+127,119,310,5,Brand Builder,Branding/headshots,2024-10-07,2024-11-13,completed,889.26
+128,735,654,5,Brand Builder,Branding/headshots,2025-06-29,2025-09-23,completed,795.15
+129,486,688,2,Essential Portrait,Maternity,2024-12-22,2025-02-04,completed,486.2
+130,16,242,2,Essential Portrait,Family portraits,2025-02-15,2025-06-15,rescheduled,449.57
+131,1648,582,2,Essential Portrait,Family portraits,2024-08-24,2024-11-29,completed,431.8
+132,637,351,3,Signature Story,Couples,2024-06-26,2024-07-28,completed,661.97
+133,941,244,4,Milestone,Graduation,2024-09-21,2024-10-09,completed,529.77
+134,877,862,1,Mini Moment,Mini sessions,2026-01-08,2026-04-27,confirmed,235.24
+135,972,477,2,Essential Portrait,Family portraits,2025-06-17,2025-08-25,completed,451.22
+136,536,648,6,Wedding Collection,Weddings,2025-05-04,2025-08-03,completed,3331.04
+137,291,395,3,Signature Story,Couples,2025-06-26,2025-07-06,completed,650.89
+138,1466,958,2,Essential Portrait,Family portraits,2025-11-08,2025-11-19,completed,464.89
+139,848,68,2,Essential Portrait,Family portraits,2024-12-31,2025-04-14,completed,477.55
+140,1598,629,1,Mini Moment,Mini sessions,2026-01-16,2026-02-12,completed,242.33
+141,943,316,5,Brand Builder,Branding/headshots,2024-07-12,2024-07-24,completed,909.37
+142,826,986,2,Essential Portrait,Newborn,2024-10-23,2024-12-12,completed,501.61
+143,1664,13,5,Brand Builder,Branding/headshots,2025-10-28,2026-01-14,completed,796.67
+144,1482,1114,3,Signature Story,Couples,2025-01-20,2025-03-14,completed,631.73
+145,869,240,1,Mini Moment,Mini sessions,2024-10-20,2025-01-04,completed,204.54
+146,762,392,5,Brand Builder,Branding/headshots,2024-03-12,2024-04-03,completed,819.38
+147,1756,824,5,Brand Builder,Branding/headshots,2025-06-01,2025-08-04,completed,879.41
+148,1233,5,2,Essential Portrait,Family portraits,2024-08-17,2024-11-24,completed,486.96
+149,871,1020,4,Milestone,Graduation,2024-11-07,2024-12-04,completed,549.68
+150,1609,775,1,Mini Moment,Mini sessions,2024-08-30,2024-09-12,completed,226.64
+151,1415,1198,5,Brand Builder,Branding/headshots,2024-05-14,2024-06-23,completed,776.89
+152,1334,325,6,Wedding Collection,Weddings,2024-10-16,2025-02-05,completed,3059.64
+153,1716,727,5,Brand Builder,Branding/headshots,2025-05-26,2025-07-17,completed,895.78
+154,955,1038,2,Essential Portrait,Maternity,2024-12-03,2025-02-14,completed,436.32
+155,1159,700,4,Milestone,Graduation,2025-11-10,2026-02-13,completed,500.2
+156,1508,831,2,Essential Portrait,Maternity,2024-09-20,2024-10-22,cancelled,492.72
+157,1378,228,1,Mini Moment,Mini sessions,2024-06-27,2024-07-29,completed,232.6
+158,473,742,5,Brand Builder,Branding/headshots,2025-01-26,2025-02-18,rescheduled,869.86
+159,1751,535,2,Essential Portrait,Family portraits,2025-06-08,2025-09-25,completed,506.6
+160,1270,1030,4,Milestone,Graduation,2025-10-03,2026-01-19,completed,553.57
+161,641,676,3,Signature Story,Couples,2025-01-11,2025-05-01,completed,693.08
+162,900,744,1,Mini Moment,Mini sessions,2024-11-24,2025-03-17,completed,205.93
+163,235,554,6,Wedding Collection,Weddings,2024-05-28,2024-08-14,completed,3051.65
+164,95,795,6,Wedding Collection,Weddings,2025-02-24,2025-04-07,confirmed,3256.93
+165,1625,978,4,Milestone,Graduation,2024-05-26,2024-07-22,completed,498.97
+166,548,539,1,Mini Moment,Mini sessions,2025-10-23,2025-12-06,completed,233.56
+167,746,773,6,Wedding Collection,Weddings,2025-08-13,2025-10-11,completed,2988.92
+168,1031,679,6,Wedding Collection,Weddings,2024-04-02,2024-06-13,cancelled,3387.62
+169,122,936,1,Mini Moment,Mini sessions,2024-09-02,2024-10-12,completed,241.28
+170,245,1131,2,Essential Portrait,Family portraits,2025-06-18,2025-08-19,completed,435.44
+171,493,994,5,Brand Builder,Branding/headshots,2025-09-08,2025-11-11,completed,857.17
+172,17,545,2,Essential Portrait,Family portraits,2025-12-29,2026-04-19,completed,488.03
+173,698,1,2,Essential Portrait,Maternity,2025-01-25,2025-04-01,completed,432.91
+174,335,650,5,Brand Builder,Branding/headshots,2025-05-17,2025-09-01,completed,915.92
+175,1712,435,2,Essential Portrait,Family portraits,2024-10-31,2024-11-13,rescheduled,460.94
+176,817,318,1,Mini Moment,Mini sessions,2025-08-07,2025-11-01,completed,236.31
+177,717,585,3,Signature Story,Couples,2025-12-13,2026-02-17,completed,617.75
+178,627,232,5,Brand Builder,Branding/headshots,2024-02-11,2024-03-29,cancelled,860.47
+179,1112,955,6,Wedding Collection,Weddings,2024-03-31,2024-07-06,confirmed,3252.28
+180,1699,704,2,Essential Portrait,Family portraits,2025-12-28,2026-02-12,completed,480.31
+181,1107,878,5,Brand Builder,Branding/headshots,2025-09-27,2025-11-15,completed,894.22
+182,288,439,5,Brand Builder,Branding/headshots,2025-04-25,2025-08-09,completed,890.96
+183,438,988,2,Essential Portrait,Family portraits,2024-12-30,2025-02-09,completed,453.36
+184,38,1157,2,Essential Portrait,Newborn,2024-08-03,2024-11-17,rescheduled,438.82
+185,1042,428,2,Essential Portrait,Maternity,2024-04-17,2024-06-19,completed,502.14
+186,1021,518,2,Essential Portrait,Newborn,2025-06-13,2025-09-22,completed,463.44
+187,1026,749,1,Mini Moment,Mini sessions,2024-01-22,2024-05-01,completed,238.65
+188,1258,188,2,Essential Portrait,Family portraits,2025-04-22,2025-08-19,completed,455.69
+189,1484,143,6,Wedding Collection,Weddings,2025-05-12,2025-07-12,rescheduled,3238.2
+190,1096,582,6,Wedding Collection,Weddings,2025-08-09,2025-11-25,completed,2907.77
+191,1051,991,6,Wedding Collection,Weddings,2025-05-15,2025-08-29,rescheduled,3031.07
+192,100,1163,6,Wedding Collection,Weddings,2025-04-27,2025-08-09,confirmed,2959.96
+193,481,119,2,Essential Portrait,Family portraits,2024-03-13,2024-06-06,cancelled,499.48
+194,237,1179,1,Mini Moment,Mini sessions,2025-10-24,2026-01-02,completed,226.31
+195,110,1126,6,Wedding Collection,Weddings,2025-06-28,2025-08-29,completed,3265.54
+196,1278,403,1,Mini Moment,Mini sessions,2024-04-20,2024-06-19,cancelled,238.01
+197,1689,615,5,Brand Builder,Branding/headshots,2026-01-04,2026-05-02,completed,814.97
+198,1214,900,1,Mini Moment,Mini sessions,2024-09-06,2024-11-03,completed,222.17
+199,1283,1054,1,Mini Moment,Mini sessions,2025-10-23,2025-11-29,completed,240.07
+200,842,372,1,Mini Moment,Mini sessions,2025-04-24,2025-06-27,completed,214.01
+201,675,377,4,Milestone,Graduation,2025-05-17,2025-06-25,rescheduled,495.1
+202,739,1178,2,Essential Portrait,Newborn,2025-04-16,2025-05-31,completed,450.88
+203,1747,816,1,Mini Moment,Mini sessions,2025-03-23,2025-04-06,cancelled,239.7
+204,1483,1170,6,Wedding Collection,Weddings,2025-10-04,2025-10-18,cancelled,2989.01
+205,1113,105,4,Milestone,Graduation,2024-04-29,2024-06-05,completed,511.75
+206,1016,639,2,Essential Portrait,Maternity,2025-04-15,2025-04-26,cancelled,428.03
+207,1173,872,6,Wedding Collection,Weddings,2024-12-22,2025-04-11,completed,3279.66
+208,643,705,4,Milestone,Graduation,2024-12-17,2025-03-26,cancelled,523.78
+209,990,315,4,Milestone,Graduation,2025-05-08,2025-08-28,confirmed,487.96
+210,332,429,4,Milestone,Graduation,2025-03-26,2025-06-08,completed,555.82
+211,1272,103,4,Milestone,Graduation,2024-04-30,2024-05-29,completed,555.79
+212,1311,1118,2,Essential Portrait,Family portraits,2025-12-10,2026-03-01,cancelled,469.51
+213,809,232,6,Wedding Collection,Weddings,2025-06-20,2025-09-20,completed,3039.2
+214,1288,364,2,Essential Portrait,Maternity,2024-07-12,2024-09-28,completed,502.59
+215,1713,71,6,Wedding Collection,Weddings,2024-06-29,2024-10-05,completed,3311.81
+216,847,404,2,Essential Portrait,Family portraits,2025-01-01,2025-02-26,completed,490.36
+217,1234,403,3,Signature Story,Couples,2025-06-16,2025-09-10,completed,662.79
+218,1402,139,2,Essential Portrait,Newborn,2024-08-18,2024-10-26,completed,483.8
+219,328,465,2,Essential Portrait,Maternity,2025-05-21,2025-09-01,cancelled,447.62
+220,538,304,1,Mini Moment,Mini sessions,2025-07-23,2025-09-02,completed,237.25
+221,528,106,4,Milestone,Graduation,2025-05-29,2025-08-25,completed,553.36
+222,1162,672,2,Essential Portrait,Maternity,2024-08-10,2024-08-27,completed,448.71
+223,329,398,4,Milestone,Graduation,2025-03-13,2025-04-18,cancelled,482.66
+224,139,1039,2,Essential Portrait,Maternity,2024-09-14,2024-10-02,completed,505.92
+225,1287,1094,2,Essential Portrait,Maternity,2024-12-09,2024-12-24,confirmed,502.02
+226,1436,8,2,Essential Portrait,Family portraits,2025-11-17,2025-12-31,confirmed,497.33
+227,1357,15,6,Wedding Collection,Weddings,2024-05-16,2024-06-27,completed,2926.04
+228,960,636,6,Wedding Collection,Weddings,2025-10-16,2025-12-21,rescheduled,3282.29
+229,231,602,4,Milestone,Graduation,2024-12-19,2025-03-15,completed,496.29
+230,1253,923,1,Mini Moment,Mini sessions,2025-02-08,2025-04-27,completed,216.64
+231,952,202,6,Wedding Collection,Weddings,2025-10-29,2025-12-03,completed,3141.26
+232,744,954,5,Brand Builder,Branding/headshots,2024-06-26,2024-07-12,cancelled,805.23
+233,1723,858,2,Essential Portrait,Family portraits,2024-03-20,2024-05-19,completed,429.75
+234,1432,74,2,Essential Portrait,Maternity,2024-10-19,2024-11-25,completed,456.02
+235,1324,407,5,Brand Builder,Branding/headshots,2024-04-25,2024-07-13,cancelled,908.27
+236,1037,341,6,Wedding Collection,Weddings,2024-07-11,2024-11-07,completed,3297.46
+237,1593,662,2,Essential Portrait,Family portraits,2025-03-11,2025-04-06,completed,466.7
+238,617,528,3,Signature Story,Couples,2025-05-03,2025-08-04,completed,669.52
+239,1083,30,2,Essential Portrait,Family portraits,2024-10-29,2025-02-15,completed,440.67
+240,658,229,2,Essential Portrait,Maternity,2024-03-23,2024-05-11,rescheduled,468.38
+241,936,575,2,Essential Portrait,Family portraits,2025-04-14,2025-05-12,completed,509.94
+242,1774,474,5,Brand Builder,Branding/headshots,2025-11-26,2026-02-06,completed,856.28
+243,1455,1151,5,Brand Builder,Branding/headshots,2026-01-19,2026-05-06,completed,800.33
+244,1400,958,2,Essential Portrait,Newborn,2024-12-03,2025-02-06,confirmed,472.82
+245,1290,283,5,Brand Builder,Branding/headshots,2025-04-13,2025-05-04,completed,900.39
+246,89,626,1,Mini Moment,Mini sessions,2025-01-04,2025-05-02,completed,226.84
+247,573,1137,1,Mini Moment,Mini sessions,2024-04-27,2024-08-16,completed,232.83
+248,946,240,5,Brand Builder,Branding/headshots,2024-01-23,2024-05-15,completed,844.83
+249,808,830,1,Mini Moment,Mini sessions,2024-10-11,2024-11-13,completed,232.73
+250,684,283,2,Essential Portrait,Family portraits,2025-02-03,2025-02-23,confirmed,500.65
+251,307,498,6,Wedding Collection,Weddings,2025-03-17,2025-06-06,completed,3070.41
+252,347,477,2,Essential Portrait,Family portraits,2024-10-12,2025-01-25,cancelled,478.72
+253,887,415,1,Mini Moment,Mini sessions,2024-10-07,2024-11-01,rescheduled,213.18
+254,343,1043,4,Milestone,Graduation,2024-07-02,2024-09-20,rescheduled,522.89
+255,1459,366,1,Mini Moment,Mini sessions,2024-02-04,2024-03-19,completed,233.48
+256,1284,1114,4,Milestone,Graduation,2024-08-25,2024-12-23,completed,564.07
+257,836,202,6,Wedding Collection,Weddings,2025-05-07,2025-06-17,completed,3421.88
+258,833,663,2,Essential Portrait,Family portraits,2024-12-02,2025-02-16,completed,448.34
+259,1527,549,3,Signature Story,Couples,2024-07-29,2024-08-13,completed,587.87
+260,601,1038,5,Brand Builder,Branding/headshots,2026-01-10,2026-02-20,completed,882.07
+261,725,409,4,Milestone,Graduation,2025-10-29,2025-11-24,cancelled,562.83
+262,1353,813,1,Mini Moment,Mini sessions,2024-09-13,2024-10-14,completed,206.88
+263,1533,115,4,Milestone,Graduation,2025-05-30,2025-08-07,completed,554.6
+264,1345,1073,1,Mini Moment,Mini sessions,2025-10-28,2026-02-17,completed,229.52
+265,983,451,4,Milestone,Graduation,2025-02-10,2025-04-04,completed,535.52
+266,507,896,4,Milestone,Graduation,2024-05-19,2024-07-28,completed,485.41
+267,30,1102,2,Essential Portrait,Family portraits,2024-11-21,2025-02-02,completed,484.81
+268,250,832,4,Milestone,Graduation,2024-11-07,2024-11-23,completed,527.52
+269,1783,742,3,Signature Story,Couples,2025-06-04,2025-09-05,completed,648.09
+270,1354,893,5,Brand Builder,Branding/headshots,2024-07-24,2024-10-03,completed,908.21
+271,1518,520,5,Brand Builder,Branding/headshots,2024-09-26,2024-11-25,completed,832.15
+272,1551,99,4,Milestone,Graduation,2025-06-18,2025-07-14,completed,555.91
+273,239,741,3,Signature Story,Couples,2025-12-16,2026-02-04,rescheduled,586.36
+274,1738,816,2,Essential Portrait,Family portraits,2024-05-17,2024-08-05,cancelled,470.34
+275,1434,203,5,Brand Builder,Branding/headshots,2025-04-10,2025-06-17,completed,886.15
+276,1742,308,2,Essential Portrait,Newborn,2025-12-04,2026-01-18,confirmed,468.64
+277,598,246,3,Signature Story,Couples,2025-10-27,2026-01-18,completed,616.27
+278,1576,43,2,Essential Portrait,Newborn,2025-10-26,2026-01-02,completed,503.67
+279,465,607,4,Milestone,Graduation,2025-04-16,2025-06-23,completed,555.44
+280,852,685,6,Wedding Collection,Weddings,2025-08-24,2025-09-23,completed,3088.97
+281,557,753,2,Essential Portrait,Maternity,2025-12-20,2026-02-22,completed,457.87
+282,1691,762,2,Essential Portrait,Family portraits,2024-09-13,2024-12-21,completed,483.64
+283,604,951,4,Milestone,Graduation,2024-07-10,2024-09-16,completed,507.0
+284,1718,1107,3,Signature Story,Couples,2024-01-25,2024-02-02,completed,593.12
+285,998,586,2,Essential Portrait,Newborn,2024-03-27,2024-07-08,completed,447.97
+286,317,371,2,Essential Portrait,Family portraits,2025-12-24,2026-01-07,completed,498.46
+287,886,86,2,Essential Portrait,Family portraits,2025-03-21,2025-06-21,completed,445.17
+288,677,163,1,Mini Moment,Mini sessions,2025-02-27,2025-06-04,completed,221.83
+289,162,638,1,Mini Moment,Mini sessions,2024-12-03,2025-02-11,completed,231.61
+290,712,503,4,Milestone,Graduation,2025-09-20,2025-10-02,completed,546.01
+291,309,484,6,Wedding Collection,Weddings,2024-05-02,2024-08-08,completed,3198.01
+292,376,315,5,Brand Builder,Branding/headshots,2024-10-15,2024-12-02,completed,891.45
+293,1688,1104,2,Essential Portrait,Newborn,2024-04-05,2024-04-28,cancelled,507.43
+294,1652,773,2,Essential Portrait,Family portraits,2025-08-19,2025-10-28,completed,489.47
+295,1651,827,3,Signature Story,Couples,2024-10-03,2024-11-19,completed,623.18
+296,247,991,1,Mini Moment,Mini sessions,2025-08-13,2025-11-27,completed,212.44
+297,993,1058,2,Essential Portrait,Family portraits,2024-12-23,2025-02-11,completed,454.69
+298,768,1165,2,Essential Portrait,Newborn,2024-08-21,2024-11-14,completed,464.39
+299,932,1143,2,Essential Portrait,Family portraits,2025-02-27,2025-05-23,rescheduled,438.25
+300,420,726,3,Signature Story,Couples,2025-12-21,2026-01-28,completed,615.17
+301,404,554,1,Mini Moment,Mini sessions,2025-03-02,2025-04-02,rescheduled,215.54
+302,171,130,6,Wedding Collection,Weddings,2024-01-06,2024-01-21,completed,3048.87
+303,1577,971,6,Wedding Collection,Weddings,2024-07-22,2024-08-03,completed,3184.46
+304,432,1078,2,Essential Portrait,Family portraits,2025-12-03,2026-03-01,completed,428.48
+305,136,475,1,Mini Moment,Mini sessions,2024-12-17,2025-02-25,completed,217.37
+306,1224,577,2,Essential Portrait,Family portraits,2024-12-05,2025-03-29,completed,451.9
+307,262,235,5,Brand Builder,Branding/headshots,2024-09-06,2024-10-04,completed,822.97
+308,1754,511,1,Mini Moment,Mini sessions,2024-10-08,2024-11-16,rescheduled,237.97
+309,199,868,5,Brand Builder,Branding/headshots,2025-04-05,2025-05-17,completed,817.92
+310,1702,628,3,Signature Story,Couples,2025-12-13,2026-03-02,completed,668.37
+311,1782,962,4,Milestone,Graduation,2025-11-13,2026-01-09,cancelled,547.36
+312,1211,217,2,Essential Portrait,Family portraits,2025-09-05,2025-11-08,completed,439.77
+313,410,921,6,Wedding Collection,Weddings,2024-06-17,2024-09-20,rescheduled,3223.46
+314,1364,1135,6,Wedding Collection,Weddings,2025-03-21,2025-03-28,completed,3078.75
+315,418,685,3,Signature Story,Couples,2024-11-12,2024-12-01,completed,627.4
+316,492,913,2,Essential Portrait,Family portraits,2024-10-25,2025-01-08,completed,445.49
+317,1361,172,1,Mini Moment,Mini sessions,2025-05-30,2025-08-19,rescheduled,217.99
+318,611,162,6,Wedding Collection,Weddings,2024-02-13,2024-05-18,completed,2999.91
+319,1231,820,4,Milestone,Graduation,2025-05-22,2025-05-30,completed,511.23
+320,176,78,2,Essential Portrait,Newborn,2025-07-15,2025-09-26,rescheduled,473.11
+321,1624,208,1,Mini Moment,Mini sessions,2025-09-28,2025-11-03,completed,208.28
+322,821,834,5,Brand Builder,Branding/headshots,2025-09-02,2025-12-29,completed,880.71
+323,1267,799,2,Essential Portrait,Newborn,2024-08-14,2024-08-26,completed,492.87
+324,807,988,3,Signature Story,Couples,2026-01-12,2026-04-01,completed,664.27
+325,456,1043,4,Milestone,Graduation,2024-03-29,2024-07-24,completed,566.49
+326,1184,638,5,Brand Builder,Branding/headshots,2025-05-13,2025-07-14,completed,900.09
+327,1728,1147,6,Wedding Collection,Weddings,2024-06-19,2024-09-04,completed,3211.15
+328,138,777,2,Essential Portrait,Family portraits,2025-02-04,2025-04-01,completed,505.64
+329,1365,1070,2,Essential Portrait,Family portraits,2024-03-18,2024-04-08,completed,429.37
+330,1153,431,2,Essential Portrait,Family portraits,2024-12-05,2025-02-14,completed,429.05
+331,1600,489,2,Essential Portrait,Family portraits,2025-02-25,2025-06-12,completed,475.33
+332,48,771,5,Brand Builder,Branding/headshots,2025-05-21,2025-07-26,rescheduled,864.61
+333,445,536,4,Milestone,Graduation,2025-12-03,2026-02-16,completed,479.96
+334,214,96,1,Mini Moment,Mini sessions,2025-06-14,2025-09-29,completed,240.41
+335,1048,450,4,Milestone,Graduation,2025-12-01,2026-03-12,confirmed,487.18
+336,1226,421,2,Essential Portrait,Family portraits,2024-03-19,2024-06-23,completed,500.77
+337,1799,348,5,Brand Builder,Branding/headshots,2025-11-07,2025-12-28,completed,905.26
+338,1694,107,4,Milestone,Graduation,2024-07-03,2024-10-04,completed,475.15
+339,1382,1176,2,Essential Portrait,Maternity,2024-03-24,2024-04-01,rescheduled,454.69
+340,2,75,4,Milestone,Graduation,2024-12-22,2025-03-01,completed,552.43
+341,210,17,2,Essential Portrait,Family portraits,2025-11-28,2025-12-18,completed,438.16
+342,1374,480,3,Signature Story,Couples,2024-03-20,2024-06-22,completed,602.12
+343,880,35,3,Signature Story,Couples,2025-05-13,2025-08-08,completed,621.24
+344,672,176,2,Essential Portrait,Family portraits,2024-11-02,2025-02-13,completed,499.14
+345,1441,626,4,Milestone,Graduation,2025-06-11,2025-10-08,completed,532.86
+346,1251,1132,2,Essential Portrait,Newborn,2025-07-08,2025-10-21,completed,492.26
+347,1363,1152,2,Essential Portrait,Family portraits,2025-10-07,2026-01-25,completed,433.82
+348,790,585,5,Brand Builder,Branding/headshots,2025-10-18,2025-11-23,completed,781.87
+349,1059,256,2,Essential Portrait,Newborn,2025-10-26,2025-11-08,completed,428.77
+350,1385,1046,3,Signature Story,Couples,2025-10-21,2025-11-02,completed,590.73
+351,208,992,2,Essential Portrait,Maternity,2025-05-04,2025-06-14,confirmed,451.35
+352,1052,190,6,Wedding Collection,Weddings,2025-12-23,2026-03-26,completed,3234.16
+353,840,568,2,Essential Portrait,Maternity,2024-05-30,2024-08-27,completed,506.37
+354,71,351,2,Essential Portrait,Maternity,2024-07-14,2024-10-11,completed,440.17
+355,407,623,2,Essential Portrait,Newborn,2024-09-07,2024-10-05,completed,487.22
+356,804,1036,5,Brand Builder,Branding/headshots,2025-01-13,2025-04-23,confirmed,845.04
+357,1239,700,3,Signature Story,Couples,2025-06-12,2025-09-26,completed,693.94
+358,841,374,5,Brand Builder,Branding/headshots,2026-01-12,2026-03-11,completed,840.24
+359,1795,857,5,Brand Builder,Branding/headshots,2024-03-15,2024-06-24,completed,772.36
+360,527,348,3,Signature Story,Couples,2024-08-08,2024-11-03,completed,695.12
+361,382,797,2,Essential Portrait,Family portraits,2025-06-27,2025-07-10,completed,427.67
+362,209,145,1,Mini Moment,Mini sessions,2025-06-14,2025-08-17,completed,228.37
+363,300,503,5,Brand Builder,Branding/headshots,2024-07-03,2024-10-25,completed,832.19
+364,413,832,6,Wedding Collection,Weddings,2024-10-07,2024-11-19,completed,3107.63
+365,49,528,1,Mini Moment,Mini sessions,2024-12-17,2025-02-02,completed,236.01
+366,1658,856,4,Milestone,Graduation,2024-07-27,2024-10-05,rescheduled,511.13
+367,449,856,3,Signature Story,Couples,2024-11-11,2025-01-02,completed,626.95
+368,193,1200,4,Milestone,Graduation,2024-11-06,2024-11-16,completed,490.36
+369,1516,366,2,Essential Portrait,Family portraits,2024-12-24,2025-03-02,confirmed,497.31
+370,1393,1076,6,Wedding Collection,Weddings,2024-05-04,2024-07-25,cancelled,3183.25
+371,249,681,2,Essential Portrait,Family portraits,2024-06-15,2024-09-23,completed,489.04
+372,1500,622,5,Brand Builder,Branding/headshots,2024-02-16,2024-06-11,completed,851.94
+373,1553,847,2,Essential Portrait,Family portraits,2024-04-11,2024-06-07,completed,503.84
+374,229,887,6,Wedding Collection,Weddings,2025-11-01,2026-02-08,completed,3064.45
+375,592,516,5,Brand Builder,Branding/headshots,2025-09-10,2025-09-21,completed,798.71
+376,1210,996,3,Signature Story,Couples,2024-07-08,2024-09-16,completed,604.57
+377,280,85,1,Mini Moment,Mini sessions,2024-07-07,2024-07-30,completed,239.88
+378,805,103,2,Essential Portrait,Maternity,2024-08-22,2024-11-22,confirmed,440.21
+379,1215,164,2,Essential Portrait,Family portraits,2025-11-07,2025-12-27,completed,437.28
+380,1567,605,6,Wedding Collection,Weddings,2024-05-29,2024-07-26,cancelled,3422.95
+381,729,625,5,Brand Builder,Branding/headshots,2025-04-28,2025-06-14,completed,866.06
+382,53,125,2,Essential Portrait,Family portraits,2024-08-24,2024-12-11,cancelled,473.21
+383,436,1078,1,Mini Moment,Mini sessions,2025-04-10,2025-05-29,completed,206.22
+384,1127,17,1,Mini Moment,Mini sessions,2026-01-07,2026-02-21,completed,225.94
+385,1458,168,2,Essential Portrait,Maternity,2025-10-21,2026-01-09,completed,460.58
+386,710,634,2,Essential Portrait,Family portraits,2024-03-28,2024-04-11,completed,440.53
+387,930,202,2,Essential Portrait,Newborn,2024-05-06,2024-08-09,completed,442.21
+388,390,467,5,Brand Builder,Branding/headshots,2024-07-16,2024-09-07,completed,884.65
+389,1428,613,1,Mini Moment,Mini sessions,2025-03-31,2025-06-25,completed,219.16
+390,1090,117,2,Essential Portrait,Family portraits,2025-12-30,2026-03-10,completed,448.91
+391,727,1179,1,Mini Moment,Mini sessions,2025-10-28,2025-12-05,completed,219.53
+392,1419,94,6,Wedding Collection,Weddings,2025-08-18,2025-10-27,completed,3393.72
+393,603,963,6,Wedding Collection,Weddings,2025-11-07,2026-02-03,completed,3070.65
+394,1326,241,5,Brand Builder,Branding/headshots,2025-06-14,2025-08-21,completed,806.52
+395,508,935,2,Essential Portrait,Maternity,2025-03-07,2025-05-21,completed,505.31
+396,1101,1178,6,Wedding Collection,Weddings,2025-04-20,2025-07-10,completed,3395.16
+397,741,491,1,Mini Moment,Mini sessions,2024-10-04,2024-10-14,completed,212.55
+398,215,919,2,Essential Portrait,Family portraits,2025-08-09,2025-08-28,completed,477.72
+399,1360,1185,5,Brand Builder,Branding/headshots,2024-04-27,2024-05-13,completed,889.08
+400,1498,541,2,Essential Portrait,Family portraits,2025-12-18,2026-01-26,completed,434.97
+401,1720,252,6,Wedding Collection,Weddings,2025-04-18,2025-07-06,completed,3022.12
+402,1223,859,2,Essential Portrait,Newborn,2024-07-06,2024-09-21,completed,497.39
+403,1222,864,2,Essential Portrait,Family portraits,2024-11-16,2025-02-06,confirmed,465.86
+404,220,1000,5,Brand Builder,Branding/headshots,2024-03-14,2024-05-23,completed,771.6
+405,184,20,2,Essential Portrait,Family portraits,2025-10-18,2025-12-19,completed,431.02
+406,1395,546,6,Wedding Collection,Weddings,2025-10-11,2026-01-25,completed,3057.88
+407,275,1113,3,Signature Story,Couples,2025-08-15,2025-12-01,completed,679.9
+408,1407,951,2,Essential Portrait,Family portraits,2024-11-12,2025-02-22,completed,431.79
+409,1384,423,6,Wedding Collection,Weddings,2024-04-05,2024-05-21,rescheduled,2939.81
+410,1749,611,2,Essential Portrait,Family portraits,2025-11-25,2026-02-17,rescheduled,468.67
+411,1781,774,2,Essential Portrait,Family portraits,2025-09-08,2025-11-21,completed,471.7
+412,1213,714,2,Essential Portrait,Maternity,2025-07-23,2025-08-07,completed,440.03
+413,1268,181,2,Essential Portrait,Family portraits,2025-10-07,2025-11-01,completed,454.31
+414,1068,446,2,Essential Portrait,Maternity,2025-02-09,2025-02-25,rescheduled,470.58
+415,642,249,4,Milestone,Graduation,2024-10-20,2024-12-10,completed,517.79
+416,115,622,1,Mini Moment,Mini sessions,2025-09-20,2025-11-11,completed,222.2
+417,622,1004,4,Milestone,Graduation,2024-01-24,2024-04-08,confirmed,525.3
+418,1778,798,4,Milestone,Graduation,2024-12-19,2025-04-11,completed,558.81
+419,63,575,6,Wedding Collection,Weddings,2025-02-12,2025-04-16,cancelled,2883.34
+420,820,521,4,Milestone,Graduation,2024-11-24,2025-03-03,completed,550.91
+421,1196,55,1,Mini Moment,Mini sessions,2025-06-08,2025-07-21,completed,219.63
+422,839,306,1,Mini Moment,Mini sessions,2024-12-11,2025-02-11,rescheduled,227.59
+423,1273,777,5,Brand Builder,Branding/headshots,2025-10-08,2025-11-23,completed,876.64
+424,1227,422,6,Wedding Collection,Weddings,2025-07-05,2025-10-03,completed,2919.46
+425,644,1184,3,Signature Story,Couples,2024-11-03,2025-02-06,completed,656.66
+426,1564,379,4,Milestone,Graduation,2025-06-11,2025-08-22,completed,540.55
+427,1246,582,3,Signature Story,Couples,2024-07-25,2024-11-11,completed,648.2
+428,1435,395,5,Brand Builder,Branding/headshots,2025-12-23,2026-02-21,completed,881.37
+429,1656,258,3,Signature Story,Couples,2025-09-30,2025-10-07,cancelled,690.87
+430,369,178,5,Brand Builder,Branding/headshots,2024-06-10,2024-09-20,completed,904.07
+431,1014,863,5,Brand Builder,Branding/headshots,2025-10-28,2025-11-25,completed,849.61
+432,349,664,6,Wedding Collection,Weddings,2025-05-15,2025-05-24,cancelled,2920.46
+433,1341,418,2,Essential Portrait,Maternity,2025-11-16,2026-02-22,completed,434.21
+434,480,960,6,Wedding Collection,Weddings,2025-02-23,2025-03-12,cancelled,2909.95
+435,974,569,2,Essential Portrait,Maternity,2025-02-19,2025-02-27,completed,449.21
+436,462,934,2,Essential Portrait,Newborn,2024-04-14,2024-06-11,completed,497.57
+437,999,18,6,Wedding Collection,Weddings,2025-08-12,2025-10-12,rescheduled,3406.39
+438,444,1087,5,Brand Builder,Branding/headshots,2025-05-02,2025-06-25,completed,843.26
+439,1015,48,2,Essential Portrait,Family portraits,2024-02-08,2024-05-12,completed,451.32
+440,913,1177,1,Mini Moment,Mini sessions,2025-10-21,2026-01-13,completed,213.82
+441,1453,438,4,Milestone,Graduation,2025-06-17,2025-07-10,completed,529.07
+442,1619,785,1,Mini Moment,Mini sessions,2025-02-08,2025-02-15,completed,226.15
+443,986,1120,2,Essential Portrait,Maternity,2025-11-13,2026-02-23,confirmed,432.36
+444,195,112,1,Mini Moment,Mini sessions,2025-12-21,2026-04-06,rescheduled,238.99
+445,855,724,6,Wedding Collection,Weddings,2024-04-15,2024-06-27,completed,3058.46
+446,1338,586,2,Essential Portrait,Family portraits,2024-06-13,2024-08-15,confirmed,490.72
+447,818,1027,2,Essential Portrait,Newborn,2024-12-09,2025-02-27,confirmed,470.12
+448,1006,417,2,Essential Portrait,Family portraits,2025-12-26,2026-02-03,completed,508.07
+449,1582,1181,2,Essential Portrait,Family portraits,2024-06-19,2024-08-17,completed,431.93
+450,1266,225,2,Essential Portrait,Newborn,2025-03-24,2025-05-13,confirmed,430.43
+451,197,71,5,Brand Builder,Branding/headshots,2025-07-21,2025-10-12,completed,832.7
+452,1588,448,2,Essential Portrait,Newborn,2025-09-21,2025-10-25,completed,499.12
+453,1106,794,3,Signature Story,Couples,2025-07-08,2025-07-21,completed,635.78
+454,1161,1190,1,Mini Moment,Mini sessions,2025-12-11,2026-03-22,completed,238.21
+455,934,643,6,Wedding Collection,Weddings,2025-07-02,2025-08-26,completed,3003.07
+456,516,762,1,Mini Moment,Mini sessions,2025-12-22,2025-12-29,completed,224.82
+457,1312,73,2,Essential Portrait,Newborn,2025-09-10,2025-10-22,completed,444.86
+458,773,598,5,Brand Builder,Branding/headshots,2025-12-06,2026-02-08,cancelled,898.62
+459,763,92,1,Mini Moment,Mini sessions,2024-11-23,2025-01-11,completed,229.4
+460,442,984,3,Signature Story,Couples,2024-06-08,2024-08-07,completed,688.38
+461,1447,717,2,Essential Portrait,Newborn,2025-02-05,2025-05-14,completed,460.66
+462,595,390,3,Signature Story,Couples,2024-05-28,2024-07-24,rescheduled,625.12
+463,1404,1162,2,Essential Portrait,Maternity,2024-09-25,2025-01-11,completed,451.41
+464,1002,741,4,Milestone,Graduation,2024-04-15,2024-05-10,cancelled,511.61
+465,1044,1096,1,Mini Moment,Mini sessions,2024-04-08,2024-05-05,rescheduled,215.34
+466,1025,245,6,Wedding Collection,Weddings,2024-01-14,2024-04-16,completed,2973.43
+467,980,1049,5,Brand Builder,Branding/headshots,2024-10-05,2024-10-16,completed,828.8
+468,583,951,2,Essential Portrait,Family portraits,2025-11-04,2025-11-17,rescheduled,509.41
+469,618,714,2,Essential Portrait,Family portraits,2025-01-02,2025-02-26,cancelled,487.88
+470,1181,250,2,Essential Portrait,Family portraits,2024-09-10,2024-09-28,rescheduled,496.96
+471,1660,869,5,Brand Builder,Branding/headshots,2024-12-21,2025-02-22,completed,809.76
+472,1790,154,1,Mini Moment,Mini sessions,2025-01-12,2025-03-31,completed,235.96
+473,490,553,5,Brand Builder,Branding/headshots,2025-04-13,2025-04-28,completed,882.63
+474,1443,581,2,Essential Portrait,Newborn,2024-09-25,2025-01-08,completed,486.44
+475,1597,15,5,Brand Builder,Branding/headshots,2025-10-22,2026-01-31,completed,855.75
+476,1304,803,4,Milestone,Graduation,2024-11-13,2025-01-08,completed,544.01
+477,144,572,1,Mini Moment,Mini sessions,2025-10-19,2026-02-06,completed,213.82
+478,458,1170,5,Brand Builder,Branding/headshots,2025-09-17,2025-11-13,completed,811.36
+479,691,203,4,Milestone,Graduation,2025-12-29,2026-03-29,confirmed,508.34
+480,393,1170,1,Mini Moment,Mini sessions,2025-11-09,2026-02-07,completed,228.11
+481,738,850,1,Mini Moment,Mini sessions,2024-03-03,2024-05-11,completed,227.67
+482,127,758,5,Brand Builder,Branding/headshots,2025-02-16,2025-05-06,confirmed,796.53
+483,784,63,5,Brand Builder,Branding/headshots,2024-06-15,2024-08-15,completed,837.2
+484,1760,513,2,Essential Portrait,Newborn,2024-09-04,2024-12-10,completed,480.56
+485,1605,639,2,Essential Portrait,Maternity,2025-05-27,2025-07-23,completed,452.55
+486,1481,1035,2,Essential Portrait,Family portraits,2024-06-13,2024-08-13,completed,442.69
+487,937,955,3,Signature Story,Couples,2025-01-23,2025-03-25,completed,643.54
+488,1218,807,2,Essential Portrait,Maternity,2024-09-18,2024-11-07,completed,431.24
+489,1084,1020,4,Milestone,Graduation,2025-02-10,2025-04-28,completed,494.55
+490,1595,792,6,Wedding Collection,Weddings,2025-11-23,2026-01-29,completed,3114.61
+491,1298,137,3,Signature Story,Couples,2024-09-20,2025-01-04,completed,586.34
+492,765,610,6,Wedding Collection,Weddings,2025-12-10,2026-03-16,completed,3410.03
+493,801,637,1,Mini Moment,Mini sessions,2025-11-28,2025-12-24,completed,235.23
+494,1777,37,3,Signature Story,Couples,2024-07-08,2024-09-18,completed,683.93
+495,224,17,3,Signature Story,Couples,2025-09-23,2026-01-20,completed,645.93
+496,663,227,4,Milestone,Graduation,2026-01-04,2026-02-02,completed,518.27
+497,1771,308,4,Milestone,Graduation,2024-03-07,2024-06-19,completed,500.86
+498,1194,1131,2,Essential Portrait,Newborn,2025-06-16,2025-08-06,completed,455.73
+499,448,561,4,Milestone,Graduation,2024-07-13,2024-10-01,completed,553.75
+500,666,738,6,Wedding Collection,Weddings,2024-09-23,2024-11-21,rescheduled,2892.79
+501,20,570,4,Milestone,Graduation,2025-08-21,2025-12-18,completed,485.84
+502,190,26,6,Wedding Collection,Weddings,2025-09-04,2025-12-16,cancelled,2895.48
+503,634,925,3,Signature Story,Couples,2024-10-07,2024-12-09,completed,629.1
+504,1725,859,2,Essential Portrait,Newborn,2025-03-09,2025-03-16,completed,492.09
+505,761,158,1,Mini Moment,Mini sessions,2025-02-17,2025-04-30,rescheduled,228.36
+506,1091,676,1,Mini Moment,Mini sessions,2025-03-20,2025-04-19,completed,237.84
+507,233,1185,2,Essential Portrait,Family portraits,2025-11-04,2026-01-02,completed,435.85
+508,890,986,1,Mini Moment,Mini sessions,2025-07-26,2025-09-20,completed,214.46
+509,253,1065,2,Essential Portrait,Family portraits,2025-09-28,2025-10-20,completed,476.45
+510,1296,930,2,Essential Portrait,Maternity,2024-04-02,2024-05-21,completed,481.72
+511,1787,138,2,Essential Portrait,Family portraits,2025-11-19,2026-01-02,completed,447.12
+512,174,1058,2,Essential Portrait,Newborn,2024-04-12,2024-06-09,completed,449.88
+513,206,323,2,Essential Portrait,Maternity,2025-01-23,2025-02-04,completed,510.04
+514,520,631,6,Wedding Collection,Weddings,2025-10-27,2025-11-27,completed,3301.82
+515,1256,1110,1,Mini Moment,Mini sessions,2024-03-08,2024-06-10,rescheduled,206.16
+516,1631,369,6,Wedding Collection,Weddings,2024-11-30,2025-03-20,completed,2957.89
+517,1319,207,6,Wedding Collection,Weddings,2025-07-16,2025-08-18,rescheduled,3038.5
+518,1250,260,5,Brand Builder,Branding/headshots,2025-08-10,2025-09-06,completed,896.72
+519,313,627,6,Wedding Collection,Weddings,2025-04-03,2025-06-13,completed,3256.02
+520,674,1166,4,Milestone,Graduation,2024-05-08,2024-06-19,completed,492.81
+521,348,1184,1,Mini Moment,Mini sessions,2025-11-12,2025-11-30,completed,222.28
+522,1330,1177,4,Milestone,Graduation,2024-05-21,2024-06-29,rescheduled,479.46
+523,1550,139,2,Essential Portrait,Family portraits,2024-12-03,2025-02-07,completed,458.85
+524,191,198,1,Mini Moment,Mini sessions,2025-07-25,2025-10-13,completed,239.03
+525,1355,875,2,Essential Portrait,Family portraits,2025-09-14,2025-12-30,completed,512.81
+526,755,65,4,Milestone,Graduation,2025-05-10,2025-06-24,completed,505.82
+527,1448,159,2,Essential Portrait,Family portraits,2025-12-18,2026-03-23,completed,497.83
+528,361,842,5,Brand Builder,Branding/headshots,2025-01-27,2025-05-07,completed,771.07
+529,1072,227,2,Essential Portrait,Maternity,2024-10-07,2024-12-09,completed,449.21
+530,1275,955,4,Milestone,Graduation,2024-10-02,2024-10-09,completed,524.53
+531,1185,169,3,Signature Story,Couples,2024-06-04,2024-07-03,completed,687.02
+532,41,919,6,Wedding Collection,Weddings,2024-09-30,2024-12-16,completed,2969.77
+533,615,951,4,Milestone,Graduation,2025-11-07,2026-01-06,rescheduled,542.08
+534,1452,831,1,Mini Moment,Mini sessions,2025-03-27,2025-04-12,completed,227.26
+535,796,1150,2,Essential Portrait,Maternity,2025-12-18,2026-03-10,completed,455.18
+536,181,28,1,Mini Moment,Mini sessions,2025-06-06,2025-07-22,rescheduled,224.36
+537,1485,592,1,Mini Moment,Mini sessions,2025-01-28,2025-05-26,confirmed,232.29
+538,630,19,5,Brand Builder,Branding/headshots,2025-06-05,2025-09-22,completed,917.26
+539,1034,289,4,Milestone,Graduation,2024-10-24,2024-12-16,completed,538.5
+540,963,578,2,Essential Portrait,Newborn,2025-04-28,2025-08-10,completed,437.16
+541,1686,271,2,Essential Portrait,Family portraits,2024-10-16,2025-02-07,completed,440.75
+542,494,1181,1,Mini Moment,Mini sessions,2024-03-29,2024-05-01,completed,240.49
+543,989,606,4,Milestone,Graduation,2025-05-24,2025-08-12,completed,489.07
+544,1220,82,2,Essential Portrait,Newborn,2025-09-07,2025-10-26,rescheduled,427.91
+545,1451,290,5,Brand Builder,Branding/headshots,2025-05-14,2025-07-17,completed,806.7
+546,1399,998,5,Brand Builder,Branding/headshots,2024-04-11,2024-06-28,completed,796.68
+547,707,260,2,Essential Portrait,Family portraits,2025-10-22,2026-01-05,completed,471.34
+548,399,594,2,Essential Portrait,Family portraits,2024-01-27,2024-03-02,completed,428.83
+549,1150,431,2,Essential Portrait,Newborn,2025-05-09,2025-06-22,completed,467.37
+550,279,906,3,Signature Story,Couples,2024-06-21,2024-10-09,completed,610.97
+551,958,581,2,Essential Portrait,Family portraits,2025-12-24,2026-01-23,completed,474.35
+552,283,689,2,Essential Portrait,Family portraits,2024-06-10,2024-08-24,completed,477.75
+553,780,919,1,Mini Moment,Mini sessions,2025-10-22,2025-12-13,completed,221.71
+554,496,397,4,Milestone,Graduation,2024-11-28,2024-12-23,rescheduled,479.5
+555,931,855,2,Essential Portrait,Family portraits,2024-12-30,2025-02-01,completed,465.81
+556,1583,333,5,Brand Builder,Branding/headshots,2025-07-26,2025-10-05,completed,895.06
+557,546,886,2,Essential Portrait,Family portraits,2024-10-22,2024-10-31,confirmed,480.96
+558,588,531,6,Wedding Collection,Weddings,2024-06-02,2024-07-30,completed,2898.95
+559,360,168,2,Essential Portrait,Family portraits,2024-11-17,2025-03-03,completed,482.68
+560,170,770,1,Mini Moment,Mini sessions,2025-09-23,2025-12-23,cancelled,203.31
+561,1574,604,6,Wedding Collection,Weddings,2024-06-28,2024-09-29,cancelled,3286.36
+562,1000,534,5,Brand Builder,Branding/headshots,2025-05-06,2025-08-09,completed,842.14
+563,1714,745,2,Essential Portrait,Newborn,2024-11-15,2025-01-22,confirmed,490.41
+564,1368,483,1,Mini Moment,Mini sessions,2025-11-11,2026-02-23,completed,232.32
+565,597,1199,4,Milestone,Graduation,2025-06-04,2025-09-14,confirmed,548.47
+566,1695,512,4,Milestone,Graduation,2024-08-25,2024-10-19,confirmed,519.08
+567,147,801,5,Brand Builder,Branding/headshots,2025-02-19,2025-03-31,completed,836.52
+568,1657,693,5,Brand Builder,Branding/headshots,2025-11-26,2026-03-23,cancelled,779.85
+569,1359,581,4,Milestone,Graduation,2025-05-08,2025-07-22,completed,510.0
+570,652,203,2,Essential Portrait,Family portraits,2025-11-18,2025-12-16,cancelled,429.84
+571,308,408,5,Brand Builder,Branding/headshots,2024-04-15,2024-07-27,completed,846.92
+572,1791,723,2,Essential Portrait,Family portraits,2025-03-03,2025-04-26,confirmed,484.0
+573,31,1113,5,Brand Builder,Branding/headshots,2024-02-27,2024-04-06,completed,857.54
+574,742,409,6,Wedding Collection,Weddings,2024-12-21,2025-01-03,completed,3414.42
+575,1678,173,5,Brand Builder,Branding/headshots,2025-06-05,2025-07-03,completed,808.61
+576,1615,1010,5,Brand Builder,Branding/headshots,2024-10-02,2025-01-26,completed,842.45
+577,671,478,4,Milestone,Graduation,2024-03-28,2024-05-02,rescheduled,521.15
+578,1176,672,2,Essential Portrait,Family portraits,2024-04-23,2024-06-23,completed,461.76
+579,567,849,3,Signature Story,Couples,2024-11-15,2025-01-25,completed,637.22
+580,917,206,2,Essential Portrait,Family portraits,2025-04-19,2025-08-11,completed,440.64
+581,469,399,6,Wedding Collection,Weddings,2024-10-16,2024-11-15,completed,3434.5
+582,287,115,6,Wedding Collection,Weddings,2024-11-09,2025-02-02,completed,3275.89
+583,1758,930,5,Brand Builder,Branding/headshots,2024-08-04,2024-10-09,confirmed,770.59
+584,1480,979,4,Milestone,Graduation,2024-11-17,2024-12-08,completed,500.23
+585,70,1142,2,Essential Portrait,Newborn,2025-04-01,2025-06-24,completed,510.6
+586,827,570,2,Essential Portrait,Newborn,2024-12-03,2025-03-08,completed,504.36
+587,311,422,2,Essential Portrait,Maternity,2024-10-27,2024-12-24,cancelled,480.65
+588,1205,382,5,Brand Builder,Branding/headshots,2025-05-15,2025-06-25,completed,813.95
+589,1470,80,2,Essential Portrait,Newborn,2024-06-14,2024-07-29,completed,480.46
+590,680,830,6,Wedding Collection,Weddings,2025-10-05,2025-11-08,completed,2883.23
+591,823,415,6,Wedding Collection,Weddings,2025-05-19,2025-07-21,completed,3020.82
+592,856,545,2,Essential Portrait,Newborn,2025-10-28,2026-01-31,completed,446.72
+593,1475,1198,3,Signature Story,Couples,2024-03-05,2024-05-12,cancelled,676.58
+594,1350,327,2,Essential Portrait,Family portraits,2025-07-09,2025-09-05,completed,480.63
+595,1531,33,3,Signature Story,Couples,2025-06-10,2025-09-22,completed,684.94
+596,29,500,3,Signature Story,Couples,2025-05-22,2025-06-06,completed,649.72
+597,165,314,2,Essential Portrait,Family portraits,2024-08-14,2024-09-04,completed,449.81
+598,757,861,2,Essential Portrait,Family portraits,2024-11-08,2025-01-23,cancelled,445.55
+599,1493,1033,1,Mini Moment,Mini sessions,2024-10-31,2025-01-08,completed,212.72
+600,1741,421,3,Signature Story,Couples,2024-07-21,2024-08-21,completed,664.32
+601,873,659,5,Brand Builder,Branding/headshots,2024-12-12,2025-04-08,completed,851.81
+602,488,447,2,Essential Portrait,Maternity,2025-01-11,2025-02-04,completed,484.88
+603,1138,790,4,Milestone,Graduation,2024-09-09,2024-10-27,completed,473.67
+604,177,1109,3,Signature Story,Couples,2025-03-03,2025-05-17,completed,610.56
+605,1554,556,2,Essential Portrait,Family portraits,2024-04-02,2024-05-07,completed,502.39
+606,1155,167,2,Essential Portrait,Newborn,2025-04-28,2025-05-23,completed,505.57
+607,388,223,2,Essential Portrait,Family portraits,2025-08-30,2025-10-10,completed,496.62
+608,398,1018,5,Brand Builder,Branding/headshots,2025-01-05,2025-04-27,completed,909.8
+609,470,186,5,Brand Builder,Branding/headshots,2024-07-07,2024-09-21,completed,904.16
+610,1020,494,1,Mini Moment,Mini sessions,2025-12-31,2026-04-05,completed,240.09
+611,724,565,2,Essential Portrait,Newborn,2024-08-24,2024-10-26,completed,507.25
+612,1759,520,3,Signature Story,Couples,2025-07-13,2025-08-05,completed,660.85
+613,683,1123,1,Mini Moment,Mini sessions,2025-01-03,2025-01-28,rescheduled,208.47
+614,875,1153,3,Signature Story,Couples,2024-05-03,2024-05-19,completed,645.18
+615,484,231,6,Wedding Collection,Weddings,2024-05-18,2024-06-02,completed,3412.42
+616,509,595,2,Essential Portrait,Newborn,2025-10-18,2026-01-17,confirmed,442.12
+617,80,571,5,Brand Builder,Branding/headshots,2024-12-26,2025-03-06,completed,813.82
+618,1186,547,6,Wedding Collection,Weddings,2025-02-09,2025-05-17,completed,3098.93
+619,483,626,2,Essential Portrait,Newborn,2025-02-05,2025-03-31,completed,502.41
+620,450,499,2,Essential Portrait,Maternity,2024-08-17,2024-09-27,cancelled,480.06
+621,422,582,2,Essential Portrait,Family portraits,2024-04-19,2024-06-23,completed,487.03
+622,1528,491,4,Milestone,Graduation,2025-10-12,2025-12-23,completed,473.71
+623,1111,314,2,Essential Portrait,Newborn,2025-05-21,2025-07-02,completed,451.91
+624,1512,315,5,Brand Builder,Branding/headshots,2024-10-10,2024-10-30,completed,843.79
+625,1049,262,4,Milestone,Graduation,2025-06-07,2025-09-23,completed,472.64
+626,1247,758,1,Mini Moment,Mini sessions,2025-11-23,2026-03-23,rescheduled,226.14
+627,1608,1006,6,Wedding Collection,Weddings,2024-04-25,2024-08-11,completed,3196.25
+628,87,535,5,Brand Builder,Branding/headshots,2025-12-10,2025-12-30,completed,867.86
+629,430,849,3,Signature Story,Couples,2025-11-08,2026-02-20,completed,688.67
+630,65,467,1,Mini Moment,Mini sessions,2024-12-30,2025-01-29,completed,225.53
+631,1698,337,3,Signature Story,Couples,2024-10-11,2024-11-20,completed,642.8
+632,734,544,4,Milestone,Graduation,2025-03-08,2025-05-23,completed,544.96
+633,387,50,4,Milestone,Graduation,2025-09-11,2025-12-14,completed,562.64
+634,1229,362,2,Essential Portrait,Family portraits,2025-04-05,2025-07-14,completed,456.91
+635,879,535,2,Essential Portrait,Maternity,2024-03-28,2024-04-17,completed,499.31
+636,241,673,2,Essential Portrait,Newborn,2025-12-30,2026-03-02,completed,463.84
+637,1548,194,6,Wedding Collection,Weddings,2024-09-30,2024-12-16,completed,2902.92
+638,503,970,4,Milestone,Graduation,2024-05-11,2024-08-30,rescheduled,517.8
+639,290,904,2,Essential Portrait,Family portraits,2024-09-16,2024-09-23,completed,464.68
+640,297,315,6,Wedding Collection,Weddings,2024-11-07,2025-02-28,cancelled,3333.54
+641,1674,995,1,Mini Moment,Mini sessions,2024-10-31,2024-12-01,completed,209.38
+642,364,553,1,Mini Moment,Mini sessions,2024-08-08,2024-11-19,completed,222.85
+643,111,1071,1,Mini Moment,Mini sessions,2024-11-26,2025-03-22,completed,235.69
+644,553,240,2,Essential Portrait,Family portraits,2025-05-01,2025-06-21,cancelled,497.03
+645,1412,574,5,Brand Builder,Branding/headshots,2024-05-21,2024-08-26,completed,829.55
+646,830,1066,4,Milestone,Graduation,2024-09-16,2024-10-27,completed,530.08
+647,1221,37,4,Milestone,Graduation,2025-11-18,2025-12-13,completed,566.01
+648,669,330,6,Wedding Collection,Weddings,2025-09-19,2026-01-06,completed,3289.83
+649,1245,88,5,Brand Builder,Branding/headshots,2025-07-29,2025-11-25,completed,915.03
+650,378,860,4,Milestone,Graduation,2024-08-03,2024-08-27,cancelled,521.13
+651,61,592,2,Essential Portrait,Family portraits,2025-06-10,2025-10-06,completed,467.2
+652,745,733,4,Milestone,Graduation,2024-03-19,2024-05-17,rescheduled,514.13
+653,906,157,6,Wedding Collection,Weddings,2024-10-31,2024-11-07,completed,3014.84
+654,1128,1024,2,Essential Portrait,Family portraits,2025-10-29,2025-11-13,completed,501.58
+655,354,94,2,Essential Portrait,Newborn,2025-09-29,2025-12-27,completed,455.8
+656,1666,225,2,Essential Portrait,Newborn,2024-11-25,2025-01-09,completed,481.83
+657,605,323,2,Essential Portrait,Maternity,2025-07-06,2025-09-21,confirmed,435.33
+658,962,833,1,Mini Moment,Mini sessions,2025-05-01,2025-06-21,completed,242.56
+659,405,849,1,Mini Moment,Mini sessions,2025-12-15,2026-01-25,completed,235.35
+660,1497,278,2,Essential Portrait,Maternity,2025-07-19,2025-10-17,completed,459.67
+661,1607,254,6,Wedding Collection,Weddings,2025-10-28,2026-02-20,completed,2978.42
+662,512,854,5,Brand Builder,Branding/headshots,2024-04-01,2024-04-20,completed,865.44
+663,495,793,4,Milestone,Graduation,2025-05-26,2025-09-03,completed,552.72
+664,1237,742,1,Mini Moment,Mini sessions,2024-12-19,2025-04-12,completed,230.23
+665,794,605,5,Brand Builder,Branding/headshots,2025-10-19,2026-01-31,completed,774.56
+666,356,763,2,Essential Portrait,Family portraits,2025-11-16,2026-01-13,cancelled,443.53
+667,1066,1145,2,Essential Portrait,Maternity,2024-12-01,2025-02-04,rescheduled,442.45
+668,594,611,1,Mini Moment,Mini sessions,2025-06-06,2025-06-24,rescheduled,206.68
+669,183,629,1,Mini Moment,Mini sessions,2025-02-15,2025-05-15,completed,230.81
+670,13,579,6,Wedding Collection,Weddings,2025-10-07,2025-12-16,completed,3392.16
+671,1255,47,2,Essential Portrait,Newborn,2024-07-08,2024-07-26,completed,428.55
+672,1329,519,1,Mini Moment,Mini sessions,2025-11-10,2026-01-02,completed,214.5
+673,1769,982,4,Milestone,Graduation,2024-05-08,2024-08-18,completed,552.53
+674,154,693,5,Brand Builder,Branding/headshots,2024-03-22,2024-07-03,confirmed,783.28
+675,1248,933,4,Milestone,Graduation,2025-04-24,2025-07-24,cancelled,543.31
+676,661,1050,2,Essential Portrait,Family portraits,2024-12-26,2025-04-14,completed,481.32
+677,1351,910,4,Milestone,Graduation,2025-08-19,2025-11-02,completed,482.12
+678,266,1194,1,Mini Moment,Mini sessions,2025-03-30,2025-06-10,cancelled,219.9
+679,1121,362,1,Mini Moment,Mini sessions,2024-06-21,2024-10-08,completed,214.48
+680,1228,181,2,Essential Portrait,Maternity,2024-02-18,2024-05-22,confirmed,465.27
+681,523,157,2,Essential Portrait,Newborn,2024-09-14,2024-10-21,completed,479.61
+682,128,807,2,Essential Portrait,Family portraits,2024-11-01,2025-01-29,completed,487.26
+683,1670,133,4,Milestone,Graduation,2024-06-09,2024-06-19,completed,558.98
+684,665,52,5,Brand Builder,Branding/headshots,2024-06-26,2024-07-30,completed,850.07
+685,1471,231,5,Brand Builder,Branding/headshots,2024-06-24,2024-07-16,completed,861.18
+686,464,485,5,Brand Builder,Branding/headshots,2024-05-19,2024-06-01,completed,810.52
+687,973,109,2,Essential Portrait,Maternity,2025-11-19,2025-12-27,completed,464.6
+688,656,91,2,Essential Portrait,Newborn,2024-08-09,2024-09-09,cancelled,490.54
+689,1766,984,2,Essential Portrait,Newborn,2025-04-03,2025-06-10,completed,496.31
+690,91,496,1,Mini Moment,Mini sessions,2024-11-15,2025-01-25,completed,225.72
+691,728,709,1,Mini Moment,Mini sessions,2025-12-12,2026-03-01,completed,237.53
+692,1069,419,2,Essential Portrait,Newborn,2024-10-02,2024-11-26,rescheduled,489.71
+693,433,1097,5,Brand Builder,Branding/headshots,2024-04-04,2024-06-28,completed,914.67
+694,1170,962,6,Wedding Collection,Weddings,2024-12-11,2024-12-20,completed,3246.98
+695,925,638,2,Essential Portrait,Maternity,2025-10-31,2026-02-16,completed,487.49
+696,1650,935,2,Essential Portrait,Newborn,2024-03-07,2024-04-16,rescheduled,482.17
+697,1602,214,4,Milestone,Graduation,2024-05-27,2024-09-18,cancelled,501.67
+698,1558,75,2,Essential Portrait,Maternity,2024-12-31,2025-02-15,confirmed,467.5
+699,1739,684,2,Essential Portrait,Newborn,2025-10-15,2025-12-02,completed,486.24
+700,1505,836,3,Signature Story,Couples,2024-04-29,2024-08-17,completed,617.14
+701,664,1152,2,Essential Portrait,Family portraits,2025-02-08,2025-02-23,rescheduled,481.0
+702,374,561,6,Wedding Collection,Weddings,2024-06-30,2024-07-14,confirmed,3166.96
+703,498,677,5,Brand Builder,Branding/headshots,2025-04-29,2025-05-09,rescheduled,877.89
+704,797,977,5,Brand Builder,Branding/headshots,2024-03-11,2024-06-17,rescheduled,887.17
+705,1794,340,2,Essential Portrait,Newborn,2025-07-30,2025-10-14,completed,485.27
+706,1217,961,2,Essential Portrait,Maternity,2025-03-09,2025-06-03,completed,492.43
+707,1056,463,5,Brand Builder,Branding/headshots,2024-02-28,2024-05-18,completed,828.4
+708,33,844,4,Milestone,Graduation,2025-03-09,2025-04-01,cancelled,508.04
+709,1206,218,5,Brand Builder,Branding/headshots,2025-10-20,2026-01-15,completed,827.48
+710,141,651,6,Wedding Collection,Weddings,2025-10-31,2026-02-21,completed,3173.47
+711,299,904,2,Essential Portrait,Family portraits,2025-04-10,2025-05-27,completed,483.82
+712,1444,269,5,Brand Builder,Branding/headshots,2024-08-18,2024-10-03,rescheduled,903.16
+713,1785,927,6,Wedding Collection,Weddings,2025-10-20,2025-11-11,completed,3121.59
+714,1417,724,2,Essential Portrait,Newborn,2025-10-08,2026-01-27,completed,457.57
+715,587,25,2,Essential Portrait,Family portraits,2025-11-01,2025-12-08,completed,501.74
+716,86,1170,4,Milestone,Graduation,2025-03-17,2025-05-26,completed,486.93
+717,1735,860,5,Brand Builder,Branding/headshots,2024-02-21,2024-03-20,completed,917.22
+718,439,133,3,Signature Story,Couples,2025-05-07,2025-08-04,completed,700.8
+719,97,618,2,Essential Portrait,Newborn,2024-07-21,2024-10-14,completed,450.43
+720,570,365,2,Essential Portrait,Family portraits,2025-04-04,2025-04-14,cancelled,499.51
+721,104,750,5,Brand Builder,Branding/headshots,2025-02-19,2025-05-20,rescheduled,886.61
+722,657,1063,1,Mini Moment,Mini sessions,2025-03-09,2025-03-27,completed,231.92
+723,28,619,1,Mini Moment,Mini sessions,2024-09-12,2024-09-23,completed,224.42
+724,1071,572,4,Milestone,Graduation,2025-12-13,2026-01-17,completed,486.39
+725,939,817,4,Milestone,Graduation,2024-03-21,2024-06-14,completed,479.64
+726,1328,374,6,Wedding Collection,Weddings,2025-10-06,2025-11-23,completed,2936.45
+727,563,40,4,Milestone,Graduation,2024-07-13,2024-07-20,completed,559.29
+728,107,595,1,Mini Moment,Mini sessions,2024-02-18,2024-03-28,completed,229.69
+729,1177,901,5,Brand Builder,Branding/headshots,2024-04-30,2024-06-02,completed,804.09
+730,994,820,2,Essential Portrait,Newborn,2025-10-08,2025-11-17,completed,442.01
+731,945,353,1,Mini Moment,Mini sessions,2024-06-15,2024-09-29,completed,239.79
+732,699,635,5,Brand Builder,Branding/headshots,2025-09-23,2025-11-27,completed,913.17
+733,1263,359,4,Milestone,Graduation,2025-05-22,2025-06-29,completed,489.7
+734,689,787,2,Essential Portrait,Newborn,2024-08-12,2024-08-21,completed,466.49
+735,263,902,2,Essential Portrait,Family portraits,2025-11-21,2026-01-28,completed,508.64
+736,145,1001,5,Brand Builder,Branding/headshots,2025-08-29,2025-11-02,completed,798.65
+737,421,186,2,Essential Portrait,Maternity,2024-04-02,2024-05-19,completed,494.87
+738,704,412,2,Essential Portrait,Family portraits,2025-12-12,2026-01-10,completed,433.48
+739,37,11,2,Essential Portrait,Family portraits,2024-12-31,2025-02-15,completed,504.82
+740,227,1074,1,Mini Moment,Mini sessions,2024-10-19,2024-12-07,completed,213.76
+741,1618,1083,2,Essential Portrait,Newborn,2024-03-15,2024-06-07,confirmed,512.43
+742,1796,302,1,Mini Moment,Mini sessions,2025-10-30,2026-01-09,completed,237.47
+743,412,413,3,Signature Story,Couples,2025-03-15,2025-04-02,completed,614.17
+744,414,1170,1,Mini Moment,Mini sessions,2024-06-09,2024-10-05,rescheduled,232.62
+745,35,357,5,Brand Builder,Branding/headshots,2025-03-22,2025-05-19,completed,873.13
+746,304,588,6,Wedding Collection,Weddings,2024-10-03,2025-01-02,completed,2995.64
+747,928,22,4,Milestone,Graduation,2025-10-17,2026-02-09,completed,559.03
+748,1585,793,3,Signature Story,Couples,2024-10-29,2024-11-21,completed,634.58
+749,371,97,2,Essential Portrait,Newborn,2025-12-27,2026-01-16,completed,487.49
+750,1308,505,4,Milestone,Graduation,2024-07-23,2024-09-16,completed,507.63
+751,92,501,1,Mini Moment,Mini sessions,2025-10-04,2025-11-25,completed,232.73
+752,461,545,2,Essential Portrait,Family portraits,2024-10-16,2025-01-17,rescheduled,467.73
+753,306,155,4,Milestone,Graduation,2025-05-17,2025-08-10,completed,534.85
+754,1315,929,5,Brand Builder,Branding/headshots,2025-11-10,2025-12-29,completed,819.73
+755,1680,217,1,Mini Moment,Mini sessions,2024-12-22,2025-03-07,completed,202.76
+756,1271,104,2,Essential Portrait,Family portraits,2025-11-25,2025-12-02,completed,452.76
+757,1109,641,2,Essential Portrait,Maternity,2024-09-21,2025-01-04,cancelled,467.68
+758,198,694,4,Milestone,Graduation,2025-05-16,2025-09-11,completed,540.0
+759,130,848,2,Essential Portrait,Maternity,2024-06-28,2024-09-26,completed,470.91
+760,1151,580,2,Essential Portrait,Family portraits,2024-10-21,2024-11-27,cancelled,507.11
+761,1792,1066,3,Signature Story,Couples,2025-05-18,2025-09-02,confirmed,620.23
+762,660,667,5,Brand Builder,Branding/headshots,2024-06-06,2024-08-10,completed,842.81
+763,1740,516,4,Milestone,Graduation,2025-11-18,2025-12-26,completed,513.1
+764,619,805,1,Mini Moment,Mini sessions,2025-03-20,2025-04-13,completed,226.76
+765,50,692,1,Mini Moment,Mini sessions,2025-11-22,2025-12-08,confirmed,205.52
+766,339,1031,2,Essential Portrait,Newborn,2025-02-07,2025-04-07,completed,505.11
+767,186,1017,5,Brand Builder,Branding/headshots,2024-08-06,2024-08-23,completed,795.35
+768,814,163,1,Mini Moment,Mini sessions,2024-10-14,2024-11-26,rescheduled,216.28
+769,895,698,2,Essential Portrait,Newborn,2025-12-04,2025-12-26,cancelled,449.67
+770,1207,822,1,Mini Moment,Mini sessions,2024-10-28,2024-12-10,completed,214.84
+771,1279,1124,2,Essential Portrait,Maternity,2024-03-07,2024-04-22,completed,456.73
+772,501,334,2,Essential Portrait,Maternity,2025-06-23,2025-10-18,completed,457.35
+773,267,959,3,Signature Story,Couples,2025-11-09,2026-02-01,completed,633.53
+774,1572,637,6,Wedding Collection,Weddings,2024-11-13,2024-11-27,rescheduled,3271.49
+775,1580,814,2,Essential Portrait,Family portraits,2024-12-01,2025-02-21,completed,444.93
+776,1793,873,2,Essential Portrait,Family portraits,2024-04-03,2024-05-31,completed,442.95
+777,914,399,4,Milestone,Graduation,2025-05-10,2025-05-21,completed,527.51
+778,151,1057,6,Wedding Collection,Weddings,2024-10-08,2025-01-07,completed,3235.34
+779,1277,869,2,Essential Portrait,Family portraits,2025-11-19,2026-02-23,completed,506.97
+780,748,290,6,Wedding Collection,Weddings,2024-05-16,2024-07-23,completed,3183.53
+781,888,642,1,Mini Moment,Mini sessions,2025-02-12,2025-05-22,completed,211.27
+782,1137,144,2,Essential Portrait,Family portraits,2025-05-14,2025-09-10,completed,449.9
+783,1154,982,6,Wedding Collection,Weddings,2025-10-21,2026-01-13,completed,3172.62
+784,1292,1026,2,Essential Portrait,Maternity,2025-07-21,2025-08-21,completed,464.63
+785,1064,299,6,Wedding Collection,Weddings,2025-07-07,2025-08-24,completed,2952.51
+786,1638,1108,1,Mini Moment,Mini sessions,2025-06-24,2025-08-12,completed,213.48
+787,975,669,6,Wedding Collection,Weddings,2024-09-07,2024-12-07,completed,3072.59
+788,1565,491,1,Mini Moment,Mini sessions,2025-11-20,2025-11-29,completed,207.25
+789,143,1101,1,Mini Moment,Mini sessions,2024-06-16,2024-08-23,completed,229.65
+790,260,235,1,Mini Moment,Mini sessions,2024-11-24,2025-01-24,rescheduled,204.17
+791,857,594,2,Essential Portrait,Family portraits,2025-11-04,2025-11-23,completed,471.6
+792,1546,809,3,Signature Story,Couples,2026-01-03,2026-02-25,completed,654.87
+793,1265,434,4,Milestone,Graduation,2025-04-23,2025-07-16,completed,557.74
+794,1032,1184,2,Essential Portrait,Family portraits,2025-04-24,2025-08-13,completed,453.44
+795,824,1176,4,Milestone,Graduation,2025-09-29,2025-11-18,completed,529.63
+796,579,857,6,Wedding Collection,Weddings,2024-06-02,2024-09-20,completed,3232.94
+797,161,953,1,Mini Moment,Mini sessions,2025-01-01,2025-03-15,completed,233.53
+798,1731,65,1,Mini Moment,Mini sessions,2026-01-03,2026-01-19,rescheduled,238.83
+799,1661,912,3,Signature Story,Couples,2025-02-02,2025-06-01,completed,621.73
+800,599,32,1,Mini Moment,Mini sessions,2024-10-25,2024-11-15,completed,217.01
+801,1244,184,4,Milestone,Graduation,2024-10-24,2025-01-30,completed,539.62
+802,1492,284,5,Brand Builder,Branding/headshots,2024-07-18,2024-09-28,completed,844.53
+803,455,381,1,Mini Moment,Mini sessions,2024-08-23,2024-12-09,completed,235.84
+804,1375,596,6,Wedding Collection,Weddings,2025-05-27,2025-09-12,completed,3262.81
+805,964,527,2,Essential Portrait,Family portraits,2025-11-26,2026-03-20,cancelled,448.95
+806,1478,747,5,Brand Builder,Branding/headshots,2024-07-09,2024-10-27,cancelled,817.27
+807,1060,980,2,Essential Portrait,Newborn,2024-03-30,2024-06-10,completed,437.91
+808,429,14,2,Essential Portrait,Maternity,2024-06-26,2024-07-12,completed,493.36
+809,543,854,4,Milestone,Graduation,2025-01-15,2025-03-03,completed,563.66
+810,389,483,2,Essential Portrait,Newborn,2024-05-21,2024-06-14,cancelled,475.26
+811,322,686,4,Milestone,Graduation,2025-07-05,2025-10-07,completed,527.61
+812,1077,1176,6,Wedding Collection,Weddings,2024-11-08,2024-12-12,completed,3453.95
+813,242,1127,1,Mini Moment,Mini sessions,2025-10-24,2025-12-02,completed,226.64
+814,1201,1108,2,Essential Portrait,Maternity,2024-03-22,2024-04-21,completed,475.76
+815,118,727,5,Brand Builder,Branding/headshots,2024-06-25,2024-08-08,completed,808.04
+816,922,124,6,Wedding Collection,Weddings,2025-10-01,2025-12-09,completed,3295.0
+817,269,290,3,Signature Story,Couples,2024-10-13,2024-11-06,cancelled,596.72
+818,650,603,4,Milestone,Graduation,2025-08-27,2025-10-03,completed,555.57
+819,1156,208,3,Signature Story,Couples,2025-05-29,2025-08-31,completed,686.63
+820,1502,446,1,Mini Moment,Mini sessions,2025-05-20,2025-08-31,completed,236.15
+821,1342,933,5,Brand Builder,Branding/headshots,2025-04-05,2025-05-06,completed,807.19
+822,645,974,3,Signature Story,Couples,2025-08-04,2025-09-25,completed,633.95
+823,747,3,6,Wedding Collection,Weddings,2024-01-16,2024-04-03,completed,3252.4
+824,825,309,2,Essential Portrait,Family portraits,2024-11-12,2025-03-11,completed,451.07
+825,1520,658,2,Essential Portrait,Maternity,2025-04-20,2025-06-06,confirmed,437.49
+826,1123,328,1,Mini Moment,Mini sessions,2024-10-09,2024-11-04,completed,227.91
+827,1348,634,6,Wedding Collection,Weddings,2025-03-18,2025-03-26,completed,3120.0
+828,365,1135,6,Wedding Collection,Weddings,2025-08-04,2025-10-09,completed,2989.14
+829,1166,409,1,Mini Moment,Mini sessions,2024-12-17,2025-01-05,completed,215.52
+830,78,790,6,Wedding Collection,Weddings,2025-06-26,2025-09-05,completed,3234.27
+831,391,573,6,Wedding Collection,Weddings,2025-12-02,2026-01-21,cancelled,3172.75
+832,1707,963,2,Essential Portrait,Newborn,2024-04-27,2024-05-07,completed,473.28
+833,1095,755,1,Mini Moment,Mini sessions,2024-09-09,2024-10-15,completed,212.2
+834,1573,230,4,Milestone,Graduation,2025-05-15,2025-08-27,completed,512.99
+835,702,595,4,Milestone,Graduation,2026-01-10,2026-04-10,completed,542.5
+836,1671,920,2,Essential Portrait,Newborn,2024-10-15,2025-01-07,completed,427.82
+837,559,255,3,Signature Story,Couples,2025-10-26,2026-01-27,completed,673.01
+838,731,46,1,Mini Moment,Mini sessions,2024-09-26,2024-10-26,rescheduled,230.38
+839,337,1130,1,Mini Moment,Mini sessions,2025-11-27,2026-03-13,completed,212.4
+840,1383,590,6,Wedding Collection,Weddings,2024-09-15,2025-01-09,cancelled,3016.17
+841,427,413,3,Signature Story,Couples,2025-02-19,2025-06-04,cancelled,672.64
+842,168,39,3,Signature Story,Couples,2025-06-13,2025-08-10,completed,696.73
+843,1591,437,2,Essential Portrait,Maternity,2025-09-27,2026-01-05,completed,459.74
+844,997,75,4,Milestone,Graduation,2025-09-26,2025-10-13,completed,493.73
+845,44,696,2,Essential Portrait,Family portraits,2024-01-16,2024-04-28,rescheduled,496.53
+846,34,175,5,Brand Builder,Branding/headshots,2024-12-03,2024-12-11,cancelled,886.92
+847,1514,334,2,Essential Portrait,Maternity,2026-01-16,2026-01-30,completed,429.93
+848,976,653,2,Essential Portrait,Family portraits,2025-02-25,2025-05-24,completed,497.46
+849,878,312,1,Mini Moment,Mini sessions,2025-01-06,2025-01-15,completed,227.77
+850,1012,687,2,Essential Portrait,Newborn,2026-01-05,2026-04-10,completed,433.37
+851,380,899,2,Essential Portrait,Maternity,2025-09-01,2025-12-30,completed,455.78
+852,1504,1183,2,Essential Portrait,Family portraits,2025-05-27,2025-09-14,completed,504.18
+853,969,176,3,Signature Story,Couples,2024-12-12,2024-12-25,rescheduled,642.89
+854,223,1145,5,Brand Builder,Branding/headshots,2025-06-21,2025-09-26,confirmed,911.51
+855,7,300,5,Brand Builder,Branding/headshots,2025-10-23,2026-02-19,completed,822.81
+856,129,869,2,Essential Portrait,Maternity,2024-07-30,2024-10-23,completed,480.09
+857,6,995,1,Mini Moment,Mini sessions,2025-10-08,2025-10-18,completed,241.41
+858,1160,458,1,Mini Moment,Mini sessions,2024-03-20,2024-06-13,completed,227.59
+859,1286,99,5,Brand Builder,Branding/headshots,2025-05-31,2025-07-17,completed,870.72
+860,451,803,1,Mini Moment,Mini sessions,2024-03-05,2024-04-11,completed,215.87
+861,1140,379,2,Essential Portrait,Maternity,2024-09-15,2024-10-31,completed,500.49
+862,189,427,4,Milestone,Graduation,2025-05-30,2025-08-11,completed,536.66
+863,1687,135,1,Mini Moment,Mini sessions,2024-06-19,2024-07-22,cancelled,233.69
+864,978,696,4,Milestone,Graduation,2024-02-09,2024-05-23,completed,508.66
+865,1301,330,6,Wedding Collection,Weddings,2024-11-26,2025-03-22,completed,3280.15
+866,121,353,5,Brand Builder,Branding/headshots,2024-12-24,2025-01-26,confirmed,904.38
+867,565,670,1,Mini Moment,Mini sessions,2025-11-11,2026-02-08,completed,229.94
+868,1339,1050,5,Brand Builder,Branding/headshots,2025-08-23,2025-11-16,completed,907.49
+869,806,17,1,Mini Moment,Mini sessions,2025-03-12,2025-05-24,completed,240.22
+870,1425,297,4,Milestone,Graduation,2024-04-04,2024-05-23,completed,560.94
+871,1445,298,5,Brand Builder,Branding/headshots,2024-02-10,2024-02-17,completed,840.62
+872,447,710,2,Essential Portrait,Family portraits,2024-03-27,2024-05-07,completed,450.76
+873,282,897,4,Milestone,Graduation,2025-07-29,2025-09-28,completed,502.5
+874,1004,562,2,Essential Portrait,Newborn,2024-12-27,2025-01-31,completed,471.37
+875,1036,611,2,Essential Portrait,Family portraits,2025-04-23,2025-07-26,completed,457.12
+876,620,563,2,Essential Portrait,Family portraits,2025-07-06,2025-10-12,completed,438.92
+877,1773,555,4,Milestone,Graduation,2025-12-07,2026-01-12,completed,518.25
+878,222,685,2,Essential Portrait,Newborn,2024-07-12,2024-09-30,completed,504.39
+879,633,368,5,Brand Builder,Branding/headshots,2024-10-08,2024-10-20,completed,856.44
+880,1008,1119,6,Wedding Collection,Weddings,2024-12-16,2025-03-21,completed,3315.4
+881,351,833,4,Milestone,Graduation,2024-08-28,2024-09-04,completed,546.53
+882,1590,713,6,Wedding Collection,Weddings,2024-04-29,2024-08-27,completed,3184.54
+883,1522,658,4,Milestone,Graduation,2025-10-15,2026-01-03,completed,501.21
+884,1612,258,5,Brand Builder,Branding/headshots,2024-04-08,2024-04-30,completed,816.34
+885,569,564,5,Brand Builder,Branding/headshots,2024-11-28,2025-02-03,completed,845.58
+886,1144,858,4,Milestone,Graduation,2024-12-02,2025-02-12,completed,520.79
+887,1681,65,6,Wedding Collection,Weddings,2025-12-20,2026-03-02,completed,3253.37
+888,1679,485,1,Mini Moment,Mini sessions,2024-02-17,2024-04-20,completed,235.6
+889,1662,228,3,Signature Story,Couples,2025-03-12,2025-05-26,cancelled,669.5
+890,1276,305,2,Essential Portrait,Family portraits,2025-05-03,2025-05-17,cancelled,443.73
+891,1584,428,1,Mini Moment,Mini sessions,2025-11-25,2026-01-23,confirmed,221.07
+892,1599,919,2,Essential Portrait,Maternity,2024-05-31,2024-08-16,completed,444.16
+893,640,10,6,Wedding Collection,Weddings,2025-08-19,2025-10-06,completed,2914.59
+894,1332,242,2,Essential Portrait,Family portraits,2025-10-11,2025-10-26,rescheduled,457.0
+895,1336,1154,2,Essential Portrait,Family portraits,2025-12-09,2026-04-05,completed,464.89
+896,1102,226,5,Brand Builder,Branding/headshots,2025-12-19,2026-01-13,completed,810.57
+897,715,653,5,Brand Builder,Branding/headshots,2026-01-04,2026-04-23,completed,793.28
+898,62,888,6,Wedding Collection,Weddings,2025-06-05,2025-06-27,completed,3008.32
+899,967,1137,2,Essential Portrait,Newborn,2024-10-26,2024-12-17,rescheduled,466.67
+900,676,786,4,Milestone,Graduation,2024-10-25,2025-01-07,rescheduled,539.07

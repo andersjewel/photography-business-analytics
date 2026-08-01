@@ -1,0 +1,1801 @@
+lead_id,client_id,lead_source,service_category,inquiry_date,first_response_at,lead_status
+1,76,Facebook,Graduation,2024-06-05 00:00:00,2024-06-06 06:00:00,lost
+2,75,Facebook,Graduation,2024-12-14 00:00:00,2024-12-14 20:00:00,lost
+3,767,Google Search,Newborn,2025-08-17 00:00:00,2025-08-18 02:00:00,new
+4,322,Google Search,Family portraits,2025-10-09 00:00:00,2025-10-10 17:00:00,qualified
+5,774,Referral,Graduation,2024-05-06 00:00:00,2024-05-08 12:00:00,contacted
+6,995,Instagram,Mini sessions,2025-09-21 00:00:00,2025-09-23 21:00:00,qualified
+7,300,Wedding Vendor,Branding/headshots,2025-10-19 00:00:00,2025-10-19 04:00:00,qualified
+8,760,Referral,Family portraits,2025-06-07 00:00:00,2025-06-07 20:00:00,qualified
+9,812,Google Search,Branding/headshots,2024-09-15 00:00:00,2024-09-17 17:00:00,lost
+10,429,Referral,Family portraits,2024-09-06 00:00:00,2024-09-06 01:00:00,lost
+11,718,Facebook,Couples,2024-02-12 00:00:00,2024-02-13 19:00:00,qualified
+12,461,Facebook,Newborn,2024-06-04 00:00:00,2024-06-05 15:00:00,qualified
+13,579,Facebook,Weddings,2025-09-30 00:00:00,2025-09-30 07:00:00,qualified
+14,226,Repeat Client,Couples,2025-07-27 00:00:00,2025-07-28 10:00:00,qualified
+15,107,Referral,Couples,2025-06-06 00:00:00,2025-06-07 09:00:00,qualified
+16,242,Google Search,Family portraits,2025-01-31 00:00:00,2025-02-01 19:00:00,lost
+17,545,Wedding Vendor,Family portraits,2025-12-15 00:00:00,2025-12-16 00:00:00,lost
+18,908,Referral,Weddings,2025-12-03 00:00:00,2025-12-05 06:00:00,lost
+19,1088,Referral,Graduation,2025-04-07 00:00:00,2025-04-09 06:00:00,qualified
+20,570,Instagram,Graduation,2025-07-30 00:00:00,2025-08-01 13:00:00,qualified
+21,877,Instagram,Mini sessions,2024-03-26 00:00:00,2024-03-27 22:00:00,qualified
+22,822,Google Search,Weddings,2024-12-30 00:00:00,2024-12-30 04:00:00,qualified
+23,85,Facebook,Maternity,2025-08-30 00:00:00,2025-09-01 08:00:00,qualified
+24,113,Instagram,Weddings,2025-05-26 00:00:00,2025-05-28 13:00:00,contacted
+25,582,Paid Advertisement,Graduation,2025-12-15 00:00:00,2025-12-17 02:00:00,contacted
+26,151,Referral,Weddings,2024-04-13 00:00:00,2024-04-14 05:00:00,lost
+27,1137,Referral,Branding/headshots,2025-06-20 00:00:00,2025-06-22 10:00:00,qualified
+28,619,Google Search,Mini sessions,2024-08-24 00:00:00,2024-08-26 03:00:00,qualified
+29,500,Facebook,Couples,2025-05-21 00:00:00,2025-05-21 02:00:00,lost
+30,1102,Wedding Vendor,Family portraits,2024-11-19 00:00:00,2024-11-20 21:00:00,qualified
+31,1113,Google Search,Branding/headshots,2024-02-06 00:00:00,2024-02-07 11:00:00,qualified
+32,82,Google Search,Weddings,2024-09-07 00:00:00,2024-09-07 17:00:00,lost
+33,844,google,Graduation,2025-02-25 00:00:00,2025-02-27 12:00:00,contacted
+34,175,Paid Advertisement,Branding/headshots,2024-11-19 00:00:00,2024-11-20 07:00:00,new
+35,357,Referral,Branding/headshots,2025-03-16 00:00:00,2025-03-17 13:00:00,lost
+36,1127,Google Search,Couples,2024-06-03 00:00:00,2024-06-04 05:00:00,qualified
+37,11,Facebook,Family portraits,2024-12-08 00:00:00,2024-12-09 04:00:00,qualified
+38,1157,Wedding Vendor,Newborn,2024-07-23 00:00:00,2024-07-25 09:00:00,lost
+39,259,Instagram,Newborn,2024-01-18 00:00:00,2024-01-19 20:00:00,lost
+40,612,Instagram,Family portraits,2025-04-30 00:00:00,2025-05-02 20:00:00,lost
+41,919,Facebook,Weddings,2024-09-23 00:00:00,2024-09-25 02:00:00,qualified
+42,928,Local Event,Maternity,2025-11-07 00:00:00,2025-11-09 16:00:00,new
+43,395,Facebook,Branding/headshots,2024-08-25 00:00:00,2024-08-25 23:00:00,qualified
+44,696,Facebook,Family portraits,2024-01-14 00:00:00,2024-01-14 22:00:00,qualified
+45,777,Referral,Family portraits,2025-12-11 00:00:00,2025-12-11 22:00:00,contacted
+46,761,Facebook,Family portraits,2024-11-21 00:00:00,2024-11-21 13:00:00,lost
+47,4,Local Event,Graduation,2025-03-13 00:00:00,2025-03-14 15:00:00,lost
+48,771,Google Search,Branding/headshots,2025-05-01 00:00:00,2025-05-01 22:00:00,qualified
+49,528,Google Search,Mini sessions,2024-12-15 00:00:00,2024-12-16 15:00:00,lost
+50,692,Google Search,Mini sessions,2025-11-11 00:00:00,2025-11-13 06:00:00,qualified
+51,235,Referral,Graduation,2024-04-27 00:00:00,2024-04-28 07:00:00,qualified
+52,27,Wedding Vendor,Couples,2024-12-28 00:00:00,2024-12-28 09:00:00,qualified
+53,125,Instagram,Family portraits,2024-08-16 00:00:00,2024-08-18 18:00:00,qualified
+54,602,Facebook,Newborn,2024-04-06 00:00:00,2024-04-06 01:00:00,lost
+55,494,Wedding Vendor,Family portraits,2025-11-11 00:00:00,2025-11-13 17:00:00,contacted
+56,824,Local Event,Family portraits,2025-12-14 00:00:00,2025-12-16 19:00:00,qualified
+57,447,Paid Advertisement,Weddings,2025-09-01 00:00:00,2025-09-03 19:00:00,qualified
+58,815,Facebook,Family portraits,2025-12-08 00:00:00,2025-12-09 18:00:00,contacted
+59,157,Instagram,Couples,2024-07-14 00:00:00,2024-07-16 14:00:00,qualified
+60,253,Google Search,Family portraits,2025-12-23 00:00:00,2025-12-23 20:00:00,qualified
+61,592,Instagram,Family portraits,2025-06-01 00:00:00,2025-06-01 03:00:00,lost
+62,888,Wedding Vendor,Weddings,2025-05-13 00:00:00,2025-05-15 18:00:00,qualified
+63,575,Facebook,Weddings,2025-02-01 00:00:00,2025-02-03 00:00:00,contacted
+64,104,Google Search,Branding/headshots,2025-01-17 00:00:00,2025-01-18 18:00:00,contacted
+65,467,Facebook,Mini sessions,2024-12-08 00:00:00,2024-12-09 02:00:00,qualified
+66,340,Repeat Client,Mini sessions,2024-05-28 00:00:00,2024-05-29 09:00:00,lost
+67,175,Face book,Family portraits,2025-11-21 00:00:00,2025-11-23 16:00:00,qualified
+68,243,Instagram,Weddings,2025-06-19 00:00:00,2025-06-21 05:00:00,new
+69,376,Facebook,Newborn,2024-11-30 00:00:00,2024-12-02 09:00:00,qualified
+70,1142,Google Search,Newborn,2025-03-21 00:00:00,2025-03-21 12:00:00,qualified
+71,351,Facebook,Maternity,2024-07-09 00:00:00,2024-07-09 04:00:00,qualified
+72,615,Instagram,Weddings,2024-12-08 00:00:00,2024-12-10 09:00:00,contacted
+73,15,Repeat Client,Family portraits,2025-10-26 00:00:00,2025-10-28 22:00:00,qualified
+74,190,Google Search,Graduation,2025-06-04 00:00:00,2025-06-04 05:00:00,qualified
+75,891,Google Search,Maternity,2025-02-27 00:00:00,2025-02-27 13:00:00,qualified
+76,176,Facebook,Mini sessions,2025-10-11 00:00:00,2025-10-11 23:00:00,lost
+77,1110,Instagram,Branding/headshots,2025-08-11 00:00:00,2025-08-11 02:00:00,new
+78,790,Instagram,Weddings,2025-06-11 00:00:00,2025-06-11 19:00:00,qualified
+79,630,Instagram,Family portraits,2025-10-09 00:00:00,2025-10-10 14:00:00,qualified
+80,571,Instagram,Branding/headshots,2024-12-25 00:00:00,2024-12-27 00:00:00,contacted
+81,996,Paid Advertisement,Weddings,2025-03-16 00:00:00,2025-03-16 08:00:00,contacted
+82,367,Repeat Client,Family portraits,2025-06-04 00:00:00,2025-06-05 13:00:00,lost
+83,970,Instagram,Family portraits,2025-06-06 00:00:00,2025-06-07 09:00:00,contacted
+84,48,Instagram,Mini sessions,2024-07-29 00:00:00,2024-07-31 17:00:00,lost
+85,1107,Referral,Family portraits,2025-10-07 00:00:00,2025-10-07 07:00:00,qualified
+86,1170,Referral,Graduation,2025-03-08 00:00:00,2025-03-09 18:00:00,qualified
+87,535,Instagram,Branding/headshots,2025-11-20 00:00:00,2025-11-20 19:00:00,contacted
+88,1189,Referal,Branding/headshots,2025-04-11 00:00:00,2025-04-12 00:00:00,qualified
+89,626,Referral,Mini sessions,2024-12-21 00:00:00,2024-12-22 15:00:00,lost
+90,100,Instagram,Weddings,2024-09-11 00:00:00,2024-09-12 01:00:00,qualified
+91,496,Local Event,Mini sessions,2024-10-29 00:00:00,2024-10-31 03:00:00,lost
+92,501,Google Search,Mini sessions,2025-09-22 00:00:00,2025-09-23 07:00:00,qualified
+93,915,Paid Advertisement,Graduation,2024-11-15 00:00:00,2024-11-17 08:00:00,lost
+94,681,Wedding Vendor,Mini sessions,2025-07-21 00:00:00,2025-07-23 08:00:00,qualified
+95,795,Google Search,Weddings,2025-02-07 00:00:00,2025-02-09 13:00:00,new
+96,289,Instagram,Branding/headshots,2024-07-03 00:00:00,2024-07-03 02:00:00,qualified
+97,618,Paid Advertisement,Newborn,2024-07-13 00:00:00,2024-07-14 13:00:00,contacted
+98,751,Paid Advertisement,Family portraits,2025-11-01 00:00:00,2025-11-01 23:00:00,qualified
+99,1030,Repeat Client,Family portraits,2025-08-24 00:00:00,2025-08-25 05:00:00,qualified
+100,1163,Google Search,Weddings,2025-04-20 00:00:00,2025-04-20 04:00:00,lost
+101,1077,Instagram,Graduation,2024-12-30 00:00:00,2024-12-30 07:00:00,qualified
+102,1123,google,Mini sessions,2025-10-05 00:00:00,2025-10-06 23:00:00,qualified
+103,985,Referral,Couples,2024-04-18 00:00:00,2024-04-20 13:00:00,lost
+104,750,Instagram,Branding/headshots,2025-02-01 00:00:00,2025-02-02 20:00:00,qualified
+105,904,Facebook,Family portraits,2024-10-05 00:00:00,2024-10-07 21:00:00,lost
+106,1065,Wedding Vendor,Family portraits,2025-11-29 00:00:00,2025-12-01 21:00:00,lost
+107,595,Wedding Vendor,Mini sessions,2024-02-13 00:00:00,2024-02-13 23:00:00,qualified
+108,288,Referral,Family portraits,2024-10-28 00:00:00,2024-10-29 23:00:00,contacted
+109,332,Facebook,Family portraits,2024-10-07 00:00:00,2024-10-09 23:00:00,lost
+110,1126,Google Search,Weddings,2025-06-05 00:00:00,2025-06-07 04:00:00,contacted
+111,1071,Instagram,Mini sessions,2024-11-09 00:00:00,2024-11-11 21:00:00,qualified
+112,900,Instagram,Mini sessions,2024-06-13 00:00:00,2024-06-14 21:00:00,qualified
+113,386,Facebook,Graduation,2024-05-25 00:00:00,2024-05-26 05:00:00,lost
+114,59,Facebook,Family portraits,2024-06-27 00:00:00,2024-06-28 00:00:00,qualified
+115,622,Facebook,Mini sessions,2025-09-07 00:00:00,2025-09-09 20:00:00,qualified
+116,1156,Local Event,Newborn,2024-10-20 00:00:00,2024-10-22 05:00:00,qualified
+117,934,Facebook,Mini sessions,2024-05-13 00:00:00,2024-05-15 05:00:00,lost
+118,727,Local Event,Branding/headshots,2024-06-24 00:00:00,2024-06-26 20:00:00,qualified
+119,310,Referral,Branding/headshots,2024-09-27 00:00:00,2024-09-27 06:00:00,lost
+120,1143,Google Search,Couples,2024-02-18 00:00:00,2024-02-19 13:00:00,qualified
+121,353,Google Search,Branding/headshots,2024-12-06 00:00:00,2024-12-08 17:00:00,qualified
+122,936,Repeat Client,Mini sessions,2024-08-30 00:00:00,2024-08-30 21:00:00,lost
+123,180,Wedding Vendor,Family portraits,2024-01-11 00:00:00,2024-01-12 16:00:00,qualified
+124,680,Google Search,Mini sessions,2024-10-27 00:00:00,2024-10-28 12:00:00,qualified
+125,813,Facebook,Couples,2024-03-22 00:00:00,2024-03-24 04:00:00,qualified
+126,960,Instagram,Family portraits,2024-07-19 00:00:00,2024-07-19 01:00:00,contacted
+127,758,Facebook,Branding/headshots,2025-02-15 00:00:00,2025-02-15 08:00:00,qualified
+128,807,Paid Advertisement,Family portraits,2024-10-24 00:00:00,2024-10-25 10:00:00,lost
+129,869,Instagram,Maternity,2024-07-29 00:00:00,2024-07-29 17:00:00,qualified
+130,848,Wedding Vendor,Maternity,2024-06-26 00:00:00,2024-06-26 21:00:00,qualified
+131,340,Wedding Vendor,Family portraits,2024-03-11 00:00:00,2024-03-12 05:00:00,lost
+132,807,Google Search,Couples,2025-01-14 00:00:00,2025-01-15 18:00:00,lost
+133,1195,Paid Advertisement,Newborn,2024-05-12 00:00:00,2024-05-14 16:00:00,qualified
+134,458,Paid Advertisement,Family portraits,2025-03-30 00:00:00,2025-03-31 13:00:00,lost
+135,753,Instagram,Branding/headshots,2025-09-10 00:00:00,2025-09-11 21:00:00,lost
+136,475,Wedding Vendor,Mini sessions,2024-11-25 00:00:00,2024-11-27 03:00:00,new
+137,195,instgram,Family portraits,2024-07-26 00:00:00,2024-07-28 19:00:00,lost
+138,777,Instagram,Family portraits,2025-01-12 00:00:00,2025-01-14 16:00:00,contacted
+139,1039,Wedding Vendor,Maternity,2024-09-04 00:00:00,2024-09-05 09:00:00,lost
+140,213,Google Search,Couples,2025-08-14 00:00:00,2025-08-14 03:00:00,lost
+141,651,Paid Advertisement,Weddings,2025-10-18 00:00:00,2025-10-20 14:00:00,new
+142,505,Google Search,Couples,2025-12-05 00:00:00,2025-12-05 01:00:00,lost
+143,1101,Instagram,Mini sessions,2024-05-27 00:00:00,2024-05-28 14:00:00,lost
+144,572,Local Event,Mini sessions,2025-10-06 00:00:00,2025-10-06 23:00:00,contacted
+145,1001,Repeat Client,Branding/headshots,2025-08-23 00:00:00,2025-08-25 10:00:00,lost
+146,872,Paid Advertisement,Graduation,2024-12-17 00:00:00,2024-12-18 09:00:00,lost
+147,801,Instagram,Branding/headshots,2025-01-29 00:00:00,2025-01-29 17:00:00,qualified
+148,392,Instagram,Weddings,2025-06-09 00:00:00,2025-06-11 05:00:00,qualified
+149,315,Facebook,Branding/headshots,2024-03-13 00:00:00,2024-03-13 22:00:00,qualified
+150,686,Paid Advertisement,Branding/headshots,2025-03-19 00:00:00,2025-03-20 18:00:00,lost
+151,1057,Instagram,Weddings,2024-09-17 00:00:00,2024-09-17 12:00:00,lost
+152,464,Instagram,Mini sessions,2025-02-02 00:00:00,2025-02-04 12:00:00,lost
+153,84,Instagram,Family portraits,2025-08-14 00:00:00,2025-08-15 03:00:00,lost
+154,693,Facebook,Branding/headshots,2024-03-15 00:00:00,2024-03-15 21:00:00,lost
+155,357,Google Search,Mini sessions,2025-10-10 00:00:00,2025-10-10 07:00:00,lost
+156,792,Google Search,Family portraits,2025-01-07 00:00:00,2025-01-07 11:00:00,lost
+157,481,Local Event,Branding/headshots,2024-11-30 00:00:00,2024-11-30 13:00:00,lost
+158,7,Referral,Graduation,2025-06-01 00:00:00,2025-06-02 16:00:00,qualified
+159,585,Referal,Couples,2025-04-04 00:00:00,2025-04-06 11:00:00,lost
+160,426,Google Search,Branding/headshots,2024-06-12 00:00:00,2024-06-12 08:00:00,lost
+161,953,Facebook,Mini sessions,2024-12-12 00:00:00,2024-12-13 23:00:00,contacted
+162,638,Instagram,Mini sessions,2024-11-25 00:00:00,2024-11-27 17:00:00,qualified
+163,824,Instagram,Graduation,2025-10-14 00:00:00,2025-10-16 09:00:00,contacted
+164,809,Google Search,Branding/headshots,2024-06-06 00:00:00,2024-06-06 10:00:00,lost
+165,314,Google Search,Family portraits,2024-08-06 00:00:00,2024-08-06 18:00:00,new
+166,1072,Instagram,Mini sessions,2024-11-21 00:00:00,2024-11-22 16:00:00,lost
+167,544,Paid Advertisement,Weddings,2024-05-31 00:00:00,2024-06-01 22:00:00,lost
+168,39,Google Search,Couples,2025-05-28 00:00:00,2025-05-28 23:00:00,contacted
+169,751,Referral,Branding/headshots,2024-11-28 00:00:00,2024-11-29 10:00:00,lost
+170,770,Paid Advertisement,Mini sessions,2025-08-31 00:00:00,2025-08-31 18:00:00,qualified
+171,130,Instagram,Weddings,2024-01-05 00:00:00,2024-01-07 17:00:00,lost
+172,588,Referral,Branding/headshots,2024-09-19 00:00:00,2024-09-20 07:00:00,qualified
+173,1056,Referral,Mini sessions,2024-10-19 00:00:00,2024-10-21 07:00:00,lost
+174,1058,Referal,Newborn,2024-03-29 00:00:00,2024-03-31 09:00:00,qualified
+175,1098,Repeat Client,Branding/headshots,2025-03-16 00:00:00,2025-03-18 08:00:00,qualified
+176,78,Google Search,Newborn,2025-06-22 00:00:00,2025-06-24 03:00:00,qualified
+177,1109,Facebook,Couples,2025-02-24 00:00:00,2025-02-26 21:00:00,qualified
+178,1063,Paid Advertisement,Mini sessions,2024-02-13 00:00:00,2024-02-14 10:00:00,qualified
+179,176,instgram,Maternity,2025-04-28 00:00:00,2025-04-29 20:00:00,qualified
+180,755,Instagram,Family portraits,2025-05-06 00:00:00,2025-05-08 00:00:00,lost
+181,28,Instagram,Mini sessions,2025-05-22 00:00:00,2025-05-22 08:00:00,qualified
+182,29,Instagram,Couples,2025-11-21 00:00:00,2025-11-21 06:00:00,new
+183,629,Google Search,Mini sessions,2025-02-04 00:00:00,2025-02-06 00:00:00,lost
+184,20,Wedding Vendor,Family portraits,2025-10-06 00:00:00,2025-10-08 19:00:00,lost
+185,688,Referral,Mini sessions,2024-09-04 00:00:00,2024-09-06 11:00:00,contacted
+186,1017,Instagram,Branding/headshots,2024-07-13 00:00:00,2024-07-14 04:00:00,qualified
+187,1113,Referral,Newborn,2025-11-28 00:00:00,2025-11-30 01:00:00,lost
+188,106,Instagram,Mini sessions,2024-03-01 00:00:00,2024-03-01 12:00:00,qualified
+189,427,Referral,Graduation,2025-05-17 00:00:00,2025-05-19 03:00:00,lost
+190,26,Referral,Weddings,2025-08-30 00:00:00,2025-08-31 13:00:00,lost
+191,198,Referral,Mini sessions,2025-07-06 00:00:00,2025-07-07 05:00:00,qualified
+192,1017,Paid Advertisement,Weddings,2025-09-13 00:00:00,2025-09-13 05:00:00,qualified
+193,1200,Local Event,Graduation,2024-11-01 00:00:00,2024-11-02 07:00:00,contacted
+194,480,Referal,Family portraits,2025-12-07 00:00:00,2025-12-08 02:00:00,qualified
+195,112,Wedding Vendor,Mini sessions,2025-12-16 00:00:00,2025-12-18 23:00:00,qualified
+196,380,Instagram,Graduation,2025-04-19 00:00:00,2025-04-21 02:00:00,lost
+197,71,Wedding Vendor,Branding/headshots,2025-07-18 00:00:00,2025-07-19 05:00:00,contacted
+198,694,Referral,Graduation,2025-05-01 00:00:00,2025-05-02 20:00:00,lost
+199,868,Referral,Branding/headshots,2025-03-30 00:00:00,2025-03-30 04:00:00,qualified
+200,750,Google Search,Weddings,2024-03-29 00:00:00,2024-03-31 11:00:00,contacted
+201,753,Facebook,Couples,2024-11-26 00:00:00,2024-11-27 19:00:00,qualified
+202,1118,Facebook,Weddings,2024-08-11 00:00:00,2024-08-12 11:00:00,contacted
+203,450,Referral,Newborn,2024-03-23 00:00:00,2024-03-23 22:00:00,qualified
+204,1146,Wedding Vendor,Mini sessions,2025-11-28 00:00:00,2025-11-30 11:00:00,contacted
+205,39,Paid Advertisement,Family portraits,2025-10-04 00:00:00,2025-10-04 19:00:00,qualified
+206,323,Wedding Vendor,Maternity,2025-01-20 00:00:00,2025-01-20 22:00:00,new
+207,954,Google Search,Branding/headshots,2025-04-08 00:00:00,2025-04-10 10:00:00,qualified
+208,992,Paid Advertisement,Maternity,2025-05-02 00:00:00,2025-05-02 13:00:00,qualified
+209,145,Facebook,Mini sessions,2025-05-21 00:00:00,2025-05-23 05:00:00,contacted
+210,17,Referral,Family portraits,2025-11-05 00:00:00,2025-11-06 12:00:00,qualified
+211,133,Paid Advertisement,Graduation,2024-04-02 00:00:00,2024-04-02 11:00:00,lost
+212,564,Facebook,Weddings,2024-09-22 00:00:00,2024-09-22 15:00:00,qualified
+213,489,Paid Advertisement,Mini sessions,2025-09-26 00:00:00,2025-09-28 19:00:00,qualified
+214,96,instgram,Mini sessions,2025-05-30 00:00:00,2025-05-30 06:00:00,qualified
+215,919,Paid Advertisement,Family portraits,2025-08-05 00:00:00,2025-08-06 15:00:00,qualified
+216,550,Facebook,Couples,2024-02-03 00:00:00,2024-02-04 18:00:00,contacted
+217,852,Local Event,Graduation,2025-05-10 00:00:00,2025-05-11 19:00:00,lost
+218,540,Google Search,Family portraits,2025-06-01 00:00:00,2025-06-03 11:00:00,qualified
+219,805,Facebook,Mini sessions,2025-12-20 00:00:00,2025-12-20 08:00:00,lost
+220,1000,Facebook,Branding/headshots,2024-02-20 00:00:00,2024-02-22 12:00:00,lost
+221,435,Instagram,Family portraits,2024-03-10 00:00:00,2024-03-10 18:00:00,qualified
+222,685,Google Search,Newborn,2024-07-05 00:00:00,2024-07-06 17:00:00,lost
+223,1145,Local Event,Branding/headshots,2025-05-31 00:00:00,2025-05-31 03:00:00,qualified
+224,17,Instagram,Couples,2025-09-22 00:00:00,2025-09-22 16:00:00,qualified
+225,213,Referal,Graduation,2024-03-20 00:00:00,2024-03-21 01:00:00,new
+226,1087,Repeat Client,Mini sessions,2024-08-24 00:00:00,2024-08-26 08:00:00,lost
+227,1074,Instagram,Mini sessions,2024-10-02 00:00:00,2024-10-04 05:00:00,qualified
+228,550,Referral,Maternity,2024-09-28 00:00:00,2024-09-28 18:00:00,lost
+229,887,Referral,Weddings,2025-10-12 00:00:00,2025-10-14 18:00:00,lost
+230,704,Instagram,Mini sessions,2024-10-21 00:00:00,2024-10-22 01:00:00,lost
+231,602,Local Event,Graduation,2024-12-01 00:00:00,2024-12-02 03:00:00,qualified
+232,908,Local Event,Couples,2025-11-12 00:00:00,2025-11-12 04:00:00,qualified
+233,1185,Repeat Client,Family portraits,2025-10-11 00:00:00,2025-10-13 22:00:00,lost
+234,295,Referral,Family portraits,2024-11-01 00:00:00,2024-11-02 23:00:00,qualified
+235,554,Local Event,Weddings,2024-05-11 00:00:00,2024-05-11 07:00:00,lost
+236,56,Instagram,Mini sessions,2024-04-11 00:00:00,2024-04-12 12:00:00,lost
+237,1179,Repeat Client,Mini sessions,2025-10-05 00:00:00,2025-10-06 11:00:00,contacted
+238,617,Wedding Vendor,Family portraits,2025-04-11 00:00:00,2025-04-13 19:00:00,qualified
+239,741,Instagram,Couples,2025-12-01 00:00:00,2025-12-03 01:00:00,lost
+240,937,Instagram,Mini sessions,2024-01-17 00:00:00,2024-01-18 04:00:00,lost
+241,673,Instagram,Newborn,2025-12-12 00:00:00,2025-12-12 11:00:00,lost
+242,1127,Referral,Mini sessions,2025-10-08 00:00:00,2025-10-08 23:00:00,qualified
+243,966,Instagram,Weddings,2025-07-19 00:00:00,2025-07-20 06:00:00,lost
+244,493,Facebook,Branding/headshots,2024-06-27 00:00:00,2024-06-29 17:00:00,lost
+245,1131,Wedding Vendor,Family portraits,2025-06-05 00:00:00,2025-06-07 19:00:00,qualified
+246,908,Facebook,Branding/headshots,2024-04-09 00:00:00,2024-04-09 20:00:00,qualified
+247,991,Paid Advertisement,Mini sessions,2025-07-28 00:00:00,2025-07-28 03:00:00,qualified
+248,352,Wedding Vendor,Branding/headshots,2024-05-02 00:00:00,2024-05-03 17:00:00,contacted
+249,681,Facebook,Family portraits,2024-06-11 00:00:00,2024-06-12 03:00:00,qualified
+250,832,Facebook,Graduation,2024-10-15 00:00:00,2024-10-15 01:00:00,new
+251,999,Facebook,Mini sessions,2024-12-19 00:00:00,2024-12-21 01:00:00,qualified
+252,238,Instagram,Couples,2024-09-20 00:00:00,2024-09-20 13:00:00,lost
+253,1065,Instagram,Family portraits,2025-09-23 00:00:00,2025-09-24 12:00:00,qualified
+254,273,Paid Advertisement,Branding/headshots,2024-08-30 00:00:00,2024-09-01 16:00:00,lost
+255,558,Referral,Branding/headshots,2024-09-29 00:00:00,2024-09-29 17:00:00,qualified
+256,640,Facebook,Mini sessions,2025-07-05 00:00:00,2025-07-06 00:00:00,qualified
+257,213,Instagram,Maternity,2024-10-12 00:00:00,2024-10-13 12:00:00,lost
+258,993,Instagram,Mini sessions,2024-03-24 00:00:00,2024-03-26 15:00:00,lost
+259,271,Instagram,Couples,2024-10-11 00:00:00,2024-10-13 21:00:00,qualified
+260,235,Google Search,Mini sessions,2024-11-15 00:00:00,2024-11-15 15:00:00,lost
+261,940,Instagram,Newborn,2025-12-05 00:00:00,2025-12-07 05:00:00,lost
+262,235,Facebook,Branding/headshots,2024-08-30 00:00:00,2024-09-01 04:00:00,lost
+263,902,Referal,Family portraits,2025-11-13 00:00:00,2025-11-15 11:00:00,new
+264,975,Instagram,Mini sessions,2025-11-10 00:00:00,2025-11-11 01:00:00,contacted
+265,76,Paid Advertisement,Branding/headshots,2025-11-19 00:00:00,2025-11-20 08:00:00,qualified
+266,1194,Instagram,Mini sessions,2025-03-24 00:00:00,2025-03-26 14:00:00,qualified
+267,959,Instagram,Couples,2025-10-27 00:00:00,2025-10-29 19:00:00,qualified
+268,696,Facebook,Graduation,2024-03-14 00:00:00,2024-03-15 17:00:00,qualified
+269,290,Facebook,Couples,2024-10-04 00:00:00,2024-10-06 06:00:00,qualified
+270,619,Instagram,Couples,2024-02-17 00:00:00,2024-02-17 11:00:00,qualified
+271,496,Google Search,Graduation,2024-05-26 00:00:00,2024-05-27 07:00:00,lost
+272,855,Repeat Client,Family portraits,2024-12-27 00:00:00,2024-12-28 15:00:00,qualified
+273,612,Instagram,Newborn,2025-08-03 00:00:00,2025-08-04 12:00:00,contacted
+274,724,Instagram,Branding/headshots,2025-07-09 00:00:00,2025-07-10 06:00:00,qualified
+275,1113,Instagram,Couples,2025-08-02 00:00:00,2025-08-04 03:00:00,qualified
+276,19,Instagram,Branding/headshots,2025-06-09 00:00:00,2025-06-09 06:00:00,contacted
+277,309,Paid Advertisement,Family portraits,2024-10-23 00:00:00,2024-10-24 18:00:00,lost
+278,703,Instagram,Branding/headshots,2025-05-19 00:00:00,2025-05-19 10:00:00,qualified
+279,906,Referral,Couples,2024-06-13 00:00:00,2024-06-14 03:00:00,qualified
+280,85,Instagram,Mini sessions,2024-06-27 00:00:00,2024-06-28 16:00:00,qualified
+281,907,Instagram,Maternity,2024-04-08 00:00:00,2024-04-09 03:00:00,contacted
+282,897,Referral,Graduation,2025-07-28 00:00:00,2025-07-30 07:00:00,lost
+283,689,Referral,Family portraits,2024-05-18 00:00:00,2024-05-20 20:00:00,contacted
+284,63,Paid Advertisement,Family portraits,2025-09-02 00:00:00,2025-09-04 20:00:00,contacted
+285,988,Referral,Mini sessions,2025-03-08 00:00:00,2025-03-10 00:00:00,lost
+286,1172,Facebook,Newborn,2025-09-18 00:00:00,2025-09-18 17:00:00,contacted
+287,115,Instagram,Weddings,2024-10-24 00:00:00,2024-10-24 03:00:00,lost
+288,439,Google Search,Branding/headshots,2025-04-01 00:00:00,2025-04-03 21:00:00,qualified
+289,74,Face book,Family portraits,2024-09-26 00:00:00,2024-09-27 17:00:00,qualified
+290,904,Wedding Vendor,Family portraits,2024-08-29 00:00:00,2024-08-31 17:00:00,qualified
+291,395,Instagram,Couples,2025-06-15 00:00:00,2025-06-15 10:00:00,qualified
+292,222,Referral,Mini sessions,2024-12-29 00:00:00,2024-12-29 15:00:00,qualified
+293,755,Facebook,Graduation,2024-07-12 00:00:00,2024-07-12 18:00:00,qualified
+294,833,Google Search,Weddings,2025-04-27 00:00:00,2025-04-29 15:00:00,qualified
+295,689,Google Search,Maternity,2024-06-03 00:00:00,2024-06-04 22:00:00,contacted
+296,429,Repeat Client,Couples,2024-09-02 00:00:00,2024-09-04 09:00:00,qualified
+297,315,Instagram,Weddings,2024-10-26 00:00:00,2024-10-27 06:00:00,qualified
+298,782,Repeat Client,Graduation,2025-12-01 00:00:00,2025-12-02 20:00:00,new
+299,904,Google Search,Family portraits,2025-04-01 00:00:00,2025-04-02 16:00:00,qualified
+300,503,Referral,Branding/headshots,2024-06-09 00:00:00,2024-06-10 18:00:00,qualified
+301,70,Repeat Client,Newborn,2024-02-20 00:00:00,2024-02-20 16:00:00,qualified
+302,556,Repeat Client,Weddings,2024-06-04 00:00:00,2024-06-05 06:00:00,qualified
+303,85,Google Search,Graduation,2025-04-21 00:00:00,2025-04-22 23:00:00,qualified
+304,588,Referral,Weddings,2024-09-15 00:00:00,2024-09-17 22:00:00,new
+305,147,Facebook,Branding/headshots,2025-11-17 00:00:00,2025-11-17 20:00:00,qualified
+306,155,Repeat Client,Graduation,2025-05-11 00:00:00,2025-05-12 02:00:00,qualified
+307,498,Instagram,Weddings,2025-03-16 00:00:00,2025-03-17 01:00:00,lost
+308,408,Paid Advertisement,Branding/headshots,2024-04-04 00:00:00,2024-04-05 07:00:00,lost
+309,484,Facebook,Weddings,2024-04-15 00:00:00,2024-04-17 00:00:00,qualified
+310,197,Wedding Vendor,Family portraits,2024-06-13 00:00:00,2024-06-14 07:00:00,lost
+311,422,Google Search,Maternity,2024-10-15 00:00:00,2024-10-17 17:00:00,lost
+312,1035,Instagram,Family portraits,2024-07-04 00:00:00,2024-07-06 23:00:00,qualified
+313,627,Referral,Weddings,2025-03-22 00:00:00,2025-03-22 19:00:00,qualified
+314,455,Paid Advertisement,Couples,2024-04-19 00:00:00,2024-04-19 13:00:00,lost
+315,81,Paid Advertisement,Newborn,2025-06-15 00:00:00,2025-06-16 12:00:00,qualified
+316,899,Local Event,Maternity,2024-12-09 00:00:00,2024-12-11 10:00:00,qualified
+317,371,Repeat Client,Family portraits,2025-12-22 00:00:00,2025-12-24 15:00:00,qualified
+318,383,instgram,Newborn,2024-01-15 00:00:00,2024-01-16 12:00:00,qualified
+319,643,Paid Advertisement,Mini sessions,2024-12-07 00:00:00,2024-12-09 17:00:00,qualified
+320,74,Google Search,Weddings,2024-06-21 00:00:00,2024-06-22 23:00:00,new
+321,716,Referral,Mini sessions,2024-08-27 00:00:00,2024-08-28 18:00:00,lost
+322,686,Google Search,Graduation,2025-06-23 00:00:00,2025-06-23 20:00:00,lost
+323,455,Referral,Maternity,2024-06-04 00:00:00,2024-06-04 01:00:00,lost
+324,566,Instagram,Maternity,2024-08-28 00:00:00,2024-08-29 07:00:00,lost
+325,466,Google Search,Maternity,2025-04-14 00:00:00,2025-04-14 15:00:00,contacted
+326,885,Instagram,Family portraits,2024-10-13 00:00:00,2024-10-13 10:00:00,qualified
+327,211,Instagram,Family portraits,2025-09-18 00:00:00,2025-09-18 21:00:00,qualified
+328,465,Google Search,Maternity,2025-04-28 00:00:00,2025-04-30 11:00:00,lost
+329,398,Google Search,Graduation,2025-03-10 00:00:00,2025-03-12 02:00:00,new
+330,889,Repeat Client,Graduation,2025-05-05 00:00:00,2025-05-07 07:00:00,lost
+331,579,Referral,Couples,2024-07-03 00:00:00,2024-07-04 18:00:00,qualified
+332,429,Referral,Graduation,2025-03-13 00:00:00,2025-03-14 08:00:00,contacted
+333,1142,Wedding Vendor,Branding/headshots,2025-02-12 00:00:00,2025-02-13 13:00:00,contacted
+334,569,Instagram,Couples,2025-01-08 00:00:00,2025-01-09 22:00:00,qualified
+335,650,Instagram,Branding/headshots,2025-04-28 00:00:00,2025-04-29 19:00:00,contacted
+336,1166,Facebook,Newborn,2024-06-02 00:00:00,2024-06-02 10:00:00,lost
+337,1130,Instagram,Mini sessions,2025-11-12 00:00:00,2025-11-12 05:00:00,lost
+338,243,Instagram,Mini sessions,2025-11-10 00:00:00,2025-11-10 01:00:00,lost
+339,1031,Google Search,Newborn,2025-02-01 00:00:00,2025-02-01 14:00:00,qualified
+340,874,Google Search,Mini sessions,2025-10-15 00:00:00,2025-10-16 03:00:00,lost
+341,254,Facebook,Family portraits,2024-09-17 00:00:00,2024-09-19 03:00:00,qualified
+342,1105,Facebook,Weddings,2025-08-07 00:00:00,2025-08-07 05:00:00,lost
+343,1043,Instagram,Graduation,2024-06-13 00:00:00,2024-06-14 17:00:00,qualified
+344,551,Paid Advertisement,Branding/headshots,2024-03-08 00:00:00,2024-03-08 21:00:00,lost
+345,194,Wedding Vendor,Couples,2024-11-22 00:00:00,2024-11-22 06:00:00,qualified
+346,418,Local Event,Family portraits,2025-09-23 00:00:00,2025-09-24 22:00:00,lost
+347,477,Instagram,Family portraits,2024-09-28 00:00:00,2024-09-29 02:00:00,qualified
+348,1184,Facebook,Mini sessions,2025-11-07 00:00:00,2025-11-07 13:00:00,qualified
+349,664,Instagram,Weddings,2025-05-13 00:00:00,2025-05-14 14:00:00,lost
+350,1191,Facebook,Mini sessions,2024-12-27 00:00:00,2024-12-27 22:00:00,lost
+351,833,Instagram,Graduation,2024-08-24 00:00:00,2024-08-24 23:00:00,qualified
+352,379,Google Search,Family portraits,2024-01-24 00:00:00,2024-01-25 06:00:00,qualified
+353,645,Facebook,Family portraits,2025-12-20 00:00:00,2025-12-22 23:00:00,lost
+354,94,Google Search,Newborn,2025-09-12 00:00:00,2025-09-12 16:00:00,lost
+355,228,Referral,Family portraits,2024-08-26 00:00:00,2024-08-26 12:00:00,qualified
+356,763,Paid Advertisement,Family portraits,2025-10-27 00:00:00,2025-10-28 15:00:00,qualified
+357,393,Referral,Weddings,2025-06-16 00:00:00,2025-06-16 23:00:00,contacted
+358,845,Referral,Weddings,2025-05-15 00:00:00,2025-05-16 05:00:00,new
+359,765,Instagram,Mini sessions,2024-03-22 00:00:00,2024-03-24 00:00:00,qualified
+360,168,Facebook,Family portraits,2024-10-29 00:00:00,2024-10-31 18:00:00,qualified
+361,842,Instagram,Branding/headshots,2025-01-26 00:00:00,2025-01-28 14:00:00,qualified
+362,476,Facebook,Weddings,2025-12-11 00:00:00,2025-12-11 10:00:00,lost
+363,349,Referral,Mini sessions,2025-09-30 00:00:00,2025-10-02 20:00:00,qualified
+364,553,Instagram,Mini sessions,2024-08-02 00:00:00,2024-08-04 00:00:00,qualified
+365,1135,Facebook,Weddings,2025-08-02 00:00:00,2025-08-02 02:00:00,lost
+366,137,Instagram,Branding/headshots,2025-05-02 00:00:00,2025-05-04 15:00:00,qualified
+367,713,Referal,Branding/headshots,2024-06-12 00:00:00,2024-06-13 01:00:00,qualified
+368,572,Repeat Client,Branding/headshots,2025-04-17 00:00:00,2025-04-19 13:00:00,lost
+369,178,Instagram,Branding/headshots,2024-05-28 00:00:00,2024-05-29 05:00:00,new
+370,802,Instagram,Branding/headshots,2025-12-20 00:00:00,2025-12-21 12:00:00,lost
+371,97,Google Search,Newborn,2025-12-11 00:00:00,2025-12-12 07:00:00,qualified
+372,135,Instagram,Mini sessions,2024-11-18 00:00:00,2024-11-18 04:00:00,lost
+373,1035,Referral,Branding/headshots,2024-05-29 00:00:00,2024-05-29 06:00:00,qualified
+374,561,Repeat Client,Weddings,2024-06-26 00:00:00,2024-06-26 14:00:00,contacted
+375,919,Paid Advertisement,Graduation,2025-05-28 00:00:00,2025-05-28 13:00:00,lost
+376,315,google,Branding/headshots,2024-09-26 00:00:00,2024-09-28 13:00:00,new
+377,502,Paid Advertisement,Family portraits,2025-11-18 00:00:00,2025-11-18 17:00:00,qualified
+378,860,instgram,Graduation,2024-07-16 00:00:00,2024-07-17 07:00:00,lost
+379,971,Repeat Client,Graduation,2024-05-12 00:00:00,2024-05-14 16:00:00,qualified
+380,899,Google Search,Maternity,2025-08-16 00:00:00,2025-08-18 08:00:00,qualified
+381,261,Google Search,Newborn,2025-05-15 00:00:00,2025-05-17 16:00:00,qualified
+382,797,Google Search,Family portraits,2025-06-25 00:00:00,2025-06-26 14:00:00,lost
+383,99,Local Event,Family portraits,2025-10-13 00:00:00,2025-10-15 19:00:00,qualified
+384,427,Referral,Weddings,2024-04-08 00:00:00,2024-04-10 11:00:00,new
+385,406,Instagram,Maternity,2025-08-07 00:00:00,2025-08-07 10:00:00,lost
+386,305,Repeat Client,Weddings,2024-09-02 00:00:00,2024-09-02 22:00:00,qualified
+387,50,Paid Advertisement,Graduation,2025-09-05 00:00:00,2025-09-06 15:00:00,qualified
+388,223,Facebook,Family portraits,2025-08-21 00:00:00,2025-08-23 20:00:00,qualified
+389,483,Referral,Newborn,2024-05-12 00:00:00,2024-05-13 01:00:00,qualified
+390,467,Wedding Vendor,Branding/headshots,2024-07-05 00:00:00,2024-07-07 11:00:00,lost
+391,573,Facebook,Weddings,2025-11-25 00:00:00,2025-11-26 03:00:00,lost
+392,181,Referral,Newborn,2025-09-28 00:00:00,2025-09-30 05:00:00,qualified
+393,1170,Wedding Vendor,Mini sessions,2025-10-19 00:00:00,2025-10-19 21:00:00,qualified
+394,238,Referral,Branding/headshots,2025-12-30 00:00:00,2025-12-30 23:00:00,lost
+395,1034,Google Search,Maternity,2025-08-18 00:00:00,2025-08-19 23:00:00,qualified
+396,1139,Facebook,Family portraits,2025-11-02 00:00:00,2025-11-02 01:00:00,qualified
+397,1149,Referral,Weddings,2025-10-15 00:00:00,2025-10-16 02:00:00,qualified
+398,1018,Referral,Branding/headshots,2024-12-25 00:00:00,2024-12-27 11:00:00,qualified
+399,594,Referral,Family portraits,2024-01-10 00:00:00,2024-01-10 02:00:00,contacted
+400,377,Facebook,Graduation,2024-10-28 00:00:00,2024-10-29 23:00:00,lost
+401,507,Google Search,Mini sessions,2024-07-19 00:00:00,2024-07-19 22:00:00,qualified
+402,1157,Wedding Vendor,Weddings,2025-06-16 00:00:00,2025-06-18 01:00:00,new
+403,1064,Instagram,Branding/headshots,2024-11-17 00:00:00,2024-11-18 03:00:00,contacted
+404,554,Facebook,Mini sessions,2025-02-20 00:00:00,2025-02-21 06:00:00,lost
+405,849,Google Search,Mini sessions,2025-12-07 00:00:00,2025-12-09 16:00:00,qualified
+406,551,Instagram,Couples,2025-05-21 00:00:00,2025-05-22 16:00:00,lost
+407,623,Instagram,Newborn,2024-09-02 00:00:00,2024-09-02 14:00:00,qualified
+408,65,Instagram,Family portraits,2025-10-22 00:00:00,2025-10-24 12:00:00,contacted
+409,765,Instagram,Newborn,2024-07-28 00:00:00,2024-07-29 13:00:00,qualified
+410,921,Facebook,Weddings,2024-06-07 00:00:00,2024-06-08 13:00:00,lost
+411,929,Instagram,Family portraits,2024-08-10 00:00:00,2024-08-12 08:00:00,lost
+412,413,Repeat Client,Couples,2025-02-24 00:00:00,2025-02-25 03:00:00,contacted
+413,832,Local Event,Weddings,2024-10-06 00:00:00,2024-10-08 20:00:00,qualified
+414,1170,Facebook,Mini sessions,2024-05-26 00:00:00,2024-05-28 00:00:00,lost
+415,1127,Referal,Branding/headshots,2025-09-12 00:00:00,2025-09-12 11:00:00,contacted
+416,77,Paid Advertisement,Newborn,2025-05-26 00:00:00,2025-05-28 00:00:00,qualified
+417,524,Paid Advertisement,Family portraits,2025-10-19 00:00:00,2025-10-20 05:00:00,qualified
+418,685,Facebook,Couples,2024-10-20 00:00:00,2024-10-22 15:00:00,lost
+419,1175,Referral,Family portraits,2024-11-14 00:00:00,2024-11-15 16:00:00,qualified
+420,726,Referral,Couples,2025-12-11 00:00:00,2025-12-13 20:00:00,lost
+421,186,Facebook,Maternity,2024-03-16 00:00:00,2024-03-18 00:00:00,contacted
+422,582,Instagram,Family portraits,2024-03-26 00:00:00,2024-03-28 02:00:00,contacted
+423,586,Referral,Weddings,2024-06-03 00:00:00,2024-06-04 07:00:00,lost
+424,943,Google Search,Family portraits,2025-11-12 00:00:00,2025-11-12 13:00:00,qualified
+425,974,Facebook,Mini sessions,2025-09-20 00:00:00,2025-09-22 02:00:00,lost
+426,112,Google Search,Graduation,2024-08-18 00:00:00,2024-08-20 19:00:00,lost
+427,413,Facebook,Couples,2025-02-05 00:00:00,2025-02-05 11:00:00,lost
+428,551,Face book,Family portraits,2025-11-10 00:00:00,2025-11-11 04:00:00,qualified
+429,14,Instagram,Maternity,2024-06-02 00:00:00,2024-06-02 09:00:00,lost
+430,849,Instagram,Couples,2025-10-18 00:00:00,2025-10-18 02:00:00,lost
+431,202,Instagram,Couples,2025-12-15 00:00:00,2025-12-16 07:00:00,contacted
+432,1078,Wedding Vendor,Family portraits,2025-11-25 00:00:00,2025-11-26 18:00:00,qualified
+433,1097,Facebook,Branding/headshots,2024-03-26 00:00:00,2024-03-27 18:00:00,contacted
+434,1097,Paid Advertisement,Newborn,2025-05-31 00:00:00,2025-06-01 16:00:00,contacted
+435,933,Referral,Branding/headshots,2025-04-24 00:00:00,2025-04-26 11:00:00,qualified
+436,1078,Google Search,Mini sessions,2025-03-19 00:00:00,2025-03-21 01:00:00,lost
+437,19,Local Event,Couples,2025-09-20 00:00:00,2025-09-20 21:00:00,qualified
+438,988,instgram,Family portraits,2024-12-25 00:00:00,2024-12-26 11:00:00,lost
+439,133,Google Search,Couples,2025-04-25 00:00:00,2025-04-27 12:00:00,new
+440,476,Google Search,Graduation,2024-09-01 00:00:00,2024-09-02 19:00:00,new
+441,369,Instagram,Family portraits,2025-04-26 00:00:00,2025-04-27 08:00:00,qualified
+442,984,Facebook,Couples,2024-06-04 00:00:00,2024-06-04 11:00:00,lost
+443,416,Paid Advertisement,Maternity,2025-11-27 00:00:00,2025-11-29 03:00:00,new
+444,1087,Google Search,Branding/headshots,2025-04-28 00:00:00,2025-04-29 01:00:00,new
+445,536,Instagram,Graduation,2025-11-30 00:00:00,2025-12-01 00:00:00,qualified
+446,683,Referral,Maternity,2025-08-04 00:00:00,2025-08-04 08:00:00,lost
+447,710,Instagram,Family portraits,2024-03-08 00:00:00,2024-03-09 05:00:00,qualified
+448,561,Paid Advertisement,Graduation,2024-06-25 00:00:00,2024-06-25 10:00:00,lost
+449,856,Facebook,Couples,2024-10-26 00:00:00,2024-10-27 13:00:00,lost
+450,499,Referral,Maternity,2024-07-31 00:00:00,2024-08-01 17:00:00,new
+451,803,Referral,Mini sessions,2024-03-02 00:00:00,2024-03-02 22:00:00,qualified
+452,856,Instagram,Maternity,2025-11-04 00:00:00,2025-11-06 16:00:00,qualified
+453,637,Instagram,Family portraits,2024-06-02 00:00:00,2024-06-04 23:00:00,contacted
+454,444,Local Event,Mini sessions,2025-01-16 00:00:00,2025-01-18 11:00:00,qualified
+455,381,Referral,Mini sessions,2024-08-11 00:00:00,2024-08-13 15:00:00,qualified
+456,1043,Instagram,Graduation,2024-03-12 00:00:00,2024-03-12 03:00:00,qualified
+457,199,Referral,Family portraits,2024-08-02 00:00:00,2024-08-04 20:00:00,lost
+458,1170,Google Search,Branding/headshots,2025-09-15 00:00:00,2025-09-17 08:00:00,lost
+459,1083,Facebook,Newborn,2025-11-30 00:00:00,2025-11-30 05:00:00,qualified
+460,44,Referral,Branding/headshots,2025-10-31 00:00:00,2025-11-02 13:00:00,qualified
+461,545,Repeat Client,Family portraits,2024-10-06 00:00:00,2024-10-06 13:00:00,lost
+462,934,Facebook,Newborn,2024-03-22 00:00:00,2024-03-25 00:00:00,lost
+463,793,Facebook,Newborn,2025-07-28 00:00:00,2025-07-28 02:00:00,qualified
+464,485,Referral,Branding/headshots,2024-05-15 00:00:00,2024-05-17 23:00:00,contacted
+465,607,Instagram,Graduation,2025-04-03 00:00:00,2025-04-03 18:00:00,qualified
+466,1046,Referal,Mini sessions,2024-09-13 00:00:00,2024-09-13 15:00:00,lost
+467,1057,Referral,Family portraits,2024-11-15 00:00:00,2024-11-15 13:00:00,qualified
+468,1014,Facebook,Mini sessions,2025-03-21 00:00:00,2025-03-21 19:00:00,lost
+469,399,Google Search,Weddings,2024-09-28 00:00:00,2024-09-28 15:00:00,qualified
+470,186,Paid Advertisement,Branding/headshots,2024-06-20 00:00:00,2024-06-20 22:00:00,lost
+471,1084,Google Search,Family portraits,2025-08-03 00:00:00,2025-08-03 04:00:00,lost
+472,4,Google Search,Mini sessions,2025-05-01 00:00:00,2025-05-02 21:00:00,lost
+473,742,Paid Advertisement,Branding/headshots,2025-01-20 00:00:00,2025-01-21 17:00:00,qualified
+474,846,Wedding Vendor,Branding/headshots,2025-07-06 00:00:00,2025-07-08 12:00:00,qualified
+475,1159,Google Search,Mini sessions,2025-11-21 00:00:00,2025-11-22 15:00:00,qualified
+476,1038,google,Weddings,2025-09-10 00:00:00,2025-09-10 15:00:00,qualified
+477,1090,Paid Advertisement,Newborn,2025-07-25 00:00:00,2025-07-27 17:00:00,qualified
+478,724,Referral,Mini sessions,2024-10-24 00:00:00,2024-10-25 21:00:00,qualified
+479,235,Local Event,Couples,2025-09-07 00:00:00,2025-09-08 15:00:00,qualified
+480,960,Instagram,Weddings,2025-02-22 00:00:00,2025-02-22 07:00:00,qualified
+481,119,google,Family portraits,2024-02-25 00:00:00,2024-02-27 21:00:00,qualified
+482,76,Instagram,Mini sessions,2024-05-29 00:00:00,2024-05-30 11:00:00,contacted
+483,626,Facebook,Newborn,2025-02-03 00:00:00,2025-02-03 20:00:00,contacted
+484,231,Google Search,Weddings,2024-04-28 00:00:00,2024-04-30 07:00:00,qualified
+485,85,Instagram,Newborn,2024-09-12 00:00:00,2024-09-12 17:00:00,qualified
+486,688,Referal,Maternity,2024-12-14 00:00:00,2024-12-16 21:00:00,qualified
+487,604,Repeat Client,Newborn,2024-03-02 00:00:00,2024-03-04 12:00:00,lost
+488,447,google,Maternity,2024-12-23 00:00:00,2024-12-23 14:00:00,qualified
+489,913,Local Event,Weddings,2024-05-29 00:00:00,2024-05-29 19:00:00,lost
+490,553,Referral,Branding/headshots,2025-03-22 00:00:00,2025-03-22 22:00:00,lost
+491,317,Local Event,Family portraits,2024-11-10 00:00:00,2024-11-12 22:00:00,qualified
+492,913,Instagram,Family portraits,2024-10-11 00:00:00,2024-10-11 05:00:00,qualified
+493,994,Google Search,Branding/headshots,2025-08-24 00:00:00,2025-08-25 00:00:00,new
+494,1181,Referral,Mini sessions,2024-03-21 00:00:00,2024-03-23 08:00:00,qualified
+495,793,Instagram,Graduation,2025-05-25 00:00:00,2025-05-26 07:00:00,lost
+496,397,Repeat Client,Graduation,2024-11-27 00:00:00,2024-11-27 01:00:00,lost
+497,112,Local Event,Branding/headshots,2024-09-21 00:00:00,2024-09-22 17:00:00,contacted
+498,677,Face book,Branding/headshots,2025-04-07 00:00:00,2025-04-09 21:00:00,qualified
+499,382,Facebook,Maternity,2025-02-06 00:00:00,2025-02-08 10:00:00,contacted
+500,966,Referral,Graduation,2024-06-21 00:00:00,2024-06-23 14:00:00,qualified
+501,334,Referal,Maternity,2025-06-18 00:00:00,2025-06-18 19:00:00,qualified
+502,271,Repeat Client,Weddings,2024-10-06 00:00:00,2024-10-07 13:00:00,lost
+503,970,Instagram,Graduation,2024-05-02 00:00:00,2024-05-04 06:00:00,qualified
+504,520,Facebook,Weddings,2025-02-13 00:00:00,2025-02-13 18:00:00,lost
+505,339,Face book,Couples,2024-11-29 00:00:00,2024-11-30 20:00:00,lost
+506,287,Instagram,Branding/headshots,2024-09-05 00:00:00,2024-09-06 19:00:00,qualified
+507,896,Instagram,Graduation,2024-04-30 00:00:00,2024-04-30 12:00:00,contacted
+508,935,Instagram,Maternity,2025-02-19 00:00:00,2025-02-19 21:00:00,qualified
+509,595,Paid Advertisement,Newborn,2025-10-03 00:00:00,2025-10-05 13:00:00,qualified
+510,441,Wedding Vendor,Family portraits,2025-10-14 00:00:00,2025-10-15 07:00:00,lost
+511,225,Referral,Family portraits,2024-12-17 00:00:00,2024-12-17 12:00:00,qualified
+512,854,Facebook,Branding/headshots,2024-03-23 00:00:00,2024-03-25 15:00:00,qualified
+513,875,Referral,Branding/headshots,2024-11-02 00:00:00,2024-11-03 02:00:00,lost
+514,1019,Wedding Vendor,Graduation,2024-08-01 00:00:00,2024-08-02 04:00:00,lost
+515,263,Local Event,Couples,2025-04-03 00:00:00,2025-04-05 09:00:00,new
+516,762,Instagram,Mini sessions,2025-12-16 00:00:00,2025-12-18 05:00:00,qualified
+517,362,Google Search,Mini sessions,2025-10-30 00:00:00,2025-11-01 04:00:00,lost
+518,832,Paid Advertisement,Mini sessions,2025-03-21 00:00:00,2025-03-22 02:00:00,new
+519,370,instgram,Couples,2025-03-28 00:00:00,2025-03-28 20:00:00,lost
+520,631,Wedding Vendor,Weddings,2025-10-23 00:00:00,2025-10-23 18:00:00,contacted
+521,1096,Instagram,Mini sessions,2024-02-01 00:00:00,2024-02-02 20:00:00,qualified
+522,780,Instagram,Mini sessions,2024-10-15 00:00:00,2024-10-17 00:00:00,qualified
+523,157,Repeat Client,Newborn,2024-08-22 00:00:00,2024-08-23 09:00:00,new
+524,555,Instagram,Family portraits,2024-03-11 00:00:00,2024-03-13 10:00:00,lost
+525,607,Referral,Family portraits,2025-12-31 00:00:00,2026-01-02 03:00:00,lost
+526,857,Paid Advertisement,Weddings,2025-05-21 00:00:00,2025-05-23 04:00:00,qualified
+527,348,Wedding Vendor,Couples,2024-07-25 00:00:00,2024-07-26 09:00:00,qualified
+528,106,Referral,Graduation,2025-05-24 00:00:00,2025-05-26 09:00:00,contacted
+529,33,Paid Advertisement,Maternity,2024-04-27 00:00:00,2024-04-28 10:00:00,qualified
+530,1089,instgram,Family portraits,2025-03-13 00:00:00,2025-03-15 21:00:00,qualified
+531,1038,Paid Advertisement,Weddings,2025-09-17 00:00:00,2025-09-17 09:00:00,qualified
+532,432,Google Search,Newborn,2025-09-19 00:00:00,2025-09-21 12:00:00,qualified
+533,31,Instagram,Weddings,2025-09-18 00:00:00,2025-09-19 04:00:00,qualified
+534,30,Instagram,Family portraits,2024-06-24 00:00:00,2024-06-25 17:00:00,qualified
+535,385,Google Search,Couples,2024-06-03 00:00:00,2024-06-04 20:00:00,qualified
+536,648,Paid Advertisement,Weddings,2025-04-29 00:00:00,2025-04-29 14:00:00,qualified
+537,1067,Instagram,Newborn,2025-09-26 00:00:00,2025-09-26 07:00:00,qualified
+538,304,Wedding Vendor,Mini sessions,2025-07-06 00:00:00,2025-07-07 13:00:00,lost
+539,751,Referral,Graduation,2025-06-15 00:00:00,2025-06-17 21:00:00,qualified
+540,771,Wedding Vendor,Graduation,2025-09-09 00:00:00,2025-09-11 06:00:00,lost
+541,279,Instagram,Family portraits,2024-06-12 00:00:00,2024-06-13 11:00:00,qualified
+542,651,Wedding Vendor,Weddings,2024-07-05 00:00:00,2024-07-07 12:00:00,lost
+543,854,Paid Advertisement,Graduation,2025-01-01 00:00:00,2025-01-03 16:00:00,lost
+544,996,Instagram,Weddings,2025-10-03 00:00:00,2025-10-06 00:00:00,contacted
+545,205,Facebook,Newborn,2025-06-24 00:00:00,2025-06-26 19:00:00,lost
+546,886,Referral,Family portraits,2024-10-19 00:00:00,2024-10-20 02:00:00,contacted
+547,240,Facebook,Maternity,2024-02-14 00:00:00,2024-02-16 13:00:00,qualified
+548,539,Referal,Mini sessions,2025-10-01 00:00:00,2025-10-01 01:00:00,contacted
+549,192,Instagram,Graduation,2025-03-21 00:00:00,2025-03-22 07:00:00,contacted
+550,990,google,Graduation,2024-05-01 00:00:00,2024-05-02 11:00:00,qualified
+551,1044,Face book,Branding/headshots,2024-07-19 00:00:00,2024-07-21 19:00:00,contacted
+552,474,Paid Advertisement,Branding/headshots,2024-12-22 00:00:00,2024-12-22 04:00:00,qualified
+553,240,Instagram,Family portraits,2025-04-28 00:00:00,2025-04-29 00:00:00,qualified
+554,768,Referral,Mini sessions,2024-11-16 00:00:00,2024-11-16 15:00:00,qualified
+555,1090,Instagram,Weddings,2024-05-16 00:00:00,2024-05-17 03:00:00,lost
+556,81,Referral,Family portraits,2025-07-04 00:00:00,2025-07-06 10:00:00,lost
+557,753,Instagram,Maternity,2025-12-06 00:00:00,2025-12-08 10:00:00,qualified
+558,981,Facebook,Branding/headshots,2024-10-06 00:00:00,2024-10-08 22:00:00,qualified
+559,255,Referal,Couples,2025-10-19 00:00:00,2025-10-19 08:00:00,qualified
+560,101,Instagram,Graduation,2025-05-31 00:00:00,2025-05-31 08:00:00,qualified
+561,418,Local Event,Mini sessions,2025-09-11 00:00:00,2025-09-13 16:00:00,contacted
+562,753,Local Event,Couples,2024-01-19 00:00:00,2024-01-21 00:00:00,lost
+563,40,Google Search,Graduation,2024-07-08 00:00:00,2024-07-10 11:00:00,qualified
+564,366,Referral,Newborn,2024-09-24 00:00:00,2024-09-24 18:00:00,lost
+565,670,Referral,Mini sessions,2025-11-02 00:00:00,2025-11-04 16:00:00,new
+566,1083,Instagram,Family portraits,2024-04-30 00:00:00,2024-05-02 15:00:00,qualified
+567,849,Facebook,Couples,2024-10-24 00:00:00,2024-10-25 17:00:00,lost
+568,783,Paid Advertisement,Weddings,2024-04-28 00:00:00,2024-04-30 03:00:00,qualified
+569,564,Referral,Branding/headshots,2024-11-06 00:00:00,2024-11-08 12:00:00,lost
+570,365,Paid Advertisement,Family portraits,2025-03-24 00:00:00,2025-03-26 23:00:00,qualified
+571,1060,Repeat Client,Maternity,2025-05-12 00:00:00,2025-05-12 03:00:00,lost
+572,400,Google Search,Weddings,2024-11-28 00:00:00,2024-11-30 23:00:00,contacted
+573,1137,Google Search,Mini sessions,2024-04-21 00:00:00,2024-04-21 08:00:00,qualified
+574,439,Instagram,Couples,2025-04-21 00:00:00,2025-04-21 15:00:00,qualified
+575,960,Wedding Vendor,Maternity,2024-11-10 00:00:00,2024-11-11 21:00:00,qualified
+576,921,Facebook,Weddings,2024-05-05 00:00:00,2024-05-05 13:00:00,new
+577,306,Instagram,Newborn,2024-04-07 00:00:00,2024-04-08 11:00:00,lost
+578,163,Google Search,Mini sessions,2024-10-04 00:00:00,2024-10-05 07:00:00,contacted
+579,857,Referral,Weddings,2024-05-23 00:00:00,2024-05-23 09:00:00,lost
+580,345,Paid Advertisement,Family portraits,2025-12-18 00:00:00,2025-12-18 08:00:00,qualified
+581,271,Instagram,Couples,2024-12-01 00:00:00,2024-12-01 17:00:00,qualified
+582,1101,Instagram,Graduation,2025-08-16 00:00:00,2025-08-17 08:00:00,lost
+583,951,Instagram,Family portraits,2025-10-27 00:00:00,2025-10-27 13:00:00,contacted
+584,1086,Face book,Family portraits,2025-07-06 00:00:00,2025-07-07 17:00:00,qualified
+585,860,Repeat Client,Mini sessions,2024-11-21 00:00:00,2024-11-21 08:00:00,qualified
+586,754,Paid Advertisement,Newborn,2025-12-08 00:00:00,2025-12-09 22:00:00,contacted
+587,25,Instagram,Family portraits,2025-10-19 00:00:00,2025-10-19 20:00:00,qualified
+588,531,google,Weddings,2024-05-18 00:00:00,2024-05-18 22:00:00,lost
+589,243,Repeat Client,Couples,2024-07-17 00:00:00,2024-07-19 00:00:00,lost
+590,137,Paid Advertisement,Couples,2024-08-28 00:00:00,2024-08-31 00:00:00,qualified
+591,1098,Wedding Vendor,Graduation,2025-04-27 00:00:00,2025-04-29 03:00:00,qualified
+592,516,Google Search,Branding/headshots,2025-08-31 00:00:00,2025-08-31 08:00:00,qualified
+593,566,Local Event,Family portraits,2024-03-18 00:00:00,2024-03-20 03:00:00,qualified
+594,611,Instagram,Mini sessions,2025-05-19 00:00:00,2025-05-19 11:00:00,lost
+595,390,Google Search,Couples,2024-05-09 00:00:00,2024-05-09 05:00:00,lost
+596,256,Google Search,Branding/headshots,2025-11-01 00:00:00,2025-11-01 18:00:00,lost
+597,1199,Repeat Client,Graduation,2025-05-11 00:00:00,2025-05-12 01:00:00,lost
+598,246,Instagram,Couples,2025-10-08 00:00:00,2025-10-09 13:00:00,lost
+599,32,Referral,Mini sessions,2024-10-24 00:00:00,2024-10-26 04:00:00,qualified
+600,193,Facebook,Couples,2025-09-30 00:00:00,2025-10-01 12:00:00,lost
+601,1038,Referral,Branding/headshots,2025-12-17 00:00:00,2025-12-19 12:00:00,lost
+602,1107,Facebook,Mini sessions,2024-05-21 00:00:00,2024-05-23 11:00:00,qualified
+603,963,Paid Advertisement,Weddings,2025-10-19 00:00:00,2025-10-20 18:00:00,lost
+604,951,Facebook,Graduation,2024-07-05 00:00:00,2024-07-05 13:00:00,qualified
+605,323,Wedding Vendor,Maternity,2025-06-17 00:00:00,2025-06-19 15:00:00,lost
+606,650,Local Event,Branding/headshots,2025-09-16 00:00:00,2025-09-18 23:00:00,lost
+607,1059,Repeat Client,Maternity,2024-08-16 00:00:00,2024-08-16 18:00:00,new
+608,94,Wedding Vendor,Family portraits,2024-11-27 00:00:00,2024-11-28 17:00:00,qualified
+609,128,Instagram,Couples,2024-11-28 00:00:00,2024-11-29 15:00:00,lost
+610,479,Instagram,Newborn,2024-06-11 00:00:00,2024-06-13 15:00:00,lost
+611,162,Instagram,Weddings,2024-02-01 00:00:00,2024-02-02 20:00:00,contacted
+612,28,Facebook,Weddings,2025-02-28 00:00:00,2025-03-02 05:00:00,lost
+613,1142,Wedding Vendor,Branding/headshots,2025-02-06 00:00:00,2025-02-07 09:00:00,lost
+614,606,Referral,Maternity,2025-03-13 00:00:00,2025-03-15 22:00:00,lost
+615,951,Paid Advertisement,Graduation,2025-10-21 00:00:00,2025-10-23 02:00:00,qualified
+616,651,Referral,Couples,2024-09-03 00:00:00,2024-09-04 23:00:00,qualified
+617,528,Repeat Client,Couples,2025-04-11 00:00:00,2025-04-11 07:00:00,qualified
+618,714,Instagram,Family portraits,2024-12-22 00:00:00,2024-12-24 00:00:00,lost
+619,805,Repeat Client,Mini sessions,2025-02-25 00:00:00,2025-02-26 03:00:00,qualified
+620,563,Referral,Family portraits,2025-06-15 00:00:00,2025-06-16 12:00:00,qualified
+621,1152,Facebook,Newborn,2025-09-22 00:00:00,2025-09-22 11:00:00,qualified
+622,1004,Facebook,Graduation,2024-01-23 00:00:00,2024-01-24 18:00:00,lost
+623,767,Google Search,Newborn,2025-10-01 00:00:00,2025-10-02 16:00:00,qualified
+624,499,Wedding Vendor,Mini sessions,2025-10-22 00:00:00,2025-10-23 05:00:00,qualified
+625,842,Google Search,Branding/headshots,2025-05-07 00:00:00,2025-05-07 19:00:00,qualified
+626,1017,Referral,Mini sessions,2024-03-21 00:00:00,2024-03-22 03:00:00,new
+627,232,Google Search,Branding/headshots,2024-01-26 00:00:00,2024-01-26 20:00:00,qualified
+628,247,Repeat Client,Couples,2025-02-12 00:00:00,2025-02-12 19:00:00,qualified
+629,1181,Referal,Newborn,2024-09-25 00:00:00,2024-09-27 10:00:00,new
+630,19,Local Event,Branding/headshots,2025-05-17 00:00:00,2025-05-19 12:00:00,qualified
+631,866,Wedding Vendor,Graduation,2025-10-14 00:00:00,2025-10-14 10:00:00,contacted
+632,791,Wedding Vendor,Mini sessions,2024-11-30 00:00:00,2024-11-30 16:00:00,lost
+633,368,Instagram,Branding/headshots,2024-10-03 00:00:00,2024-10-04 20:00:00,contacted
+634,925,Instagram,Couples,2024-09-29 00:00:00,2024-09-30 11:00:00,lost
+635,997,Facebook,Mini sessions,2024-02-14 00:00:00,2024-02-16 23:00:00,qualified
+636,48,Paid Advertisement,Family portraits,2025-07-20 00:00:00,2025-07-21 06:00:00,lost
+637,351,Paid Advertisement,Couples,2024-06-19 00:00:00,2024-06-20 06:00:00,new
+638,118,Repeat Client,Graduation,2025-05-08 00:00:00,2025-05-09 20:00:00,lost
+639,36,Referral,Weddings,2024-05-24 00:00:00,2024-05-24 22:00:00,contacted
+640,10,Instagram,Weddings,2025-08-12 00:00:00,2025-08-13 17:00:00,qualified
+641,676,Instagram,Couples,2024-12-29 00:00:00,2024-12-31 19:00:00,lost
+642,249,Instagram,Graduation,2024-10-04 00:00:00,2024-10-05 21:00:00,qualified
+643,705,Referral,Graduation,2024-12-11 00:00:00,2024-12-12 21:00:00,lost
+644,1184,Referal,Couples,2024-10-21 00:00:00,2024-10-23 17:00:00,qualified
+645,974,Google Search,Couples,2025-07-25 00:00:00,2025-07-26 02:00:00,qualified
+646,117,Repeat Client,Mini sessions,2025-07-24 00:00:00,2025-07-24 13:00:00,qualified
+647,803,google,Weddings,2024-06-12 00:00:00,2024-06-12 07:00:00,qualified
+648,57,Referral,Weddings,2024-05-03 00:00:00,2024-05-04 05:00:00,lost
+649,40,Facebook,Weddings,2024-03-18 00:00:00,2024-03-20 11:00:00,lost
+650,603,Facebook,Graduation,2025-08-26 00:00:00,2025-08-27 23:00:00,lost
+651,275,Instagram,Graduation,2025-04-14 00:00:00,2025-04-15 02:00:00,qualified
+652,203,Facebook,Family portraits,2025-11-07 00:00:00,2025-11-08 10:00:00,qualified
+653,619,Instagram,Graduation,2024-12-20 00:00:00,2024-12-20 17:00:00,qualified
+654,419,Instagram,Maternity,2025-06-24 00:00:00,2025-06-25 08:00:00,qualified
+655,250,Referral,Branding/headshots,2025-05-01 00:00:00,2025-05-01 12:00:00,lost
+656,91,Repeat Client,Newborn,2024-08-03 00:00:00,2024-08-03 06:00:00,qualified
+657,1063,Referral,Mini sessions,2025-03-08 00:00:00,2025-03-09 01:00:00,qualified
+658,229,Wedding Vendor,Maternity,2024-03-13 00:00:00,2024-03-13 04:00:00,qualified
+659,258,Facebook,Graduation,2024-05-27 00:00:00,2024-05-28 10:00:00,qualified
+660,667,Local Event,Branding/headshots,2024-05-19 00:00:00,2024-05-20 16:00:00,qualified
+661,1050,Referral,Family portraits,2024-12-16 00:00:00,2024-12-17 03:00:00,new
+662,600,Google Search,Weddings,2025-10-06 00:00:00,2025-10-06 12:00:00,qualified
+663,227,Paid Advertisement,Graduation,2025-12-19 00:00:00,2025-12-19 22:00:00,qualified
+664,1152,Face book,Family portraits,2025-01-17 00:00:00,2025-01-19 07:00:00,new
+665,52,Google Search,Branding/headshots,2024-06-03 00:00:00,2024-06-05 07:00:00,qualified
+666,738,Local Event,Weddings,2024-08-31 00:00:00,2024-08-31 11:00:00,lost
+667,441,Wedding Vendor,Couples,2024-09-26 00:00:00,2024-09-27 07:00:00,qualified
+668,336,Google Search,Couples,2024-06-17 00:00:00,2024-06-19 01:00:00,lost
+669,330,Paid Advertisement,Weddings,2025-09-09 00:00:00,2025-09-09 09:00:00,lost
+670,1108,Referral,Branding/headshots,2024-03-04 00:00:00,2024-03-05 00:00:00,lost
+671,478,Local Event,Graduation,2024-03-14 00:00:00,2024-03-16 05:00:00,qualified
+672,176,Referral,Family portraits,2024-10-10 00:00:00,2024-10-11 02:00:00,new
+673,261,Wedding Vendor,Graduation,2025-04-03 00:00:00,2025-04-05 18:00:00,lost
+674,1166,Google Search,Graduation,2024-05-04 00:00:00,2024-05-06 07:00:00,qualified
+675,377,Instagram,Graduation,2025-04-27 00:00:00,2025-04-27 21:00:00,qualified
+676,786,Referral,Graduation,2024-10-18 00:00:00,2024-10-18 03:00:00,qualified
+677,163,Repeat Client,Mini sessions,2025-02-19 00:00:00,2025-02-20 11:00:00,lost
+678,938,Instagram,Weddings,2025-02-25 00:00:00,2025-02-26 14:00:00,qualified
+679,983,Instagram,Family portraits,2024-07-01 00:00:00,2024-07-03 21:00:00,lost
+680,830,Instagram,Weddings,2025-09-12 00:00:00,2025-09-14 23:00:00,qualified
+681,271,Referral,Couples,2025-12-21 00:00:00,2025-12-22 07:00:00,lost
+682,1,Google Search,Graduation,2024-08-22 00:00:00,2024-08-22 13:00:00,qualified
+683,1123,Referral,Mini sessions,2024-12-31 00:00:00,2025-01-02 07:00:00,qualified
+684,283,Referral,Family portraits,2025-01-17 00:00:00,2025-01-17 12:00:00,lost
+685,626,Repeat Client,Family portraits,2025-08-12 00:00:00,2025-08-13 05:00:00,qualified
+686,929,Instagram,Branding/headshots,2025-03-16 00:00:00,2025-03-18 23:00:00,new
+687,704,Google Search,Couples,2025-09-05 00:00:00,2025-09-07 07:00:00,qualified
+688,102,Local Event,Branding/headshots,2025-12-15 00:00:00,2025-12-17 03:00:00,qualified
+689,787,Instagram,Newborn,2024-07-26 00:00:00,2024-07-27 11:00:00,qualified
+690,86,Paid Advertisement,Weddings,2024-06-29 00:00:00,2024-07-01 03:00:00,qualified
+691,203,Local Event,Graduation,2025-12-12 00:00:00,2025-12-13 22:00:00,lost
+692,465,Referral,Maternity,2024-02-02 00:00:00,2024-02-04 14:00:00,lost
+693,482,Instagram,Family portraits,2024-07-02 00:00:00,2024-07-03 12:00:00,qualified
+694,186,Paid Advertisement,Mini sessions,2025-03-17 00:00:00,2025-03-19 07:00:00,new
+695,461,Google Search,Newborn,2024-12-06 00:00:00,2024-12-08 11:00:00,qualified
+696,1090,Google Search,Mini sessions,2025-05-22 00:00:00,2025-05-24 13:00:00,qualified
+697,543,Facebook,Branding/headshots,2025-04-25 00:00:00,2025-04-27 21:00:00,contacted
+698,1,Instagram,Maternity,2025-01-12 00:00:00,2025-01-13 12:00:00,contacted
+699,635,Instagram,Branding/headshots,2025-09-10 00:00:00,2025-09-11 09:00:00,qualified
+700,511,Face book,Weddings,2025-09-19 00:00:00,2025-09-21 19:00:00,qualified
+701,92,Instagram,Newborn,2025-09-06 00:00:00,2025-09-06 09:00:00,qualified
+702,595,Referral,Graduation,2025-12-20 00:00:00,2025-12-21 19:00:00,lost
+703,369,Referral,Mini sessions,2025-11-18 00:00:00,2025-11-18 08:00:00,lost
+704,412,Facebook,Family portraits,2025-11-18 00:00:00,2025-11-20 18:00:00,qualified
+705,726,Repeat Client,Weddings,2025-05-07 00:00:00,2025-05-08 10:00:00,qualified
+706,1149,Instagram,Mini sessions,2024-03-02 00:00:00,2024-03-04 08:00:00,qualified
+707,260,Referral,Family portraits,2025-10-18 00:00:00,2025-10-19 04:00:00,qualified
+708,468,Instagram,Graduation,2024-12-17 00:00:00,2024-12-19 10:00:00,contacted
+709,222,Instagram,Maternity,2025-10-02 00:00:00,2025-10-02 16:00:00,lost
+710,634,Referral,Family portraits,2024-03-11 00:00:00,2024-03-12 15:00:00,contacted
+711,114,Repeat Client,Mini sessions,2025-10-26 00:00:00,2025-10-27 02:00:00,qualified
+712,503,Repeat Client,Graduation,2025-08-28 00:00:00,2025-08-29 00:00:00,qualified
+713,211,Paid Advertisement,Mini sessions,2024-07-10 00:00:00,2024-07-11 04:00:00,qualified
+714,545,Instagram,Branding/headshots,2025-05-17 00:00:00,2025-05-18 16:00:00,lost
+715,653,Paid Advertisement,Branding/headshots,2025-12-28 00:00:00,2025-12-30 15:00:00,qualified
+716,332,Paid Advertisement,Couples,2024-09-19 00:00:00,2024-09-21 23:00:00,qualified
+717,585,Google Search,Couples,2025-12-04 00:00:00,2025-12-04 01:00:00,new
+718,849,Facebook,Maternity,2025-03-01 00:00:00,2025-03-02 19:00:00,qualified
+719,453,Instagram,Mini sessions,2025-02-24 00:00:00,2025-02-26 04:00:00,qualified
+720,964,Referral,Family portraits,2024-11-12 00:00:00,2024-11-14 21:00:00,lost
+721,308,Instagram,Branding/headshots,2025-12-27 00:00:00,2025-12-28 02:00:00,lost
+722,549,Google Search,Newborn,2025-03-17 00:00:00,2025-03-18 08:00:00,contacted
+723,666,Facebook,Family portraits,2024-07-29 00:00:00,2024-07-30 23:00:00,contacted
+724,565,Google Search,Newborn,2024-08-03 00:00:00,2024-08-04 20:00:00,contacted
+725,409,Instagram,Graduation,2025-10-12 00:00:00,2025-10-12 12:00:00,lost
+726,254,Instagram,Weddings,2025-04-01 00:00:00,2025-04-01 06:00:00,contacted
+727,1179,Repeat Client,Mini sessions,2025-10-16 00:00:00,2025-10-18 08:00:00,qualified
+728,709,Wedding Vendor,Mini sessions,2025-11-22 00:00:00,2025-11-23 02:00:00,qualified
+729,625,Paid Advertisement,Branding/headshots,2025-04-07 00:00:00,2025-04-08 20:00:00,contacted
+730,30,Referral,Branding/headshots,2025-04-23 00:00:00,2025-04-24 05:00:00,lost
+731,46,Google Search,Mini sessions,2024-09-06 00:00:00,2024-09-08 20:00:00,lost
+732,848,Local Event,Family portraits,2024-12-20 00:00:00,2024-12-22 12:00:00,qualified
+733,1168,Google Search,Family portraits,2025-06-30 00:00:00,2025-06-30 11:00:00,qualified
+734,544,Referral,Graduation,2025-02-23 00:00:00,2025-02-24 01:00:00,qualified
+735,654,Wedding Vendor,Branding/headshots,2025-06-15 00:00:00,2025-06-15 07:00:00,qualified
+736,141,Google Search,Family portraits,2025-02-22 00:00:00,2025-02-24 19:00:00,qualified
+737,142,Wedding Vendor,Graduation,2024-02-21 00:00:00,2024-02-21 08:00:00,qualified
+738,850,Google Search,Mini sessions,2024-03-02 00:00:00,2024-03-04 20:00:00,contacted
+739,1178,Google Search,Newborn,2025-04-11 00:00:00,2025-04-11 03:00:00,lost
+740,649,Google Search,Weddings,2024-07-26 00:00:00,2024-07-28 12:00:00,contacted
+741,491,Google Search,Mini sessions,2024-09-26 00:00:00,2024-09-28 15:00:00,qualified
+742,409,Facebook,Weddings,2024-12-01 00:00:00,2024-12-02 15:00:00,qualified
+743,270,Wedding Vendor,Graduation,2025-05-28 00:00:00,2025-05-30 00:00:00,contacted
+744,954,Facebook,Branding/headshots,2024-06-13 00:00:00,2024-06-15 11:00:00,qualified
+745,733,Instagram,Graduation,2024-03-08 00:00:00,2024-03-08 22:00:00,contacted
+746,773,Instagram,Weddings,2025-08-03 00:00:00,2025-08-03 13:00:00,contacted
+747,3,Referral,Weddings,2024-01-15 00:00:00,2024-01-17 03:00:00,qualified
+748,290,Google Search,Weddings,2024-05-08 00:00:00,2024-05-10 22:00:00,lost
+749,119,Referral,Branding/headshots,2025-11-15 00:00:00,2025-11-17 19:00:00,lost
+750,264,Face book,Branding/headshots,2025-08-04 00:00:00,2025-08-06 18:00:00,lost
+751,20,Instagram,Branding/headshots,2024-05-11 00:00:00,2024-05-13 03:00:00,qualified
+752,634,Google Search,Mini sessions,2025-01-04 00:00:00,2025-01-04 20:00:00,lost
+753,175,Wedding Vendor,Weddings,2024-09-06 00:00:00,2024-09-06 18:00:00,qualified
+754,767,Instagram,Family portraits,2024-06-09 00:00:00,2024-06-10 16:00:00,lost
+755,65,Instagram,Graduation,2025-04-20 00:00:00,2025-04-20 07:00:00,contacted
+756,65,Instagram,Mini sessions,2025-04-20 00:00:00,2025-04-22 01:00:00,lost
+757,861,Repeat Client,Family portraits,2024-10-18 00:00:00,2024-10-20 20:00:00,qualified
+758,266,Instagram,Maternity,2025-03-02 00:00:00,2025-03-02 16:00:00,qualified
+759,88,Repeat Client,Family portraits,2024-08-06 00:00:00,2024-08-06 09:00:00,contacted
+760,488,Repeat Client,Couples,2024-12-08 00:00:00,2024-12-09 01:00:00,qualified
+761,158,Referral,Mini sessions,2025-02-15 00:00:00,2025-02-16 00:00:00,contacted
+762,392,Google Search,Branding/headshots,2024-03-07 00:00:00,2024-03-07 12:00:00,qualified
+763,92,Instagram,Mini sessions,2024-11-04 00:00:00,2024-11-05 02:00:00,lost
+764,26,Paid Advertisement,Graduation,2025-02-11 00:00:00,2025-02-13 08:00:00,new
+765,610,Referral,Weddings,2025-11-16 00:00:00,2025-11-16 09:00:00,lost
+766,208,Facebook,Weddings,2024-06-29 00:00:00,2024-07-01 03:00:00,qualified
+767,344,Referral,Maternity,2025-10-04 00:00:00,2025-10-05 19:00:00,contacted
+768,1165,Repeat Client,Newborn,2024-07-31 00:00:00,2024-07-31 23:00:00,qualified
+769,1074,Paid Advertisement,Maternity,2024-03-24 00:00:00,2024-03-26 13:00:00,qualified
+770,440,Instagram,Graduation,2024-10-25 00:00:00,2024-10-26 22:00:00,qualified
+771,1152,Google Search,Weddings,2024-05-20 00:00:00,2024-05-21 14:00:00,qualified
+772,473,Paid Advertisement,Couples,2025-05-18 00:00:00,2025-05-19 17:00:00,contacted
+773,598,Referral,Branding/headshots,2025-11-17 00:00:00,2025-11-19 08:00:00,qualified
+774,514,Instagram,Branding/headshots,2025-10-19 00:00:00,2025-10-20 18:00:00,contacted
+775,325,Google Search,Couples,2025-09-21 00:00:00,2025-09-22 14:00:00,qualified
+776,1116,Repeat Client,Graduation,2025-06-16 00:00:00,2025-06-18 08:00:00,lost
+777,551,Repeat Client,Mini sessions,2024-10-24 00:00:00,2024-10-25 18:00:00,qualified
+778,630,Local Event,Family portraits,2025-03-01 00:00:00,2025-03-01 18:00:00,qualified
+779,769,Repeat Client,Graduation,2025-05-07 00:00:00,2025-05-09 15:00:00,qualified
+780,919,Google Search,Mini sessions,2025-10-15 00:00:00,2025-10-18 00:00:00,lost
+781,1120,Local Event,Mini sessions,2025-03-04 00:00:00,2025-03-04 09:00:00,qualified
+782,267,Google Search,Branding/headshots,2024-12-28 00:00:00,2024-12-29 01:00:00,lost
+783,296,Local Event,Branding/headshots,2025-07-21 00:00:00,2025-07-21 19:00:00,qualified
+784,63,Repeat Client,Branding/headshots,2024-06-07 00:00:00,2024-06-08 17:00:00,qualified
+785,146,Local Event,Newborn,2024-10-14 00:00:00,2024-10-16 09:00:00,lost
+786,427,Paid Advertisement,Weddings,2024-04-27 00:00:00,2024-04-27 18:00:00,contacted
+787,782,Instagram,Maternity,2025-02-25 00:00:00,2025-02-26 22:00:00,qualified
+788,730,Referral,Family portraits,2025-11-15 00:00:00,2025-11-16 17:00:00,qualified
+789,618,Instagram,Graduation,2024-08-20 00:00:00,2024-08-22 10:00:00,contacted
+790,585,Paid Advertisement,Branding/headshots,2025-10-12 00:00:00,2025-10-13 01:00:00,new
+791,470,Instagram,Maternity,2025-11-04 00:00:00,2025-11-04 13:00:00,qualified
+792,791,Repeat Client,Newborn,2024-04-26 00:00:00,2024-04-28 08:00:00,lost
+793,793,Instagram,Couples,2025-07-01 00:00:00,2025-07-01 19:00:00,qualified
+794,605,google,Branding/headshots,2025-10-05 00:00:00,2025-10-05 11:00:00,qualified
+795,974,Instagram,Mini sessions,2025-09-17 00:00:00,2025-09-19 19:00:00,qualified
+796,1150,Referral,Maternity,2025-12-16 00:00:00,2025-12-18 00:00:00,qualified
+797,977,Google Search,Branding/headshots,2024-03-09 00:00:00,2024-03-11 04:00:00,new
+798,893,Google Search,Couples,2024-11-08 00:00:00,2024-11-10 15:00:00,qualified
+799,1193,Repeat Client,Maternity,2025-08-03 00:00:00,2025-08-05 21:00:00,qualified
+800,716,Google Search,Newborn,2024-04-29 00:00:00,2024-04-29 21:00:00,lost
+801,637,Instagram,Mini sessions,2025-11-23 00:00:00,2025-11-23 02:00:00,qualified
+802,732,Wedding Vendor,Family portraits,2024-10-06 00:00:00,2024-10-06 16:00:00,qualified
+803,202,Instagram,Newborn,2025-05-25 00:00:00,2025-05-26 03:00:00,qualified
+804,1036,Instagram,Branding/headshots,2024-12-31 00:00:00,2025-01-01 16:00:00,qualified
+805,103,Local Event,Maternity,2024-08-21 00:00:00,2024-08-21 21:00:00,lost
+806,17,Facebook,Mini sessions,2025-03-03 00:00:00,2025-03-04 01:00:00,qualified
+807,988,Instagram,Couples,2025-12-25 00:00:00,2025-12-25 10:00:00,qualified
+808,830,Instagram,Mini sessions,2024-10-01 00:00:00,2024-10-03 23:00:00,qualified
+809,232,Instagram,Weddings,2025-06-14 00:00:00,2025-06-14 03:00:00,lost
+810,240,Face book,Maternity,2025-01-19 00:00:00,2025-01-19 07:00:00,contacted
+811,1063,Facebook,Graduation,2024-10-23 00:00:00,2024-10-25 22:00:00,lost
+812,242,Local Event,Maternity,2025-09-27 00:00:00,2025-09-29 20:00:00,qualified
+813,898,Referral,Family portraits,2025-07-11 00:00:00,2025-07-12 21:00:00,qualified
+814,163,Local Event,Mini sessions,2024-10-05 00:00:00,2024-10-06 14:00:00,qualified
+815,86,Local Event,Maternity,2024-12-08 00:00:00,2024-12-09 08:00:00,qualified
+816,468,google,Graduation,2024-11-02 00:00:00,2024-11-03 05:00:00,lost
+817,318,google,Mini sessions,2025-08-03 00:00:00,2025-08-04 18:00:00,lost
+818,1027,Referal,Newborn,2024-11-22 00:00:00,2024-11-23 03:00:00,qualified
+819,432,Repeat Client,Weddings,2025-05-11 00:00:00,2025-05-11 04:00:00,lost
+820,521,Facebook,Graduation,2024-11-02 00:00:00,2024-11-04 19:00:00,lost
+821,834,Paid Advertisement,Branding/headshots,2025-09-01 00:00:00,2025-09-01 22:00:00,qualified
+822,495,Referral,Graduation,2025-04-30 00:00:00,2025-05-02 16:00:00,lost
+823,415,Repeat Client,Weddings,2025-04-29 00:00:00,2025-04-30 02:00:00,lost
+824,1176,Wedding Vendor,Graduation,2025-09-10 00:00:00,2025-09-12 01:00:00,contacted
+825,309,Wedding Vendor,Family portraits,2024-11-01 00:00:00,2024-11-03 22:00:00,contacted
+826,986,Repeat Client,Newborn,2024-10-01 00:00:00,2024-10-02 03:00:00,lost
+827,570,Referral,Newborn,2024-11-17 00:00:00,2024-11-18 21:00:00,qualified
+828,457,Repeat Client,Graduation,2025-10-28 00:00:00,2025-10-30 17:00:00,qualified
+829,20,Facebook,Branding/headshots,2024-10-29 00:00:00,2024-10-29 12:00:00,qualified
+830,1066,Google Search,Graduation,2024-09-12 00:00:00,2024-09-12 02:00:00,qualified
+831,1156,Instagram,Family portraits,2025-10-11 00:00:00,2025-10-12 22:00:00,lost
+832,886,Referral,Couples,2025-10-12 00:00:00,2025-10-14 11:00:00,lost
+833,663,Referral,Family portraits,2024-11-13 00:00:00,2024-11-14 22:00:00,qualified
+834,738,instgram,Branding/headshots,2024-09-07 00:00:00,2024-09-08 18:00:00,qualified
+835,1162,Instagram,Branding/headshots,2024-05-23 00:00:00,2024-05-24 03:00:00,lost
+836,202,Facebook,Weddings,2025-04-24 00:00:00,2025-04-24 18:00:00,qualified
+837,338,Referal,Newborn,2024-11-24 00:00:00,2024-11-26 12:00:00,qualified
+838,254,Facebook,Family portraits,2025-11-22 00:00:00,2025-11-22 19:00:00,lost
+839,306,Instagram,Mini sessions,2024-11-30 00:00:00,2024-12-01 12:00:00,qualified
+840,568,Wedding Vendor,Maternity,2024-05-15 00:00:00,2024-05-15 01:00:00,lost
+841,374,google,Branding/headshots,2025-12-28 00:00:00,2025-12-28 16:00:00,lost
+842,372,Referal,Mini sessions,2025-04-04 00:00:00,2025-04-05 12:00:00,contacted
+843,209,Paid Advertisement,Weddings,2024-10-13 00:00:00,2024-10-13 17:00:00,qualified
+844,397,Referral,Mini sessions,2025-03-12 00:00:00,2025-03-12 23:00:00,qualified
+845,336,Instagram,Newborn,2025-09-10 00:00:00,2025-09-13 00:00:00,qualified
+846,565,Instagram,Mini sessions,2024-05-02 00:00:00,2024-05-04 10:00:00,lost
+847,404,Referral,Family portraits,2024-12-11 00:00:00,2024-12-11 19:00:00,qualified
+848,68,Repeat Client,Family portraits,2024-12-28 00:00:00,2024-12-28 08:00:00,qualified
+849,1167,Instagram,Maternity,2025-03-09 00:00:00,2025-03-10 07:00:00,lost
+850,506,Referal,Weddings,2025-07-29 00:00:00,2025-07-29 03:00:00,new
+851,966,Instagram,Mini sessions,2025-07-21 00:00:00,2025-07-23 20:00:00,lost
+852,685,Local Event,Weddings,2025-08-11 00:00:00,2025-08-13 11:00:00,lost
+853,1117,Instagram,Newborn,2024-08-22 00:00:00,2024-08-24 00:00:00,contacted
+854,588,Facebook,Couples,2024-11-10 00:00:00,2024-11-11 07:00:00,qualified
+855,724,Google Search,Weddings,2024-03-26 00:00:00,2024-03-28 08:00:00,lost
+856,545,Referral,Newborn,2025-10-27 00:00:00,2025-10-27 10:00:00,qualified
+857,594,Facebook,Family portraits,2025-10-28 00:00:00,2025-10-28 08:00:00,qualified
+858,38,Referral,Family portraits,2025-04-17 00:00:00,2025-04-19 09:00:00,lost
+859,249,Referral,Newborn,2025-09-25 00:00:00,2025-09-26 10:00:00,lost
+860,1079,Facebook,Mini sessions,2025-10-28 00:00:00,2025-10-28 17:00:00,contacted
+861,174,google,Mini sessions,2025-10-09 00:00:00,2025-10-09 05:00:00,contacted
+862,1147,Google Search,Couples,2025-11-04 00:00:00,2025-11-06 19:00:00,qualified
+863,999,Facebook,Mini sessions,2025-09-23 00:00:00,2025-09-25 18:00:00,lost
+864,643,Referral,Newborn,2024-10-20 00:00:00,2024-10-20 17:00:00,lost
+865,239,Instagram,Family portraits,2025-10-27 00:00:00,2025-10-28 18:00:00,qualified
+866,418,Facebook,Mini sessions,2024-08-22 00:00:00,2024-08-24 18:00:00,qualified
+867,500,Local Event,Family portraits,2024-04-02 00:00:00,2024-04-02 04:00:00,contacted
+868,612,Instagram,Branding/headshots,2025-08-06 00:00:00,2025-08-06 23:00:00,lost
+869,240,Facebook,Mini sessions,2024-10-12 00:00:00,2024-10-13 13:00:00,lost
+870,9,Google Search,Family portraits,2025-06-03 00:00:00,2025-06-05 11:00:00,lost
+871,1020,Instagram,Graduation,2024-10-18 00:00:00,2024-10-20 05:00:00,qualified
+872,481,Google Search,Graduation,2025-10-22 00:00:00,2025-10-23 22:00:00,contacted
+873,659,Wedding Vendor,Branding/headshots,2024-11-26 00:00:00,2024-11-27 17:00:00,qualified
+874,1005,Paid Advertisement,Couples,2025-07-23 00:00:00,2025-07-23 12:00:00,qualified
+875,1153,Facebook,Couples,2024-05-02 00:00:00,2024-05-02 17:00:00,qualified
+876,1088,Google Search,Family portraits,2024-10-13 00:00:00,2024-10-15 20:00:00,lost
+877,862,Instagram,Mini sessions,2025-12-16 00:00:00,2025-12-18 14:00:00,qualified
+878,312,Instagram,Mini sessions,2024-12-21 00:00:00,2024-12-22 00:00:00,contacted
+879,535,Instagram,Maternity,2024-03-05 00:00:00,2024-03-07 18:00:00,qualified
+880,35,Instagram,Couples,2025-04-26 00:00:00,2025-04-27 02:00:00,qualified
+881,937,Instagram,Graduation,2024-04-23 00:00:00,2024-04-24 18:00:00,lost
+882,81,Instagram,Graduation,2025-02-08 00:00:00,2025-02-10 18:00:00,qualified
+883,578,Repeat Client,Mini sessions,2024-10-20 00:00:00,2024-10-21 23:00:00,qualified
+884,223,Facebook,Weddings,2025-04-05 00:00:00,2025-04-06 00:00:00,lost
+885,174,Referral,Branding/headshots,2025-03-09 00:00:00,2025-03-10 05:00:00,qualified
+886,86,Instagram,Family portraits,2025-03-11 00:00:00,2025-03-13 14:00:00,lost
+887,415,instgram,Mini sessions,2024-10-06 00:00:00,2024-10-07 23:00:00,contacted
+888,642,Facebook,Mini sessions,2025-01-26 00:00:00,2025-01-28 08:00:00,lost
+889,789,Google Search,Family portraits,2025-09-01 00:00:00,2025-09-03 23:00:00,lost
+890,986,Google Search,Mini sessions,2025-07-22 00:00:00,2025-07-22 21:00:00,qualified
+891,592,Wedding Vendor,Weddings,2025-10-01 00:00:00,2025-10-02 12:00:00,qualified
+892,871,Repeat Client,Weddings,2025-03-30 00:00:00,2025-04-01 15:00:00,lost
+893,59,Referral,Family portraits,2025-07-13 00:00:00,2025-07-15 00:00:00,lost
+894,339,Facebook,Mini sessions,2025-09-29 00:00:00,2025-10-02 00:00:00,qualified
+895,698,Instagram,Newborn,2025-11-30 00:00:00,2025-11-30 20:00:00,lost
+896,35,Wedding Vendor,Branding/headshots,2024-12-25 00:00:00,2024-12-26 09:00:00,qualified
+897,863,Google Search,Mini sessions,2025-02-19 00:00:00,2025-02-19 15:00:00,qualified
+898,175,Instagram,Maternity,2024-10-04 00:00:00,2024-10-06 06:00:00,lost
+899,999,Facebook,Family portraits,2025-11-15 00:00:00,2025-11-15 12:00:00,qualified
+900,744,instgram,Mini sessions,2024-11-19 00:00:00,2024-11-20 05:00:00,contacted
+901,280,Instagram,Newborn,2025-08-02 00:00:00,2025-08-02 19:00:00,qualified
+902,888,Paid Advertisement,Branding/headshots,2024-01-15 00:00:00,2024-01-17 04:00:00,contacted
+903,1177,Facebook,Couples,2025-05-19 00:00:00,2025-05-21 12:00:00,lost
+904,180,Paid Advertisement,Mini sessions,2025-01-20 00:00:00,2025-01-20 15:00:00,lost
+905,139,Instagram,Family portraits,2024-10-18 00:00:00,2024-10-18 11:00:00,lost
+906,157,Repeat Client,Weddings,2024-10-27 00:00:00,2024-10-29 21:00:00,lost
+907,262,Facebook,Couples,2024-10-16 00:00:00,2024-10-17 05:00:00,qualified
+908,584,Facebook,Branding/headshots,2025-05-16 00:00:00,2025-05-17 07:00:00,qualified
+909,178,Facebook,Mini sessions,2024-04-03 00:00:00,2024-04-04 13:00:00,lost
+910,53,Facebook,Weddings,2024-02-01 00:00:00,2024-02-02 12:00:00,lost
+911,216,Instagram,Graduation,2024-09-08 00:00:00,2024-09-08 01:00:00,qualified
+912,299,Paid Advertisement,Branding/headshots,2024-11-11 00:00:00,2024-11-13 09:00:00,lost
+913,1177,Referral,Mini sessions,2025-10-01 00:00:00,2025-10-03 02:00:00,lost
+914,399,Wedding Vendor,Graduation,2025-04-19 00:00:00,2025-04-20 05:00:00,qualified
+915,1122,Local Event,Maternity,2024-04-26 00:00:00,2024-04-26 03:00:00,lost
+916,116,Referral,Couples,2025-09-03 00:00:00,2025-09-04 06:00:00,qualified
+917,206,Instagram,Family portraits,2025-04-06 00:00:00,2025-04-07 00:00:00,qualified
+918,863,Referral,Branding/headshots,2025-01-27 00:00:00,2025-01-27 20:00:00,lost
+919,15,Facebook,Weddings,2025-10-18 00:00:00,2025-10-19 13:00:00,new
+920,493,Wedding Vendor,Branding/headshots,2025-12-19 00:00:00,2025-12-20 00:00:00,lost
+921,269,Referral,Mini sessions,2024-06-04 00:00:00,2024-06-04 15:00:00,qualified
+922,124,Google Search,Weddings,2025-09-24 00:00:00,2025-09-24 07:00:00,lost
+923,1007,Wedding Vendor,Weddings,2024-06-04 00:00:00,2024-06-04 21:00:00,lost
+924,227,Instagram,Maternity,2025-02-06 00:00:00,2025-02-08 17:00:00,lost
+925,638,Wedding Vendor,Maternity,2025-10-10 00:00:00,2025-10-10 15:00:00,lost
+926,761,Repeat Client,Maternity,2025-11-11 00:00:00,2025-11-12 06:00:00,qualified
+927,510,Repeat Client,Weddings,2025-05-02 00:00:00,2025-05-04 21:00:00,qualified
+928,22,Referral,Graduation,2025-10-04 00:00:00,2025-10-05 06:00:00,qualified
+929,252,Referral,Weddings,2025-08-28 00:00:00,2025-08-30 08:00:00,qualified
+930,202,Wedding Vendor,Newborn,2024-04-22 00:00:00,2024-04-24 01:00:00,lost
+931,855,Google Search,Family portraits,2024-12-13 00:00:00,2024-12-13 09:00:00,qualified
+932,1143,Instagram,Family portraits,2025-02-05 00:00:00,2025-02-06 12:00:00,qualified
+933,572,Facebook,Maternity,2024-10-12 00:00:00,2024-10-14 16:00:00,lost
+934,643,Local Event,Weddings,2025-06-29 00:00:00,2025-06-29 15:00:00,qualified
+935,1053,Repeat Client,Mini sessions,2025-05-15 00:00:00,2025-05-16 00:00:00,qualified
+936,575,Referral,Family portraits,2025-04-06 00:00:00,2025-04-08 15:00:00,qualified
+937,955,Instagram,Couples,2025-01-07 00:00:00,2025-01-08 11:00:00,qualified
+938,615,Referral,Weddings,2024-05-07 00:00:00,2024-05-07 04:00:00,new
+939,817,Facebook,Graduation,2024-03-03 00:00:00,2024-03-03 09:00:00,qualified
+940,1149,Repeat Client,Family portraits,2025-12-17 00:00:00,2025-12-18 14:00:00,qualified
+941,244,Local Event,Graduation,2024-09-19 00:00:00,2024-09-19 20:00:00,contacted
+942,460,Google Search,Couples,2025-06-26 00:00:00,2025-06-28 04:00:00,lost
+943,316,Local Event,Branding/headshots,2024-07-03 00:00:00,2024-07-04 17:00:00,lost
+944,460,Repeat Client,Mini sessions,2025-01-26 00:00:00,2025-01-28 21:00:00,qualified
+945,353,Wedding Vendor,Mini sessions,2024-05-28 00:00:00,2024-05-29 03:00:00,qualified
+946,240,Wedding Vendor,Branding/headshots,2024-01-11 00:00:00,2024-01-11 12:00:00,qualified
+947,427,Referral,Newborn,2024-10-18 00:00:00,2024-10-20 15:00:00,contacted
+948,349,Google Search,Weddings,2024-10-20 00:00:00,2024-10-21 23:00:00,qualified
+949,807,Wedding Vendor,Maternity,2024-04-07 00:00:00,2024-04-09 22:00:00,contacted
+950,1153,Google Search,Mini sessions,2025-03-10 00:00:00,2025-03-10 21:00:00,lost
+951,312,Google Search,Graduation,2025-03-24 00:00:00,2025-03-26 06:00:00,qualified
+952,202,Facebook,Weddings,2025-10-17 00:00:00,2025-10-19 11:00:00,lost
+953,79,Paid Advertisement,Couples,2025-05-30 00:00:00,2025-05-30 11:00:00,lost
+954,930,Instagram,Branding/headshots,2024-07-23 00:00:00,2024-07-23 18:00:00,qualified
+955,1038,Google Search,Maternity,2024-11-20 00:00:00,2024-11-22 10:00:00,lost
+956,282,Google Search,Branding/headshots,2025-09-27 00:00:00,2025-09-29 10:00:00,lost
+957,342,Google Search,Mini sessions,2025-07-24 00:00:00,2025-07-24 08:00:00,lost
+958,581,Repeat Client,Family portraits,2025-11-30 00:00:00,2025-11-30 09:00:00,qualified
+959,1130,Referral,Weddings,2024-10-03 00:00:00,2024-10-04 05:00:00,new
+960,636,Google Search,Weddings,2025-10-05 00:00:00,2025-10-06 16:00:00,qualified
+961,834,Facebook,Mini sessions,2024-03-16 00:00:00,2024-03-18 18:00:00,contacted
+962,833,Wedding Vendor,Mini sessions,2025-04-17 00:00:00,2025-04-17 13:00:00,lost
+963,578,Referral,Newborn,2025-04-25 00:00:00,2025-04-26 04:00:00,qualified
+964,527,Facebook,Family portraits,2025-11-02 00:00:00,2025-11-04 23:00:00,qualified
+965,30,Instagram,Branding/headshots,2024-09-13 00:00:00,2024-09-15 04:00:00,lost
+966,179,Facebook,Family portraits,2025-06-18 00:00:00,2025-06-19 07:00:00,new
+967,1137,Facebook,Newborn,2024-10-13 00:00:00,2024-10-15 19:00:00,qualified
+968,867,Local Event,Graduation,2025-02-19 00:00:00,2025-02-20 10:00:00,contacted
+969,176,Referral,Couples,2024-12-03 00:00:00,2024-12-05 11:00:00,qualified
+970,551,Wedding Vendor,Couples,2025-03-13 00:00:00,2025-03-15 12:00:00,lost
+971,991,Instagram,Mini sessions,2025-04-11 00:00:00,2025-04-11 16:00:00,qualified
+972,477,Repeat Client,Family portraits,2025-06-10 00:00:00,2025-06-10 02:00:00,lost
+973,109,Referral,Maternity,2025-11-13 00:00:00,2025-11-14 13:00:00,contacted
+974,569,Repeat Client,Maternity,2025-02-10 00:00:00,2025-02-12 05:00:00,lost
+975,669,Local Event,Weddings,2024-08-24 00:00:00,2024-08-24 07:00:00,qualified
+976,653,Paid Advertisement,Family portraits,2025-02-03 00:00:00,2025-02-04 17:00:00,lost
+977,1080,Google Search,Mini sessions,2025-08-22 00:00:00,2025-08-24 08:00:00,lost
+978,696,Instagram,Graduation,2024-02-03 00:00:00,2024-02-05 13:00:00,lost
+979,1129,Wedding Vendor,Family portraits,2024-01-19 00:00:00,2024-01-22 00:00:00,qualified
+980,1049,Wedding Vendor,Branding/headshots,2024-09-15 00:00:00,2024-09-16 16:00:00,qualified
+981,791,Instagram,Maternity,2024-08-10 00:00:00,2024-08-12 17:00:00,contacted
+982,505,Instagram,Family portraits,2025-11-19 00:00:00,2025-11-21 23:00:00,qualified
+983,451,Paid Advertisement,Graduation,2025-02-02 00:00:00,2025-02-03 19:00:00,new
+984,585,Repeat Client,Family portraits,2025-04-18 00:00:00,2025-04-20 18:00:00,qualified
+985,790,Paid Advertisement,Mini sessions,2025-09-01 00:00:00,2025-09-03 23:00:00,qualified
+986,1120,Referral,Maternity,2025-11-12 00:00:00,2025-11-12 15:00:00,qualified
+987,447,Google Search,Graduation,2025-11-16 00:00:00,2025-11-18 17:00:00,qualified
+988,642,Instagram,Weddings,2024-11-27 00:00:00,2024-11-29 02:00:00,qualified
+989,606,Google Search,Graduation,2025-05-18 00:00:00,2025-05-18 14:00:00,new
+990,315,Repeat Client,Graduation,2025-04-17 00:00:00,2025-04-18 15:00:00,qualified
+991,8,Google Search,Branding/headshots,2025-08-16 00:00:00,2025-08-17 10:00:00,qualified
+992,541,Instagram,Family portraits,2024-10-04 00:00:00,2024-10-06 14:00:00,qualified
+993,1058,Google Search,Family portraits,2024-12-06 00:00:00,2024-12-08 16:00:00,qualified
+994,820,Google Search,Newborn,2025-10-02 00:00:00,2025-10-03 12:00:00,new
+995,228,Facebook,Branding/headshots,2024-04-03 00:00:00,2024-04-03 16:00:00,lost
+996,940,Google Search,Branding/headshots,2025-06-11 00:00:00,2025-06-12 15:00:00,contacted
+997,75,Instagram,Graduation,2025-09-11 00:00:00,2025-09-12 22:00:00,new
+998,586,Wedding Vendor,Newborn,2024-03-16 00:00:00,2024-03-16 12:00:00,qualified
+999,18,Google Search,Weddings,2025-07-27 00:00:00,2025-07-27 22:00:00,contacted
+1000,534,Instagram,Branding/headshots,2025-04-12 00:00:00,2025-04-12 08:00:00,lost
+1001,911,Instagram,Newborn,2025-03-18 00:00:00,2025-03-19 06:00:00,lost
+1002,741,Paid Advertisement,Graduation,2024-04-13 00:00:00,2024-04-13 09:00:00,lost
+1003,334,Instagram,Newborn,2025-01-27 00:00:00,2025-01-27 21:00:00,contacted
+1004,562,Google Search,Newborn,2024-12-19 00:00:00,2024-12-21 10:00:00,qualified
+1005,78,Instagram,Family portraits,2024-09-09 00:00:00,2024-09-10 13:00:00,qualified
+1006,417,Instagram,Family portraits,2025-12-16 00:00:00,2025-12-16 12:00:00,lost
+1007,539,Referral,Weddings,2025-09-23 00:00:00,2025-09-24 04:00:00,lost
+1008,1119,Repeat Client,Weddings,2024-11-24 00:00:00,2024-11-25 06:00:00,new
+1009,1124,Paid Advertisement,Maternity,2024-02-28 00:00:00,2024-02-29 03:00:00,qualified
+1010,180,Repeat Client,Branding/headshots,2025-05-01 00:00:00,2025-05-02 17:00:00,contacted
+1011,137,Instagram,Couples,2024-07-16 00:00:00,2024-07-16 20:00:00,contacted
+1012,687,Local Event,Newborn,2025-12-15 00:00:00,2025-12-16 22:00:00,qualified
+1013,291,Instagram,Family portraits,2024-11-24 00:00:00,2024-11-25 05:00:00,qualified
+1014,863,Local Event,Branding/headshots,2025-10-08 00:00:00,2025-10-09 20:00:00,lost
+1015,48,Instagram,Family portraits,2024-01-26 00:00:00,2024-01-27 00:00:00,contacted
+1016,639,Google Search,Maternity,2025-04-14 00:00:00,2025-04-16 00:00:00,qualified
+1017,491,Wedding Vendor,Branding/headshots,2025-05-09 00:00:00,2025-05-11 05:00:00,new
+1018,909,Instagram,Weddings,2025-08-01 00:00:00,2025-08-02 11:00:00,qualified
+1019,589,Referral,Family portraits,2024-05-31 00:00:00,2024-05-31 10:00:00,lost
+1020,494,Wedding Vendor,Mini sessions,2025-12-13 00:00:00,2025-12-13 21:00:00,lost
+1021,518,Facebook,Newborn,2025-06-04 00:00:00,2025-06-04 05:00:00,qualified
+1022,337,Referral,Family portraits,2024-03-11 00:00:00,2024-03-12 00:00:00,qualified
+1023,699,Instagram,Mini sessions,2024-02-15 00:00:00,2024-02-16 09:00:00,contacted
+1024,422,Google Search,Couples,2024-01-08 00:00:00,2024-01-08 18:00:00,qualified
+1025,245,Instagram,Weddings,2024-01-01 00:00:00,2024-01-01 12:00:00,qualified
+1026,749,Repeat Client,Mini sessions,2024-01-10 00:00:00,2024-01-11 07:00:00,lost
+1027,280,Instagram,Mini sessions,2025-09-25 00:00:00,2025-09-25 17:00:00,lost
+1028,609,Referral,Mini sessions,2024-12-02 00:00:00,2024-12-05 00:00:00,new
+1029,267,Face book,Family portraits,2024-08-13 00:00:00,2024-08-14 18:00:00,qualified
+1030,495,Paid Advertisement,Maternity,2025-01-08 00:00:00,2025-01-08 15:00:00,new
+1031,679,Referral,Weddings,2024-03-19 00:00:00,2024-03-21 15:00:00,qualified
+1032,1184,Paid Advertisement,Family portraits,2025-04-12 00:00:00,2025-04-12 11:00:00,lost
+1033,518,Instagram,Branding/headshots,2025-10-31 00:00:00,2025-11-02 15:00:00,qualified
+1034,289,instgram,Graduation,2024-10-16 00:00:00,2024-10-17 14:00:00,qualified
+1035,1015,Google Search,Weddings,2025-09-23 00:00:00,2025-09-24 07:00:00,qualified
+1036,611,Paid Advertisement,Family portraits,2025-04-20 00:00:00,2025-04-22 02:00:00,lost
+1037,341,Repeat Client,Weddings,2024-07-02 00:00:00,2024-07-04 18:00:00,contacted
+1038,987,Repeat Client,Weddings,2025-03-07 00:00:00,2025-03-07 22:00:00,qualified
+1039,693,Facebook,Weddings,2024-03-12 00:00:00,2024-03-13 17:00:00,lost
+1040,464,Facebook,Mini sessions,2024-04-13 00:00:00,2024-04-15 03:00:00,qualified
+1041,176,Face book,Weddings,2024-04-21 00:00:00,2024-04-21 03:00:00,qualified
+1042,428,Facebook,Maternity,2024-04-08 00:00:00,2024-04-09 17:00:00,contacted
+1043,964,Instagram,Graduation,2024-12-25 00:00:00,2024-12-26 22:00:00,qualified
+1044,1096,Facebook,Mini sessions,2024-03-22 00:00:00,2024-03-23 13:00:00,lost
+1045,730,Local Event,Mini sessions,2025-06-19 00:00:00,2025-06-19 16:00:00,qualified
+1046,729,Google Search,Family portraits,2024-10-21 00:00:00,2024-10-21 13:00:00,qualified
+1047,148,Referral,Graduation,2024-09-08 00:00:00,2024-09-10 19:00:00,lost
+1048,450,Instagram,Graduation,2025-11-26 00:00:00,2025-11-27 12:00:00,qualified
+1049,262,Facebook,Graduation,2025-05-31 00:00:00,2025-05-31 23:00:00,qualified
+1050,199,Referral,Branding/headshots,2024-07-21 00:00:00,2024-07-21 16:00:00,qualified
+1051,991,instgram,Weddings,2025-04-23 00:00:00,2025-04-25 07:00:00,lost
+1052,190,Google Search,Weddings,2025-12-12 00:00:00,2025-12-14 03:00:00,lost
+1053,876,Google Search,Couples,2024-08-29 00:00:00,2024-08-29 15:00:00,contacted
+1054,398,Referral,Family portraits,2025-02-26 00:00:00,2025-02-28 17:00:00,lost
+1055,190,Facebook,Couples,2025-09-22 00:00:00,2025-09-23 00:00:00,qualified
+1056,463,Facebook,Branding/headshots,2024-02-04 00:00:00,2024-02-06 15:00:00,new
+1057,951,Wedding Vendor,Couples,2024-03-31 00:00:00,2024-04-01 16:00:00,qualified
+1058,511,Google Search,Couples,2024-11-05 00:00:00,2024-11-07 06:00:00,contacted
+1059,256,Facebook,Newborn,2025-10-09 00:00:00,2025-10-09 13:00:00,contacted
+1060,980,Instagram,Newborn,2024-03-10 00:00:00,2024-03-10 23:00:00,qualified
+1061,1105,Facebook,Family portraits,2024-03-03 00:00:00,2024-03-03 13:00:00,qualified
+1062,84,Paid Advertisement,Mini sessions,2024-03-04 00:00:00,2024-03-05 12:00:00,lost
+1063,344,Google Search,Branding/headshots,2025-12-16 00:00:00,2025-12-16 05:00:00,qualified
+1064,299,Referral,Weddings,2025-06-18 00:00:00,2025-06-20 12:00:00,qualified
+1065,1191,Google Search,Family portraits,2024-05-02 00:00:00,2024-05-04 09:00:00,qualified
+1066,1145,Instagram,Maternity,2024-11-18 00:00:00,2024-11-19 08:00:00,qualified
+1067,177,Instagram,Graduation,2025-09-15 00:00:00,2025-09-15 01:00:00,qualified
+1068,446,Facebook,Maternity,2025-01-16 00:00:00,2025-01-17 07:00:00,qualified
+1069,419,Google Search,Newborn,2024-09-23 00:00:00,2024-09-24 22:00:00,contacted
+1070,38,Instagram,Family portraits,2025-10-09 00:00:00,2025-10-09 06:00:00,qualified
+1071,572,Instagram,Graduation,2025-12-11 00:00:00,2025-12-13 19:00:00,qualified
+1072,227,Referral,Maternity,2024-09-17 00:00:00,2024-09-19 06:00:00,qualified
+1073,714,Instagram,Family portraits,2025-10-25 00:00:00,2025-10-26 03:00:00,qualified
+1074,166,Repeat Client,Newborn,2024-10-15 00:00:00,2024-10-17 23:00:00,contacted
+1075,968,Referral,Branding/headshots,2025-02-25 00:00:00,2025-02-26 09:00:00,lost
+1076,35,Local Event,Graduation,2024-12-19 00:00:00,2024-12-21 11:00:00,contacted
+1077,1176,Instagram,Weddings,2024-10-16 00:00:00,2024-10-18 10:00:00,qualified
+1078,841,Instagram,Branding/headshots,2025-10-05 00:00:00,2025-10-06 09:00:00,qualified
+1079,1133,Google Search,Couples,2024-09-22 00:00:00,2024-09-22 07:00:00,lost
+1080,265,Google Search,Mini sessions,2024-09-20 00:00:00,2024-09-22 15:00:00,lost
+1081,1018,Facebook,Family portraits,2024-11-22 00:00:00,2024-11-22 20:00:00,qualified
+1082,991,Instagram,Branding/headshots,2025-10-15 00:00:00,2025-10-15 21:00:00,qualified
+1083,30,Wedding Vendor,Family portraits,2024-10-16 00:00:00,2024-10-18 20:00:00,qualified
+1084,1020,Referal,Graduation,2025-01-18 00:00:00,2025-01-19 04:00:00,qualified
+1085,377,Paid Advertisement,Mini sessions,2024-04-07 00:00:00,2024-04-07 02:00:00,qualified
+1086,524,Paid Advertisement,Maternity,2024-08-12 00:00:00,2024-08-12 13:00:00,lost
+1087,278,Paid Advertisement,Maternity,2024-03-28 00:00:00,2024-03-29 04:00:00,qualified
+1088,316,Referral,Maternity,2024-04-18 00:00:00,2024-04-18 22:00:00,lost
+1089,862,Instagram,Weddings,2024-03-12 00:00:00,2024-03-13 04:00:00,contacted
+1090,117,Paid Advertisement,Family portraits,2025-12-06 00:00:00,2025-12-08 02:00:00,qualified
+1091,676,Paid Advertisement,Mini sessions,2025-03-17 00:00:00,2025-03-17 04:00:00,lost
+1092,191,Google Search,Branding/headshots,2024-11-06 00:00:00,2024-11-06 13:00:00,qualified
+1093,475,Referral,Newborn,2025-08-13 00:00:00,2025-08-15 19:00:00,lost
+1094,1025,Instagram,Couples,2024-12-02 00:00:00,2024-12-04 10:00:00,lost
+1095,755,Wedding Vendor,Mini sessions,2024-08-25 00:00:00,2024-08-27 13:00:00,qualified
+1096,582,Referral,Weddings,2025-07-30 00:00:00,2025-08-01 04:00:00,qualified
+1097,949,Facebook,Family portraits,2024-01-11 00:00:00,2024-01-12 04:00:00,qualified
+1098,720,Google Search,Mini sessions,2025-11-15 00:00:00,2025-11-17 18:00:00,qualified
+1099,526,Repeat Client,Mini sessions,2024-09-06 00:00:00,2024-09-07 00:00:00,qualified
+1100,1044,Referral,Newborn,2024-08-31 00:00:00,2024-09-02 10:00:00,qualified
+1101,1178,Instagram,Weddings,2025-04-04 00:00:00,2025-04-05 21:00:00,qualified
+1102,226,Google Search,Branding/headshots,2025-11-30 00:00:00,2025-12-02 03:00:00,lost
+1103,1000,Paid Advertisement,Family portraits,2025-10-10 00:00:00,2025-10-12 07:00:00,qualified
+1104,838,Local Event,Family portraits,2024-11-18 00:00:00,2024-11-20 14:00:00,qualified
+1105,923,Wedding Vendor,Family portraits,2024-01-21 00:00:00,2024-01-23 08:00:00,lost
+1106,794,Google Search,Couples,2025-06-21 00:00:00,2025-06-21 21:00:00,lost
+1107,878,Instagram,Branding/headshots,2025-09-10 00:00:00,2025-09-11 19:00:00,qualified
+1108,929,Google Search,Mini sessions,2024-03-23 00:00:00,2024-03-25 12:00:00,qualified
+1109,641,Local Event,Maternity,2024-09-20 00:00:00,2024-09-22 04:00:00,lost
+1110,474,Instagram,Mini sessions,2025-03-11 00:00:00,2025-03-11 08:00:00,qualified
+1111,314,Local Event,Newborn,2025-05-12 00:00:00,2025-05-14 07:00:00,lost
+1112,955,Facebook,Weddings,2024-03-24 00:00:00,2024-03-25 00:00:00,lost
+1113,105,Instagram,Graduation,2024-04-07 00:00:00,2024-04-07 17:00:00,contacted
+1114,238,Wedding Vendor,Branding/headshots,2025-09-23 00:00:00,2025-09-23 16:00:00,qualified
+1115,699,Referral,Couples,2025-04-02 00:00:00,2025-04-02 01:00:00,qualified
+1116,101,Wedding Vendor,Branding/headshots,2025-06-01 00:00:00,2025-06-03 02:00:00,qualified
+1117,230,Facebook,Family portraits,2025-09-01 00:00:00,2025-09-03 03:00:00,lost
+1118,227,instgram,Couples,2025-12-12 00:00:00,2025-12-12 09:00:00,qualified
+1119,808,Facebook,Maternity,2025-07-22 00:00:00,2025-07-24 03:00:00,lost
+1120,846,Repeat Client,Weddings,2024-09-28 00:00:00,2024-09-30 22:00:00,contacted
+1121,362,Google Search,Mini sessions,2024-06-08 00:00:00,2024-06-08 07:00:00,lost
+1122,38,Face book,Mini sessions,2024-09-13 00:00:00,2024-09-13 10:00:00,contacted
+1123,328,Local Event,Mini sessions,2024-10-05 00:00:00,2024-10-05 22:00:00,lost
+1124,261,Instagram,Branding/headshots,2025-04-18 00:00:00,2025-04-20 07:00:00,contacted
+1125,942,Referral,Family portraits,2024-05-27 00:00:00,2024-05-28 04:00:00,new
+1126,813,instgram,Weddings,2025-03-11 00:00:00,2025-03-13 06:00:00,contacted
+1127,17,Instagram,Mini sessions,2025-12-25 00:00:00,2025-12-25 21:00:00,qualified
+1128,1024,Google Search,Family portraits,2025-10-09 00:00:00,2025-10-09 10:00:00,qualified
+1129,1079,Google Search,Family portraits,2024-04-03 00:00:00,2024-04-05 02:00:00,lost
+1130,612,Facebook,Branding/headshots,2025-07-16 00:00:00,2025-07-18 00:00:00,qualified
+1131,147,Google Search,Weddings,2024-10-18 00:00:00,2024-10-20 05:00:00,qualified
+1132,417,Instagram,Graduation,2024-10-26 00:00:00,2024-10-26 05:00:00,qualified
+1133,269,Instagram,Newborn,2025-01-20 00:00:00,2025-01-22 05:00:00,qualified
+1134,1148,Wedding Vendor,Weddings,2025-09-14 00:00:00,2025-09-16 00:00:00,qualified
+1135,437,Repeat Client,Maternity,2025-12-06 00:00:00,2025-12-07 17:00:00,lost
+1136,332,Instagram,Weddings,2025-09-08 00:00:00,2025-09-09 13:00:00,lost
+1137,144,Wedding Vendor,Family portraits,2025-05-02 00:00:00,2025-05-03 21:00:00,qualified
+1138,790,Google Search,Graduation,2024-08-19 00:00:00,2024-08-21 21:00:00,contacted
+1139,843,Facebook,Mini sessions,2024-11-06 00:00:00,2024-11-07 01:00:00,qualified
+1140,379,Referral,Maternity,2024-09-01 00:00:00,2024-09-01 01:00:00,lost
+1141,35,Wedding Vendor,Mini sessions,2024-10-26 00:00:00,2024-10-26 12:00:00,qualified
+1142,806,Paid Advertisement,Weddings,2024-11-13 00:00:00,2024-11-14 05:00:00,qualified
+1143,95,Facebook,Mini sessions,2024-03-05 00:00:00,2024-03-06 08:00:00,lost
+1144,858,Google Search,Graduation,2024-11-08 00:00:00,2024-11-09 23:00:00,qualified
+1145,732,Wedding Vendor,Mini sessions,2025-10-30 00:00:00,2025-10-30 06:00:00,qualified
+1146,726,Instagram,Newborn,2025-06-29 00:00:00,2025-06-29 08:00:00,new
+1147,1166,Google Search,Maternity,2024-12-17 00:00:00,2024-12-19 08:00:00,qualified
+1148,972,Local Event,Branding/headshots,2024-10-26 00:00:00,2024-10-27 16:00:00,qualified
+1149,158,Referral,Mini sessions,2025-03-14 00:00:00,2025-03-15 21:00:00,contacted
+1150,431,Referral,Newborn,2025-04-17 00:00:00,2025-04-18 18:00:00,qualified
+1151,580,google,Family portraits,2024-10-16 00:00:00,2024-10-17 11:00:00,qualified
+1152,18,Instagram,Maternity,2025-06-04 00:00:00,2025-06-05 12:00:00,qualified
+1153,431,Referral,Family portraits,2024-11-19 00:00:00,2024-11-21 20:00:00,qualified
+1154,982,Paid Advertisement,Weddings,2025-10-01 00:00:00,2025-10-01 19:00:00,contacted
+1155,167,Google Search,Newborn,2025-04-11 00:00:00,2025-04-13 06:00:00,qualified
+1156,208,Paid Advertisement,Couples,2025-05-28 00:00:00,2025-05-28 19:00:00,qualified
+1157,676,Referral,Newborn,2025-08-18 00:00:00,2025-08-18 13:00:00,new
+1158,1066,Google Search,Mini sessions,2024-08-27 00:00:00,2024-08-29 14:00:00,qualified
+1159,700,Google Search,Graduation,2025-11-06 00:00:00,2025-11-08 21:00:00,qualified
+1160,458,Referral,Mini sessions,2024-02-28 00:00:00,2024-02-29 19:00:00,qualified
+1161,1190,Instagram,Mini sessions,2025-11-29 00:00:00,2025-12-01 15:00:00,new
+1162,672,Google Search,Maternity,2024-08-05 00:00:00,2024-08-05 16:00:00,lost
+1163,192,Instagram,Newborn,2024-05-14 00:00:00,2024-05-14 18:00:00,contacted
+1164,530,Instagram,Family portraits,2024-10-22 00:00:00,2024-10-22 19:00:00,new
+1165,1135,Instagram,Branding/headshots,2025-06-27 00:00:00,2025-06-28 02:00:00,lost
+1166,409,Referral,Mini sessions,2024-12-15 00:00:00,2024-12-15 03:00:00,qualified
+1167,93,Paid Advertisement,Weddings,2025-09-29 00:00:00,2025-09-29 03:00:00,contacted
+1168,398,Facebook,Family portraits,2024-11-01 00:00:00,2024-11-01 19:00:00,qualified
+1169,318,Repeat Client,Newborn,2025-11-28 00:00:00,2025-11-29 23:00:00,qualified
+1170,962,Instagram,Weddings,2024-11-28 00:00:00,2024-11-28 02:00:00,qualified
+1171,638,Referral,Maternity,2025-11-27 00:00:00,2025-11-27 18:00:00,lost
+1172,573,Repeat Client,Branding/headshots,2025-02-17 00:00:00,2025-02-19 16:00:00,lost
+1173,872,Facebook,Weddings,2024-12-20 00:00:00,2024-12-22 06:00:00,qualified
+1174,609,Instagram,Mini sessions,2024-01-10 00:00:00,2024-01-11 21:00:00,qualified
+1175,580,Instagram,Branding/headshots,2024-12-18 00:00:00,2024-12-19 15:00:00,lost
+1176,672,Instagram,Family portraits,2024-04-01 00:00:00,2024-04-01 06:00:00,lost
+1177,901,Instagram,Branding/headshots,2024-04-22 00:00:00,2024-04-22 15:00:00,lost
+1178,816,Facebook,Family portraits,2025-03-28 00:00:00,2025-03-29 21:00:00,qualified
+1179,386,Facebook,Graduation,2025-11-06 00:00:00,2025-11-06 11:00:00,contacted
+1180,279,Instagram,Family portraits,2025-05-08 00:00:00,2025-05-10 05:00:00,qualified
+1181,250,Google Search,Family portraits,2024-09-08 00:00:00,2024-09-11 00:00:00,qualified
+1182,33,Google Search,Mini sessions,2024-11-18 00:00:00,2024-11-20 08:00:00,qualified
+1183,906,Facebook,Newborn,2025-06-08 00:00:00,2025-06-08 04:00:00,qualified
+1184,638,Instagram,Branding/headshots,2025-05-06 00:00:00,2025-05-07 16:00:00,qualified
+1185,169,Referral,Couples,2024-05-23 00:00:00,2024-05-25 08:00:00,qualified
+1186,547,Facebook,Weddings,2025-02-05 00:00:00,2025-02-07 05:00:00,lost
+1187,447,Repeat Client,Newborn,2025-12-28 00:00:00,2025-12-29 20:00:00,qualified
+1188,548,Referral,Maternity,2025-03-06 00:00:00,2025-03-06 02:00:00,lost
+1189,1124,Instagram,Graduation,2025-04-15 00:00:00,2025-04-15 13:00:00,qualified
+1190,1139,Google Search,Mini sessions,2025-04-20 00:00:00,2025-04-20 05:00:00,qualified
+1191,285,Facebook,Weddings,2024-12-10 00:00:00,2024-12-12 07:00:00,qualified
+1192,296,Google Search,Weddings,2024-09-29 00:00:00,2024-09-30 19:00:00,new
+1193,535,Google Search,Graduation,2024-10-26 00:00:00,2024-10-27 17:00:00,contacted
+1194,1131,Paid Advertisement,Newborn,2025-06-04 00:00:00,2025-06-05 22:00:00,qualified
+1195,1042,Instagram,Maternity,2024-06-16 00:00:00,2024-06-18 11:00:00,qualified
+1196,55,Google Search,Mini sessions,2025-06-02 00:00:00,2025-06-04 23:00:00,qualified
+1197,977,Repeat Client,Branding/headshots,2024-11-30 00:00:00,2024-12-02 09:00:00,lost
+1198,4,Repeat Client,Newborn,2024-07-03 00:00:00,2024-07-03 23:00:00,lost
+1199,969,Paid Advertisement,Branding/headshots,2024-09-01 00:00:00,2024-09-03 19:00:00,lost
+1200,357,Instagram,Mini sessions,2025-01-18 00:00:00,2025-01-18 10:00:00,lost
+1201,1108,Local Event,Maternity,2024-03-07 00:00:00,2024-03-08 22:00:00,lost
+1202,917,Google Search,Couples,2025-07-07 00:00:00,2025-07-07 12:00:00,lost
+1203,146,Paid Advertisement,Branding/headshots,2025-08-28 00:00:00,2025-08-28 12:00:00,lost
+1204,729,Facebook,Weddings,2024-04-29 00:00:00,2024-04-30 10:00:00,lost
+1205,382,Google Search,Branding/headshots,2025-05-09 00:00:00,2025-05-09 23:00:00,lost
+1206,218,Referral,Branding/headshots,2025-10-16 00:00:00,2025-10-16 10:00:00,qualified
+1207,822,Repeat Client,Mini sessions,2024-10-23 00:00:00,2024-10-24 11:00:00,lost
+1208,172,Instagram,Newborn,2025-08-15 00:00:00,2025-08-17 16:00:00,lost
+1209,1023,Instagram,Mini sessions,2024-11-14 00:00:00,2024-11-15 21:00:00,lost
+1210,996,Referral,Couples,2024-06-23 00:00:00,2024-06-23 08:00:00,new
+1211,217,Google Search,Family portraits,2025-08-31 00:00:00,2025-09-03 00:00:00,lost
+1212,721,Repeat Client,Graduation,2025-12-08 00:00:00,2025-12-10 17:00:00,contacted
+1213,714,Google Search,Maternity,2025-07-11 00:00:00,2025-07-11 17:00:00,lost
+1214,900,Instagram,Mini sessions,2024-08-22 00:00:00,2024-08-24 07:00:00,qualified
+1215,164,Referal,Family portraits,2025-11-01 00:00:00,2025-11-02 17:00:00,qualified
+1216,490,Facebook,Weddings,2025-10-04 00:00:00,2025-10-04 11:00:00,qualified
+1217,961,Google Search,Maternity,2025-03-08 00:00:00,2025-03-10 00:00:00,contacted
+1218,807,Referral,Maternity,2024-08-27 00:00:00,2024-08-28 23:00:00,qualified
+1219,67,Google Search,Family portraits,2025-12-07 00:00:00,2025-12-08 21:00:00,qualified
+1220,82,Wedding Vendor,Newborn,2025-08-26 00:00:00,2025-08-26 01:00:00,lost
+1221,37,Wedding Vendor,Graduation,2025-10-25 00:00:00,2025-10-25 08:00:00,new
+1222,864,Google Search,Family portraits,2024-11-14 00:00:00,2024-11-14 19:00:00,lost
+1223,859,Facebook,Newborn,2024-06-22 00:00:00,2024-06-22 11:00:00,qualified
+1224,577,Referral,Family portraits,2024-12-01 00:00:00,2024-12-03 10:00:00,qualified
+1225,401,Facebook,Mini sessions,2024-04-12 00:00:00,2024-04-12 07:00:00,qualified
+1226,421,Referral,Family portraits,2024-03-17 00:00:00,2024-03-17 04:00:00,lost
+1227,422,Facebook,Weddings,2025-06-26 00:00:00,2025-06-26 08:00:00,qualified
+1228,181,Wedding Vendor,Maternity,2024-02-14 00:00:00,2024-02-14 01:00:00,lost
+1229,362,Instagram,Family portraits,2025-03-24 00:00:00,2025-03-24 11:00:00,lost
+1230,649,Instagram,Mini sessions,2025-05-22 00:00:00,2025-05-22 01:00:00,lost
+1231,820,Referral,Graduation,2025-05-11 00:00:00,2025-05-13 00:00:00,lost
+1232,108,Facebook,Newborn,2024-09-16 00:00:00,2024-09-17 15:00:00,qualified
+1233,5,Repeat Client,Family portraits,2024-08-11 00:00:00,2024-08-13 11:00:00,new
+1234,403,Local Event,Couples,2025-06-15 00:00:00,2025-06-16 11:00:00,new
+1235,619,Instagram,Branding/headshots,2025-12-22 00:00:00,2025-12-23 08:00:00,lost
+1236,752,Referral,Graduation,2024-09-10 00:00:00,2024-09-12 11:00:00,qualified
+1237,742,Instagram,Mini sessions,2024-12-06 00:00:00,2024-12-07 20:00:00,qualified
+1238,1191,Repeat Client,Graduation,2024-06-28 00:00:00,2024-06-29 18:00:00,lost
+1239,700,Google Search,Couples,2025-06-09 00:00:00,2025-06-11 23:00:00,qualified
+1240,537,Instagram,Branding/headshots,2024-12-23 00:00:00,2024-12-24 14:00:00,lost
+1241,1066,Referral,Family portraits,2024-04-28 00:00:00,2024-04-30 02:00:00,lost
+1242,932,Paid Advertisement,Branding/headshots,2024-09-05 00:00:00,2024-09-07 20:00:00,qualified
+1243,877,Paid Advertisement,Branding/headshots,2024-12-23 00:00:00,2024-12-23 16:00:00,lost
+1244,184,Paid Advertisement,Graduation,2024-10-12 00:00:00,2024-10-12 09:00:00,lost
+1245,88,Wedding Vendor,Branding/headshots,2025-07-24 00:00:00,2025-07-24 08:00:00,lost
+1246,582,Wedding Vendor,Couples,2024-07-22 00:00:00,2024-07-22 23:00:00,qualified
+1247,758,Paid Advertisement,Mini sessions,2025-10-30 00:00:00,2025-10-30 06:00:00,qualified
+1248,933,Google Search,Graduation,2025-04-06 00:00:00,2025-04-08 17:00:00,contacted
+1249,702,Google Search,Family portraits,2024-09-29 00:00:00,2024-09-30 00:00:00,qualified
+1250,260,Facebook,Branding/headshots,2025-07-31 00:00:00,2025-08-02 06:00:00,lost
+1251,1132,Paid Advertisement,Newborn,2025-06-14 00:00:00,2025-06-16 05:00:00,lost
+1252,930,Instagram,Mini sessions,2024-12-06 00:00:00,2024-12-08 16:00:00,lost
+1253,923,Facebook,Mini sessions,2025-01-31 00:00:00,2025-02-02 09:00:00,contacted
+1254,786,Repeat Client,Mini sessions,2025-11-05 00:00:00,2025-11-06 06:00:00,qualified
+1255,47,Paid Advertisement,Newborn,2024-06-29 00:00:00,2024-07-01 20:00:00,new
+1256,1110,instgram,Mini sessions,2024-02-19 00:00:00,2024-02-21 20:00:00,lost
+1257,945,Local Event,Mini sessions,2025-03-16 00:00:00,2025-03-16 16:00:00,lost
+1258,188,Google Search,Family portraits,2025-04-04 00:00:00,2025-04-06 05:00:00,qualified
+1259,702,Referral,Maternity,2025-04-10 00:00:00,2025-04-10 19:00:00,qualified
+1260,1130,Instagram,Family portraits,2024-11-04 00:00:00,2024-11-06 06:00:00,qualified
+1261,844,Facebook,Weddings,2025-12-04 00:00:00,2025-12-04 13:00:00,qualified
+1262,290,Google Search,Branding/headshots,2025-04-10 00:00:00,2025-04-10 01:00:00,contacted
+1263,359,Google Search,Graduation,2025-05-10 00:00:00,2025-05-12 03:00:00,contacted
+1264,766,Instagram,Family portraits,2025-03-19 00:00:00,2025-03-20 17:00:00,qualified
+1265,434,Instagram,Graduation,2025-04-16 00:00:00,2025-04-16 04:00:00,contacted
+1266,225,Wedding Vendor,Newborn,2025-03-05 00:00:00,2025-03-05 22:00:00,qualified
+1267,799,Google Search,Newborn,2024-08-04 00:00:00,2024-08-06 01:00:00,lost
+1268,181,Referral,Family portraits,2025-09-24 00:00:00,2025-09-26 10:00:00,qualified
+1269,1078,Google Search,Mini sessions,2024-08-22 00:00:00,2024-08-22 12:00:00,lost
+1270,1030,Wedding Vendor,Graduation,2025-09-23 00:00:00,2025-09-23 06:00:00,lost
+1271,104,Instagram,Family portraits,2025-11-09 00:00:00,2025-11-10 06:00:00,lost
+1272,103,Referral,Graduation,2024-04-10 00:00:00,2024-04-10 03:00:00,lost
+1273,777,Paid Advertisement,Branding/headshots,2025-09-28 00:00:00,2025-09-30 03:00:00,qualified
+1274,346,Facebook,Mini sessions,2025-10-15 00:00:00,2025-10-16 10:00:00,lost
+1275,955,Paid Advertisement,Graduation,2024-09-30 00:00:00,2024-10-01 16:00:00,lost
+1276,305,Local Event,Family portraits,2025-04-27 00:00:00,2025-04-27 04:00:00,contacted
+1277,869,Wedding Vendor,Family portraits,2025-11-14 00:00:00,2025-11-14 20:00:00,qualified
+1278,403,Instagram,Mini sessions,2024-04-11 00:00:00,2024-04-12 23:00:00,new
+1279,1124,Wedding Vendor,Maternity,2024-03-01 00:00:00,2024-03-01 06:00:00,qualified
+1280,1114,Paid Advertisement,Mini sessions,2025-11-30 00:00:00,2025-12-01 02:00:00,lost
+1281,113,Facebook,Mini sessions,2025-04-11 00:00:00,2025-04-13 05:00:00,contacted
+1282,923,Instagram,Newborn,2024-03-24 00:00:00,2024-03-24 02:00:00,new
+1283,1054,Facebook,Mini sessions,2025-10-19 00:00:00,2025-10-20 04:00:00,qualified
+1284,1114,Facebook,Graduation,2024-08-19 00:00:00,2024-08-20 18:00:00,new
+1285,417,Referral,Family portraits,2025-12-08 00:00:00,2025-12-08 23:00:00,lost
+1286,99,Google Search,Branding/headshots,2025-05-21 00:00:00,2025-05-23 23:00:00,lost
+1287,1094,Instagram,Maternity,2024-12-01 00:00:00,2024-12-01 17:00:00,qualified
+1288,364,Wedding Vendor,Maternity,2024-06-20 00:00:00,2024-06-23 00:00:00,contacted
+1289,356,Facebook,Family portraits,2024-10-27 00:00:00,2024-10-27 08:00:00,qualified
+1290,283,Instagram,Branding/headshots,2025-04-06 00:00:00,2025-04-07 20:00:00,qualified
+1291,444,Instagram,Weddings,2024-06-25 00:00:00,2024-06-27 14:00:00,lost
+1292,1026,Google Search,Maternity,2025-07-01 00:00:00,2025-07-01 15:00:00,lost
+1293,1016,Referral,Mini sessions,2025-01-04 00:00:00,2025-01-04 17:00:00,contacted
+1294,491,Instagram,Mini sessions,2025-12-02 00:00:00,2025-12-02 11:00:00,qualified
+1295,334,Google Search,Family portraits,2025-11-22 00:00:00,2025-11-24 08:00:00,lost
+1296,930,Instagram,Maternity,2024-04-01 00:00:00,2024-04-03 00:00:00,lost
+1297,713,Instagram,Branding/headshots,2024-05-09 00:00:00,2024-05-10 06:00:00,lost
+1298,137,Referral,Couples,2024-09-04 00:00:00,2024-09-06 18:00:00,new
+1299,1003,Google Search,Family portraits,2024-12-08 00:00:00,2024-12-08 03:00:00,lost
+1300,117,Repeat Client,Maternity,2025-11-17 00:00:00,2025-11-20 00:00:00,lost
+1301,330,Google Search,Weddings,2024-11-03 00:00:00,2024-11-05 07:00:00,qualified
+1302,1177,Repeat Client,Family portraits,2024-10-16 00:00:00,2024-10-17 10:00:00,lost
+1303,1085,Local Event,Couples,2025-09-28 00:00:00,2025-09-30 06:00:00,lost
+1304,803,instgram,Graduation,2024-11-04 00:00:00,2024-11-06 09:00:00,qualified
+1305,940,Repeat Client,Mini sessions,2024-08-30 00:00:00,2024-09-01 09:00:00,qualified
+1306,662,Facebook,Mini sessions,2025-10-02 00:00:00,2025-10-03 21:00:00,qualified
+1307,340,Repeat Client,Mini sessions,2025-02-28 00:00:00,2025-02-28 05:00:00,contacted
+1308,505,Instagram,Graduation,2024-07-11 00:00:00,2024-07-13 08:00:00,qualified
+1309,1143,Wedding Vendor,Maternity,2025-05-19 00:00:00,2025-05-21 02:00:00,contacted
+1310,745,Referral,Family portraits,2024-10-10 00:00:00,2024-10-11 21:00:00,qualified
+1311,1118,Google Search,Family portraits,2025-11-26 00:00:00,2025-11-26 15:00:00,qualified
+1312,73,Instagram,Newborn,2025-08-29 00:00:00,2025-08-29 02:00:00,qualified
+1313,218,Repeat Client,Graduation,2024-06-23 00:00:00,2024-06-24 17:00:00,lost
+1314,910,Google Search,Mini sessions,2025-08-01 00:00:00,2025-08-01 08:00:00,lost
+1315,929,Instagram,Branding/headshots,2025-10-29 00:00:00,2025-10-31 01:00:00,qualified
+1316,521,Google Search,Couples,2025-02-16 00:00:00,2025-02-16 15:00:00,lost
+1317,37,Paid Advertisement,Graduation,2025-04-03 00:00:00,2025-04-06 00:00:00,lost
+1318,429,Paid Advertisement,Graduation,2024-04-14 00:00:00,2024-04-16 05:00:00,new
+1319,207,Paid Advertisement,Weddings,2025-06-26 00:00:00,2025-06-27 13:00:00,qualified
+1320,411,Referral,Couples,2025-07-08 00:00:00,2025-07-09 16:00:00,qualified
+1321,154,Google Search,Couples,2025-01-20 00:00:00,2025-01-21 02:00:00,qualified
+1322,693,Google Search,Family portraits,2025-08-10 00:00:00,2025-08-12 08:00:00,contacted
+1323,749,Google Search,Family portraits,2024-03-17 00:00:00,2024-03-18 21:00:00,qualified
+1324,407,Google Search,Branding/headshots,2024-04-10 00:00:00,2024-04-12 15:00:00,qualified
+1325,877,Instagram,Couples,2024-09-10 00:00:00,2024-09-10 04:00:00,new
+1326,241,Wedding Vendor,Branding/headshots,2025-06-01 00:00:00,2025-06-02 15:00:00,lost
+1327,359,Instagram,Mini sessions,2024-10-29 00:00:00,2024-10-29 23:00:00,qualified
+1328,374,Instagram,Weddings,2025-09-14 00:00:00,2025-09-15 19:00:00,qualified
+1329,519,Instagram,Mini sessions,2025-11-04 00:00:00,2025-11-05 21:00:00,lost
+1330,1177,Paid Advertisement,Graduation,2024-05-14 00:00:00,2024-05-16 15:00:00,qualified
+1331,390,Google Search,Mini sessions,2024-03-04 00:00:00,2024-03-05 14:00:00,new
+1332,242,Facebook,Family portraits,2025-09-18 00:00:00,2025-09-18 09:00:00,qualified
+1333,577,Instagram,Family portraits,2025-03-06 00:00:00,2025-03-06 08:00:00,qualified
+1334,325,Instagram,Weddings,2024-10-08 00:00:00,2024-10-10 14:00:00,qualified
+1335,1056,Google Search,Mini sessions,2025-05-27 00:00:00,2025-05-27 16:00:00,qualified
+1336,1154,Google Search,Family portraits,2025-11-18 00:00:00,2025-11-19 03:00:00,contacted
+1337,574,Instagram,Branding/headshots,2024-04-25 00:00:00,2024-04-27 18:00:00,lost
+1338,586,Facebook,Family portraits,2024-06-02 00:00:00,2024-06-05 00:00:00,qualified
+1339,1050,Instagram,Branding/headshots,2025-08-19 00:00:00,2025-08-21 05:00:00,qualified
+1340,186,Google Search,Mini sessions,2025-10-04 00:00:00,2025-10-04 14:00:00,contacted
+1341,418,Google Search,Maternity,2025-11-14 00:00:00,2025-11-15 21:00:00,qualified
+1342,933,Wedding Vendor,Branding/headshots,2025-03-30 00:00:00,2025-04-01 21:00:00,lost
+1343,597,Repeat Client,Mini sessions,2025-12-28 00:00:00,2025-12-30 15:00:00,lost
+1344,311,Instagram,Graduation,2024-05-05 00:00:00,2024-05-07 21:00:00,lost
+1345,1073,Instagram,Mini sessions,2025-10-13 00:00:00,2025-10-13 22:00:00,lost
+1346,794,Instagram,Graduation,2025-10-30 00:00:00,2025-10-31 18:00:00,contacted
+1347,429,Wedding Vendor,Mini sessions,2024-11-16 00:00:00,2024-11-17 00:00:00,qualified
+1348,634,Referral,Weddings,2025-03-05 00:00:00,2025-03-05 16:00:00,lost
+1349,537,Instagram,Weddings,2024-02-05 00:00:00,2024-02-07 11:00:00,qualified
+1350,327,Google Search,Family portraits,2025-07-08 00:00:00,2025-07-08 01:00:00,qualified
+1351,910,Referral,Graduation,2025-08-01 00:00:00,2025-08-01 02:00:00,lost
+1352,642,Repeat Client,Family portraits,2024-05-17 00:00:00,2024-05-17 07:00:00,lost
+1353,813,Referral,Mini sessions,2024-09-07 00:00:00,2024-09-09 04:00:00,contacted
+1354,893,Referral,Branding/headshots,2024-07-01 00:00:00,2024-07-02 02:00:00,lost
+1355,875,Wedding Vendor,Family portraits,2025-09-04 00:00:00,2025-09-06 16:00:00,qualified
+1356,457,Instagram,Mini sessions,2024-07-16 00:00:00,2024-07-16 07:00:00,lost
+1357,15,Facebook,Weddings,2024-05-03 00:00:00,2024-05-03 19:00:00,qualified
+1358,207,Repeat Client,Weddings,2025-12-09 00:00:00,2025-12-10 04:00:00,qualified
+1359,581,Facebook,Graduation,2025-05-05 00:00:00,2025-05-05 08:00:00,qualified
+1360,1185,Facebook,Branding/headshots,2024-04-23 00:00:00,2024-04-24 14:00:00,new
+1361,172,Instagram,Mini sessions,2025-05-26 00:00:00,2025-05-27 12:00:00,lost
+1362,1075,Instagram,Maternity,2024-05-14 00:00:00,2024-05-15 20:00:00,qualified
+1363,1152,Facebook,Family portraits,2025-09-13 00:00:00,2025-09-13 07:00:00,contacted
+1364,1135,Instagram,Weddings,2025-03-11 00:00:00,2025-03-11 19:00:00,qualified
+1365,1070,Local Event,Family portraits,2024-02-28 00:00:00,2024-02-29 21:00:00,qualified
+1366,308,Facebook,Mini sessions,2025-02-23 00:00:00,2025-02-23 05:00:00,qualified
+1367,1070,Google Search,Mini sessions,2025-09-06 00:00:00,2025-09-06 14:00:00,lost
+1368,483,Facebook,Mini sessions,2025-11-06 00:00:00,2025-11-07 17:00:00,qualified
+1369,482,Instagram,Branding/headshots,2025-03-11 00:00:00,2025-03-13 09:00:00,qualified
+1370,224,Paid Advertisement,Maternity,2024-06-10 00:00:00,2024-06-12 22:00:00,qualified
+1371,452,Instagram,Mini sessions,2024-06-12 00:00:00,2024-06-14 08:00:00,lost
+1372,735,Wedding Vendor,Graduation,2025-10-27 00:00:00,2025-10-27 08:00:00,lost
+1373,818,Referral,Branding/headshots,2024-08-02 00:00:00,2024-08-04 03:00:00,contacted
+1374,480,Google Search,Couples,2024-03-01 00:00:00,2024-03-03 01:00:00,qualified
+1375,596,Wedding Vendor,Weddings,2025-05-06 00:00:00,2025-05-07 13:00:00,qualified
+1376,686,Instagram,Mini sessions,2024-06-28 00:00:00,2024-06-28 04:00:00,qualified
+1377,740,Paid Advertisement,Couples,2025-10-03 00:00:00,2025-10-05 00:00:00,qualified
+1378,228,Google Search,Mini sessions,2024-06-11 00:00:00,2024-06-12 13:00:00,qualified
+1379,570,Facebook,Mini sessions,2025-08-11 00:00:00,2025-08-12 00:00:00,lost
+1380,306,Facebook,Family portraits,2025-04-02 00:00:00,2025-04-04 15:00:00,qualified
+1381,928,Instagram,Branding/headshots,2025-09-30 00:00:00,2025-10-01 20:00:00,qualified
+1382,1176,Repeat Client,Maternity,2024-03-10 00:00:00,2024-03-10 06:00:00,lost
+1383,590,google,Weddings,2024-09-12 00:00:00,2024-09-13 21:00:00,contacted
+1384,423,Wedding Vendor,Weddings,2024-03-12 00:00:00,2024-03-12 19:00:00,contacted
+1385,1046,Instagram,Couples,2025-09-28 00:00:00,2025-09-29 13:00:00,lost
+1386,149,google,Family portraits,2025-09-21 00:00:00,2025-09-21 04:00:00,qualified
+1387,639,Google Search,Weddings,2024-09-05 00:00:00,2024-09-05 05:00:00,qualified
+1388,1048,instgram,Maternity,2024-05-23 00:00:00,2024-05-24 11:00:00,lost
+1389,1140,Local Event,Couples,2024-12-12 00:00:00,2024-12-14 06:00:00,qualified
+1390,799,Instagram,Maternity,2025-10-08 00:00:00,2025-10-09 14:00:00,lost
+1391,504,Instagram,Mini sessions,2024-10-29 00:00:00,2024-10-30 03:00:00,qualified
+1392,24,Google Search,Graduation,2025-10-21 00:00:00,2025-10-21 20:00:00,qualified
+1393,1076,Repeat Client,Weddings,2024-04-22 00:00:00,2024-04-24 15:00:00,qualified
+1394,93,Local Event,Weddings,2025-09-08 00:00:00,2025-09-08 22:00:00,lost
+1395,546,Instagram,Weddings,2025-09-18 00:00:00,2025-09-18 05:00:00,qualified
+1396,813,Instagram,Newborn,2025-11-11 00:00:00,2025-11-13 23:00:00,qualified
+1397,361,Referral,Maternity,2024-02-04 00:00:00,2024-02-04 17:00:00,lost
+1398,131,Face book,Weddings,2024-05-27 00:00:00,2024-05-29 21:00:00,new
+1399,998,Facebook,Branding/headshots,2024-03-26 00:00:00,2024-03-28 23:00:00,new
+1400,958,Instagram,Newborn,2024-11-20 00:00:00,2024-11-20 06:00:00,qualified
+1401,403,Instagram,Family portraits,2025-06-03 00:00:00,2025-06-04 04:00:00,lost
+1402,139,Facebook,Newborn,2024-08-17 00:00:00,2024-08-19 11:00:00,qualified
+1403,1049,Repeat Client,Graduation,2024-07-11 00:00:00,2024-07-12 18:00:00,lost
+1404,1162,Instagram,Maternity,2024-09-13 00:00:00,2024-09-15 07:00:00,contacted
+1405,404,Instagram,Branding/headshots,2025-05-21 00:00:00,2025-05-21 11:00:00,qualified
+1406,710,instgram,Mini sessions,2024-09-09 00:00:00,2024-09-11 05:00:00,lost
+1407,951,Google Search,Family portraits,2024-10-30 00:00:00,2024-11-01 11:00:00,qualified
+1408,349,Wedding Vendor,Newborn,2025-11-19 00:00:00,2025-11-20 10:00:00,qualified
+1409,611,Wedding Vendor,Newborn,2025-02-12 00:00:00,2025-02-13 16:00:00,contacted
+1410,922,Google Search,Maternity,2024-05-27 00:00:00,2024-05-27 05:00:00,new
+1411,528,Instagram,Branding/headshots,2024-12-22 00:00:00,2024-12-23 18:00:00,qualified
+1412,574,Facebook,Branding/headshots,2024-05-10 00:00:00,2024-05-11 00:00:00,qualified
+1413,657,Facebook,Family portraits,2024-10-10 00:00:00,2024-10-10 04:00:00,lost
+1414,407,Referral,Branding/headshots,2024-05-25 00:00:00,2024-05-27 06:00:00,qualified
+1415,1198,Referral,Branding/headshots,2024-04-25 00:00:00,2024-04-27 20:00:00,lost
+1416,857,Instagram,Family portraits,2024-01-28 00:00:00,2024-01-30 17:00:00,lost
+1417,724,Paid Advertisement,Newborn,2025-10-07 00:00:00,2025-10-07 05:00:00,qualified
+1418,621,Facebook,Weddings,2024-11-30 00:00:00,2024-12-02 14:00:00,lost
+1419,94,Referral,Weddings,2025-07-28 00:00:00,2025-07-28 08:00:00,qualified
+1420,759,Local Event,Weddings,2024-06-23 00:00:00,2024-06-24 16:00:00,lost
+1421,127,Referral,Branding/headshots,2024-12-30 00:00:00,2025-01-01 23:00:00,lost
+1422,1109,Referral,Newborn,2024-07-19 00:00:00,2024-07-19 23:00:00,lost
+1423,848,Repeat Client,Family portraits,2024-06-28 00:00:00,2024-06-28 12:00:00,qualified
+1424,1120,Facebook,Weddings,2025-05-16 00:00:00,2025-05-16 15:00:00,new
+1425,297,Paid Advertisement,Graduation,2024-03-31 00:00:00,2024-04-02 09:00:00,qualified
+1426,649,Wedding Vendor,Graduation,2025-07-17 00:00:00,2025-07-19 19:00:00,new
+1427,1056,Facebook,Branding/headshots,2025-09-07 00:00:00,2025-09-08 19:00:00,lost
+1428,613,Instagram,Mini sessions,2025-03-16 00:00:00,2025-03-19 00:00:00,contacted
+1429,1124,Instagram,Weddings,2024-12-06 00:00:00,2024-12-06 12:00:00,contacted
+1430,808,Repeat Client,Maternity,2024-02-20 00:00:00,2024-02-22 15:00:00,lost
+1431,1027,Facebook,Maternity,2024-06-07 00:00:00,2024-06-07 22:00:00,lost
+1432,74,Facebook,Maternity,2024-10-15 00:00:00,2024-10-17 09:00:00,lost
+1433,409,Google Search,Graduation,2025-04-05 00:00:00,2025-04-05 19:00:00,qualified
+1434,203,Referral,Branding/headshots,2025-03-25 00:00:00,2025-03-25 02:00:00,lost
+1435,395,Paid Advertisement,Branding/headshots,2025-12-01 00:00:00,2025-12-03 17:00:00,contacted
+1436,8,Instagram,Family portraits,2025-11-11 00:00:00,2025-11-12 06:00:00,new
+1437,407,Local Event,Mini sessions,2024-11-10 00:00:00,2024-11-12 07:00:00,lost
+1438,487,Instagram,Family portraits,2024-12-17 00:00:00,2024-12-17 11:00:00,qualified
+1439,348,Paid Advertisement,Mini sessions,2024-08-16 00:00:00,2024-08-17 17:00:00,contacted
+1440,865,Wedding Vendor,Weddings,2024-08-02 00:00:00,2024-08-02 19:00:00,contacted
+1441,626,Referral,Graduation,2025-05-28 00:00:00,2025-05-28 20:00:00,new
+1442,547,Google Search,Family portraits,2025-07-15 00:00:00,2025-07-15 11:00:00,lost
+1443,581,Wedding Vendor,Newborn,2024-09-16 00:00:00,2024-09-18 03:00:00,lost
+1444,269,Paid Advertisement,Branding/headshots,2024-08-15 00:00:00,2024-08-17 15:00:00,qualified
+1445,298,Instagram,Branding/headshots,2024-02-06 00:00:00,2024-02-07 22:00:00,lost
+1446,389,Repeat Client,Family portraits,2025-08-30 00:00:00,2025-09-01 17:00:00,lost
+1447,717,Referral,Newborn,2025-01-30 00:00:00,2025-01-30 05:00:00,qualified
+1448,159,Instagram,Family portraits,2025-12-17 00:00:00,2025-12-19 19:00:00,qualified
+1449,69,Referral,Family portraits,2025-10-16 00:00:00,2025-10-17 15:00:00,lost
+1450,653,Google Search,Couples,2025-07-15 00:00:00,2025-07-17 23:00:00,qualified
+1451,290,Referral,Branding/headshots,2025-04-23 00:00:00,2025-04-24 04:00:00,contacted
+1452,831,Google Search,Mini sessions,2025-03-16 00:00:00,2025-03-18 09:00:00,qualified
+1453,438,Repeat Client,Graduation,2025-06-14 00:00:00,2025-06-14 21:00:00,new
+1454,554,Referral,Mini sessions,2024-10-12 00:00:00,2024-10-14 03:00:00,qualified
+1455,1151,Referral,Branding/headshots,2025-12-30 00:00:00,2025-12-31 00:00:00,contacted
+1456,340,Google Search,Weddings,2025-04-06 00:00:00,2025-04-06 01:00:00,lost
+1457,304,Wedding Vendor,Family portraits,2025-11-13 00:00:00,2025-11-13 22:00:00,qualified
+1458,168,Referral,Maternity,2025-10-05 00:00:00,2025-10-07 09:00:00,qualified
+1459,366,Google Search,Mini sessions,2024-01-30 00:00:00,2024-01-31 00:00:00,lost
+1460,978,Local Event,Weddings,2025-05-20 00:00:00,2025-05-21 21:00:00,qualified
+1461,281,Google Search,Branding/headshots,2025-08-18 00:00:00,2025-08-18 15:00:00,qualified
+1462,938,Referral,Branding/headshots,2025-08-24 00:00:00,2025-08-25 13:00:00,qualified
+1463,193,Referral,Branding/headshots,2025-01-25 00:00:00,2025-01-26 15:00:00,contacted
+1464,802,Facebook,Branding/headshots,2025-09-22 00:00:00,2025-09-23 12:00:00,qualified
+1465,619,Instagram,Mini sessions,2024-08-01 00:00:00,2024-08-03 20:00:00,qualified
+1466,958,Paid Advertisement,Family portraits,2025-10-30 00:00:00,2025-10-30 04:00:00,qualified
+1467,632,Instagram,Graduation,2025-05-22 00:00:00,2025-05-23 21:00:00,qualified
+1468,469,Repeat Client,Family portraits,2024-09-04 00:00:00,2024-09-05 03:00:00,qualified
+1469,231,Local Event,Family portraits,2024-03-26 00:00:00,2024-03-27 21:00:00,qualified
+1470,80,Instagram,Newborn,2024-05-26 00:00:00,2024-05-28 14:00:00,qualified
+1471,231,Google Search,Branding/headshots,2024-06-14 00:00:00,2024-06-15 23:00:00,qualified
+1472,636,Referral,Mini sessions,2025-02-20 00:00:00,2025-02-22 00:00:00,contacted
+1473,1035,Instagram,Weddings,2025-07-16 00:00:00,2025-07-17 18:00:00,qualified
+1474,350,Facebook,Mini sessions,2024-11-06 00:00:00,2024-11-06 01:00:00,lost
+1475,1198,Repeat Client,Couples,2024-02-10 00:00:00,2024-02-12 03:00:00,lost
+1476,980,Referral,Graduation,2025-08-13 00:00:00,2025-08-14 01:00:00,contacted
+1477,705,Facebook,Mini sessions,2025-10-30 00:00:00,2025-10-30 13:00:00,lost
+1478,747,Wedding Vendor,Branding/headshots,2024-07-04 00:00:00,2024-07-05 22:00:00,qualified
+1479,290,Instagram,Maternity,2025-08-24 00:00:00,2025-08-24 01:00:00,lost
+1480,979,Referral,Graduation,2024-11-12 00:00:00,2024-11-12 17:00:00,qualified
+1481,1035,Google Search,Family portraits,2024-06-01 00:00:00,2024-06-02 19:00:00,qualified
+1482,1114,Facebook,Couples,2024-12-28 00:00:00,2024-12-28 11:00:00,lost
+1483,1170,Instagram,Weddings,2025-09-23 00:00:00,2025-09-23 02:00:00,lost
+1484,143,Google Search,Weddings,2025-05-02 00:00:00,2025-05-03 12:00:00,qualified
+1485,592,Wedding Vendor,Mini sessions,2025-01-14 00:00:00,2025-01-15 03:00:00,contacted
+1486,219,Repeat Client,Weddings,2024-06-02 00:00:00,2024-06-02 16:00:00,qualified
+1487,1022,Face book,Graduation,2025-08-06 00:00:00,2025-08-06 11:00:00,lost
+1488,269,Wedding Vendor,Graduation,2025-08-15 00:00:00,2025-08-15 08:00:00,qualified
+1489,1119,Referral,Graduation,2024-04-15 00:00:00,2024-04-15 05:00:00,qualified
+1490,430,Repeat Client,Newborn,2025-05-26 00:00:00,2025-05-27 06:00:00,lost
+1491,89,Paid Advertisement,Branding/headshots,2024-07-11 00:00:00,2024-07-12 17:00:00,qualified
+1492,284,Google Search,Branding/headshots,2024-07-11 00:00:00,2024-07-12 11:00:00,qualified
+1493,1033,Instagram,Mini sessions,2024-10-08 00:00:00,2024-10-10 23:00:00,lost
+1494,505,Paid Advertisement,Newborn,2024-11-02 00:00:00,2024-11-04 12:00:00,qualified
+1495,728,Google Search,Weddings,2024-04-23 00:00:00,2024-04-23 20:00:00,contacted
+1496,167,Local Event,Mini sessions,2025-12-22 00:00:00,2025-12-23 21:00:00,qualified
+1497,278,Instagram,Maternity,2025-06-29 00:00:00,2025-07-01 23:00:00,qualified
+1498,541,Paid Advertisement,Family portraits,2025-11-28 00:00:00,2025-11-29 14:00:00,qualified
+1499,476,Instagram,Mini sessions,2024-04-01 00:00:00,2024-04-03 00:00:00,lost
+1500,622,Referal,Branding/headshots,2024-02-06 00:00:00,2024-02-06 01:00:00,qualified
+1501,1017,Facebook,Family portraits,2024-12-20 00:00:00,2024-12-22 04:00:00,qualified
+1502,446,Referral,Mini sessions,2025-04-27 00:00:00,2025-04-28 17:00:00,qualified
+1503,827,Referral,Graduation,2024-11-27 00:00:00,2024-11-28 22:00:00,lost
+1504,1183,Instagram,Family portraits,2025-05-25 00:00:00,2025-05-27 10:00:00,lost
+1505,836,Local Event,Couples,2024-04-18 00:00:00,2024-04-19 06:00:00,qualified
+1506,1005,Paid Advertisement,Family portraits,2024-10-05 00:00:00,2024-10-07 18:00:00,contacted
+1507,981,Repeat Client,Graduation,2024-10-05 00:00:00,2024-10-07 00:00:00,qualified
+1508,831,Referral,Maternity,2024-09-16 00:00:00,2024-09-17 12:00:00,lost
+1509,1119,Local Event,Branding/headshots,2025-10-16 00:00:00,2025-10-18 02:00:00,lost
+1510,838,Facebook,Graduation,2025-03-26 00:00:00,2025-03-27 06:00:00,contacted
+1511,1158,Google Search,Mini sessions,2024-11-12 00:00:00,2024-11-13 16:00:00,qualified
+1512,315,Referral,Branding/headshots,2024-09-24 00:00:00,2024-09-25 12:00:00,lost
+1513,1010,Instagram,Mini sessions,2025-10-18 00:00:00,2025-10-20 04:00:00,lost
+1514,334,Instagram,Maternity,2025-12-23 00:00:00,2025-12-24 13:00:00,qualified
+1515,683,Paid Advertisement,Family portraits,2024-03-09 00:00:00,2024-03-12 00:00:00,lost
+1516,366,Face book,Family portraits,2024-12-18 00:00:00,2024-12-19 22:00:00,contacted
+1517,1170,Wedding Vendor,Mini sessions,2025-01-02 00:00:00,2025-01-04 12:00:00,lost
+1518,520,Google Search,Branding/headshots,2024-09-12 00:00:00,2024-09-14 10:00:00,qualified
+1519,353,Facebook,Graduation,2024-05-10 00:00:00,2024-05-12 17:00:00,qualified
+1520,658,Facebook,Maternity,2025-03-31 00:00:00,2025-04-01 02:00:00,lost
+1521,199,Wedding Vendor,Branding/headshots,2024-03-19 00:00:00,2024-03-21 04:00:00,lost
+1522,658,Paid Advertisement,Graduation,2025-10-14 00:00:00,2025-10-16 04:00:00,lost
+1523,763,Facebook,Weddings,2025-05-29 00:00:00,2025-05-30 03:00:00,qualified
+1524,255,Referral,Family portraits,2025-07-24 00:00:00,2025-07-26 22:00:00,qualified
+1525,1097,Paid Advertisement,Mini sessions,2025-03-06 00:00:00,2025-03-07 07:00:00,lost
+1526,159,Paid Advertisement,Family portraits,2024-04-12 00:00:00,2024-04-13 18:00:00,qualified
+1527,549,Referral,Couples,2024-07-17 00:00:00,2024-07-18 10:00:00,new
+1528,491,Instagram,Graduation,2025-09-22 00:00:00,2025-09-24 16:00:00,qualified
+1529,779,Paid Advertisement,Mini sessions,2025-10-06 00:00:00,2025-10-06 16:00:00,lost
+1530,613,Facebook,Couples,2024-11-07 00:00:00,2024-11-07 09:00:00,new
+1531,33,Instagram,Couples,2025-05-26 00:00:00,2025-05-27 14:00:00,qualified
+1532,923,Referal,Weddings,2025-10-24 00:00:00,2025-10-24 10:00:00,qualified
+1533,115,Facebook,Graduation,2025-05-24 00:00:00,2025-05-24 15:00:00,qualified
+1534,512,Paid Advertisement,Branding/headshots,2025-05-10 00:00:00,2025-05-12 01:00:00,qualified
+1535,843,Instagram,Newborn,2024-07-31 00:00:00,2024-08-01 12:00:00,lost
+1536,740,Referral,Mini sessions,2024-10-27 00:00:00,2024-10-28 15:00:00,lost
+1537,968,Local Event,Family portraits,2024-02-27 00:00:00,2024-02-28 22:00:00,lost
+1538,183,Facebook,Couples,2025-01-17 00:00:00,2025-01-18 01:00:00,qualified
+1539,367,Local Event,Branding/headshots,2024-01-13 00:00:00,2024-01-14 19:00:00,new
+1540,564,Referral,Family portraits,2025-06-19 00:00:00,2025-06-20 15:00:00,qualified
+1541,929,Google Search,Graduation,2024-06-22 00:00:00,2024-06-23 06:00:00,qualified
+1542,1076,Instagram,Branding/headshots,2025-01-17 00:00:00,2025-01-17 14:00:00,lost
+1543,1121,Referral,Graduation,2024-07-28 00:00:00,2024-07-29 00:00:00,qualified
+1544,199,Instagram,Couples,2025-12-04 00:00:00,2025-12-06 06:00:00,qualified
+1545,1012,Facebook,Branding/headshots,2025-04-05 00:00:00,2025-04-06 23:00:00,lost
+1546,809,Referral,Couples,2025-12-29 00:00:00,2025-12-30 13:00:00,qualified
+1547,330,Facebook,Family portraits,2024-12-20 00:00:00,2024-12-21 13:00:00,qualified
+1548,194,Google Search,Weddings,2024-09-09 00:00:00,2024-09-09 07:00:00,lost
+1549,95,Facebook,Family portraits,2025-07-12 00:00:00,2025-07-14 09:00:00,lost
+1550,139,Facebook,Family portraits,2024-11-29 00:00:00,2024-12-01 23:00:00,qualified
+1551,99,Google Search,Graduation,2025-05-31 00:00:00,2025-05-31 21:00:00,lost
+1552,1066,Facebook,Newborn,2024-06-14 00:00:00,2024-06-14 21:00:00,lost
+1553,847,Referral,Family portraits,2024-04-04 00:00:00,2024-04-06 17:00:00,lost
+1554,556,google,Family portraits,2024-03-21 00:00:00,2024-03-24 00:00:00,contacted
+1555,275,Local Event,Graduation,2024-05-15 00:00:00,2024-05-15 17:00:00,contacted
+1556,697,Instagram,Branding/headshots,2025-02-03 00:00:00,2025-02-05 08:00:00,qualified
+1557,1128,Instagram,Maternity,2024-04-17 00:00:00,2024-04-17 01:00:00,lost
+1558,75,Facebook,Maternity,2024-12-11 00:00:00,2024-12-13 17:00:00,qualified
+1559,357,Instagram,Mini sessions,2024-03-16 00:00:00,2024-03-18 19:00:00,lost
+1560,741,Wedding Vendor,Couples,2025-07-20 00:00:00,2025-07-20 04:00:00,contacted
+1561,70,Google Search,Mini sessions,2024-03-11 00:00:00,2024-03-13 11:00:00,lost
+1562,862,Face book,Maternity,2025-06-17 00:00:00,2025-06-18 11:00:00,lost
+1563,403,Repeat Client,Family portraits,2025-09-20 00:00:00,2025-09-21 00:00:00,qualified
+1564,379,Google Search,Graduation,2025-06-02 00:00:00,2025-06-03 00:00:00,qualified
+1565,491,Facebook,Mini sessions,2025-11-01 00:00:00,2025-11-03 13:00:00,new
+1566,346,Instagram,Mini sessions,2025-04-30 00:00:00,2025-05-01 14:00:00,lost
+1567,605,Facebook,Weddings,2024-05-17 00:00:00,2024-05-18 16:00:00,qualified
+1568,1175,Facebook,Weddings,2024-07-26 00:00:00,2024-07-26 23:00:00,qualified
+1569,922,Instagram,Graduation,2024-04-09 00:00:00,2024-04-11 05:00:00,contacted
+1570,601,Local Event,Newborn,2025-11-29 00:00:00,2025-11-30 15:00:00,contacted
+1571,1018,Referral,Couples,2024-03-13 00:00:00,2024-03-15 08:00:00,lost
+1572,637,Local Event,Weddings,2024-10-23 00:00:00,2024-10-23 17:00:00,qualified
+1573,230,Referral,Graduation,2025-05-06 00:00:00,2025-05-08 11:00:00,contacted
+1574,604,Wedding Vendor,Weddings,2024-06-08 00:00:00,2024-06-08 09:00:00,qualified
+1575,563,Instagram,Family portraits,2025-01-10 00:00:00,2025-01-11 02:00:00,qualified
+1576,43,Paid Advertisement,Newborn,2025-10-18 00:00:00,2025-10-18 12:00:00,lost
+1577,971,Wedding Vendor,Weddings,2024-07-13 00:00:00,2024-07-13 08:00:00,lost
+1578,834,Instagram,Maternity,2024-06-23 00:00:00,2024-06-23 08:00:00,qualified
+1579,307,Repeat Client,Family portraits,2025-12-22 00:00:00,2025-12-24 11:00:00,lost
+1580,814,Wedding Vendor,Family portraits,2024-11-15 00:00:00,2024-11-15 19:00:00,lost
+1581,485,Paid Advertisement,Newborn,2025-11-09 00:00:00,2025-11-11 01:00:00,qualified
+1582,1181,Google Search,Family portraits,2024-06-15 00:00:00,2024-06-16 10:00:00,lost
+1583,333,Face book,Branding/headshots,2025-07-07 00:00:00,2025-07-09 08:00:00,qualified
+1584,428,Instagram,Mini sessions,2025-11-16 00:00:00,2025-11-17 08:00:00,qualified
+1585,793,Facebook,Couples,2024-10-06 00:00:00,2024-10-08 01:00:00,lost
+1586,762,Facebook,Weddings,2024-09-30 00:00:00,2024-10-01 11:00:00,lost
+1587,1101,Paid Advertisement,Family portraits,2024-04-21 00:00:00,2024-04-22 05:00:00,qualified
+1588,448,Repeat Client,Newborn,2025-09-05 00:00:00,2025-09-05 07:00:00,lost
+1589,1138,Local Event,Mini sessions,2024-05-18 00:00:00,2024-05-18 14:00:00,qualified
+1590,713,Instagram,Weddings,2024-04-22 00:00:00,2024-04-23 00:00:00,lost
+1591,437,Wedding Vendor,Maternity,2025-09-12 00:00:00,2025-09-12 02:00:00,lost
+1592,976,instgram,Branding/headshots,2024-03-29 00:00:00,2024-03-30 19:00:00,lost
+1593,662,Local Event,Family portraits,2025-03-05 00:00:00,2025-03-07 11:00:00,lost
+1594,283,Referral,Weddings,2025-11-20 00:00:00,2025-11-22 14:00:00,lost
+1595,792,Facebook,Weddings,2025-11-04 00:00:00,2025-11-05 22:00:00,lost
+1596,633,Paid Advertisement,Maternity,2024-08-29 00:00:00,2024-08-30 16:00:00,lost
+1597,15,Facebook,Branding/headshots,2025-10-11 00:00:00,2025-10-12 21:00:00,qualified
+1598,629,Local Event,Mini sessions,2025-12-29 00:00:00,2025-12-31 06:00:00,qualified
+1599,919,Google Search,Maternity,2024-05-25 00:00:00,2024-05-27 22:00:00,qualified
+1600,489,Wedding Vendor,Family portraits,2025-02-15 00:00:00,2025-02-16 14:00:00,contacted
+1601,607,Instagram,Newborn,2024-05-29 00:00:00,2024-05-31 23:00:00,qualified
+1602,214,Repeat Client,Graduation,2024-05-09 00:00:00,2024-05-10 17:00:00,new
+1603,437,Google Search,Newborn,2025-04-22 00:00:00,2025-04-24 03:00:00,qualified
+1604,1011,instgram,Branding/headshots,2024-08-29 00:00:00,2024-08-31 20:00:00,contacted
+1605,639,Local Event,Maternity,2025-05-09 00:00:00,2025-05-10 22:00:00,qualified
+1606,130,Referral,Maternity,2025-05-26 00:00:00,2025-05-27 13:00:00,lost
+1607,254,Instagram,Weddings,2025-10-11 00:00:00,2025-10-13 23:00:00,qualified
+1608,1006,Instagram,Weddings,2024-04-14 00:00:00,2024-04-16 00:00:00,qualified
+1609,775,Instagram,Mini sessions,2024-08-26 00:00:00,2024-08-28 07:00:00,contacted
+1610,696,Paid Advertisement,Graduation,2024-02-06 00:00:00,2024-02-08 05:00:00,qualified
+1611,1093,Repeat Client,Family portraits,2024-05-28 00:00:00,2024-05-28 02:00:00,qualified
+1612,258,Google Search,Branding/headshots,2024-04-02 00:00:00,2024-04-04 14:00:00,new
+1613,138,Referral,Family portraits,2024-04-17 00:00:00,2024-04-19 07:00:00,qualified
+1614,235,Instagram,Couples,2025-10-06 00:00:00,2025-10-08 16:00:00,qualified
+1615,1010,Referral,Branding/headshots,2024-09-18 00:00:00,2024-09-19 06:00:00,contacted
+1616,1182,Facebook,Mini sessions,2024-10-28 00:00:00,2024-10-28 18:00:00,qualified
+1617,1079,Local Event,Maternity,2025-08-02 00:00:00,2025-08-04 15:00:00,lost
+1618,1083,Instagram,Newborn,2024-03-08 00:00:00,2024-03-09 09:00:00,contacted
+1619,785,Wedding Vendor,Mini sessions,2025-02-01 00:00:00,2025-02-02 09:00:00,qualified
+1620,953,Repeat Client,Family portraits,2024-08-22 00:00:00,2024-08-24 17:00:00,lost
+1621,712,Paid Advertisement,Graduation,2025-03-29 00:00:00,2025-03-31 00:00:00,new
+1622,194,Instagram,Family portraits,2024-10-04 00:00:00,2024-10-04 02:00:00,lost
+1623,1066,Referal,Weddings,2025-06-13 00:00:00,2025-06-13 10:00:00,qualified
+1624,208,instgram,Mini sessions,2025-09-23 00:00:00,2025-09-24 09:00:00,lost
+1625,978,Referral,Graduation,2024-05-05 00:00:00,2024-05-05 17:00:00,qualified
+1626,1065,Instagram,Newborn,2024-08-04 00:00:00,2024-08-06 01:00:00,lost
+1627,1071,Referral,Mini sessions,2025-04-27 00:00:00,2025-04-28 15:00:00,lost
+1628,1037,Referral,Graduation,2025-08-04 00:00:00,2025-08-06 10:00:00,qualified
+1629,1196,Google Search,Newborn,2025-12-04 00:00:00,2025-12-05 20:00:00,qualified
+1630,932,Paid Advertisement,Mini sessions,2024-07-10 00:00:00,2024-07-11 11:00:00,qualified
+1631,369,Google Search,Weddings,2024-11-23 00:00:00,2024-11-25 22:00:00,qualified
+1632,119,Referral,Graduation,2024-12-20 00:00:00,2024-12-20 03:00:00,lost
+1633,912,Referral,Branding/headshots,2025-01-18 00:00:00,2025-01-19 14:00:00,qualified
+1634,501,Paid Advertisement,Couples,2025-05-27 00:00:00,2025-05-28 00:00:00,qualified
+1635,315,Facebook,Weddings,2024-10-30 00:00:00,2024-10-30 05:00:00,lost
+1636,922,Google Search,Branding/headshots,2025-11-21 00:00:00,2025-11-22 05:00:00,new
+1637,663,Instagram,Couples,2025-11-19 00:00:00,2025-11-20 17:00:00,qualified
+1638,1108,Instagram,Mini sessions,2025-06-06 00:00:00,2025-06-07 08:00:00,qualified
+1639,182,Referral,Mini sessions,2024-11-17 00:00:00,2024-11-19 17:00:00,qualified
+1640,192,Instagram,Maternity,2024-04-22 00:00:00,2024-04-22 02:00:00,contacted
+1641,287,Instagram,Graduation,2025-12-20 00:00:00,2025-12-21 13:00:00,lost
+1642,364,Instagram,Branding/headshots,2024-07-24 00:00:00,2024-07-24 05:00:00,qualified
+1643,295,Google Search,Couples,2025-03-14 00:00:00,2025-03-16 06:00:00,new
+1644,883,Paid Advertisement,Weddings,2024-06-11 00:00:00,2024-06-11 03:00:00,qualified
+1645,10,Local Event,Weddings,2025-10-12 00:00:00,2025-10-12 17:00:00,lost
+1646,1181,Instagram,Mini sessions,2024-09-09 00:00:00,2024-09-11 12:00:00,contacted
+1647,378,Wedding Vendor,Weddings,2025-09-10 00:00:00,2025-09-11 10:00:00,contacted
+1648,582,Google Search,Family portraits,2024-08-02 00:00:00,2024-08-02 06:00:00,new
+1649,15,Referral,Mini sessions,2024-11-27 00:00:00,2024-11-27 03:00:00,qualified
+1650,935,Repeat Client,Newborn,2024-02-26 00:00:00,2024-02-26 22:00:00,qualified
+1651,827,Paid Advertisement,Couples,2024-09-19 00:00:00,2024-09-19 13:00:00,lost
+1652,773,Facebook,Family portraits,2025-08-05 00:00:00,2025-08-05 21:00:00,lost
+1653,1111,Instagram,Branding/headshots,2025-10-09 00:00:00,2025-10-09 12:00:00,qualified
+1654,746,Instagram,Mini sessions,2024-10-22 00:00:00,2024-10-23 09:00:00,contacted
+1655,215,Wedding Vendor,Mini sessions,2024-09-26 00:00:00,2024-09-28 17:00:00,lost
+1656,258,Referral,Couples,2025-09-20 00:00:00,2025-09-20 01:00:00,qualified
+1657,693,Referral,Branding/headshots,2025-11-14 00:00:00,2025-11-15 17:00:00,lost
+1658,856,Instagram,Graduation,2024-07-21 00:00:00,2024-07-23 15:00:00,lost
+1659,675,Wedding Vendor,Mini sessions,2024-11-18 00:00:00,2024-11-20 19:00:00,lost
+1660,869,Google Search,Branding/headshots,2024-12-18 00:00:00,2024-12-20 01:00:00,contacted
+1661,912,Wedding Vendor,Couples,2025-01-12 00:00:00,2025-01-12 15:00:00,qualified
+1662,228,Instagram,Couples,2025-02-22 00:00:00,2025-02-23 18:00:00,qualified
+1663,925,Google Search,Family portraits,2025-11-15 00:00:00,2025-11-17 12:00:00,lost
+1664,13,Wedding Vendor,Branding/headshots,2025-10-18 00:00:00,2025-10-19 10:00:00,qualified
+1665,804,Paid Advertisement,Branding/headshots,2024-09-02 00:00:00,2024-09-04 16:00:00,lost
+1666,225,Google Search,Newborn,2024-11-16 00:00:00,2024-11-16 05:00:00,lost
+1667,1169,Facebook,Graduation,2024-12-30 00:00:00,2025-01-01 12:00:00,lost
+1668,277,Referral,Branding/headshots,2024-12-25 00:00:00,2024-12-26 02:00:00,new
+1669,680,Local Event,Maternity,2024-04-08 00:00:00,2024-04-09 02:00:00,qualified
+1670,133,Wedding Vendor,Graduation,2024-05-26 00:00:00,2024-05-27 13:00:00,qualified
+1671,920,Instagram,Newborn,2024-10-06 00:00:00,2024-10-08 11:00:00,contacted
+1672,1028,Facebook,Mini sessions,2025-11-30 00:00:00,2025-12-02 12:00:00,qualified
+1673,493,Referral,Maternity,2025-05-05 00:00:00,2025-05-05 18:00:00,qualified
+1674,995,Google Search,Mini sessions,2024-10-13 00:00:00,2024-10-14 04:00:00,lost
+1675,563,Google Search,Family portraits,2025-02-02 00:00:00,2025-02-04 12:00:00,qualified
+1676,600,Instagram,Newborn,2024-01-19 00:00:00,2024-01-19 10:00:00,qualified
+1677,704,Repeat Client,Weddings,2024-10-14 00:00:00,2024-10-14 17:00:00,qualified
+1678,173,Repeat Client,Branding/headshots,2025-06-02 00:00:00,2025-06-04 05:00:00,qualified
+1679,485,Referral,Mini sessions,2024-02-16 00:00:00,2024-02-16 21:00:00,contacted
+1680,217,Instagram,Mini sessions,2024-12-02 00:00:00,2024-12-02 22:00:00,lost
+1681,65,Paid Advertisement,Weddings,2025-12-03 00:00:00,2025-12-05 01:00:00,qualified
+1682,673,Paid Advertisement,Couples,2025-06-24 00:00:00,2025-06-25 22:00:00,lost
+1683,533,Google Search,Branding/headshots,2025-10-19 00:00:00,2025-10-21 18:00:00,qualified
+1684,1130,Paid Advertisement,Newborn,2025-05-21 00:00:00,2025-05-22 16:00:00,lost
+1685,873,Google Search,Mini sessions,2025-05-04 00:00:00,2025-05-05 18:00:00,qualified
+1686,271,Instagram,Family portraits,2024-10-12 00:00:00,2024-10-12 18:00:00,lost
+1687,135,Google Search,Mini sessions,2024-06-16 00:00:00,2024-06-18 01:00:00,lost
+1688,1104,Instagram,Newborn,2024-03-31 00:00:00,2024-03-31 05:00:00,lost
+1689,615,Google Search,Branding/headshots,2025-12-15 00:00:00,2025-12-15 20:00:00,qualified
+1690,927,Instagram,Couples,2024-07-31 00:00:00,2024-08-02 16:00:00,lost
+1691,762,Facebook,Family portraits,2024-08-31 00:00:00,2024-09-02 21:00:00,qualified
+1692,1074,Instagram,Couples,2024-05-15 00:00:00,2024-05-17 05:00:00,qualified
+1693,160,Repeat Client,Branding/headshots,2024-05-03 00:00:00,2024-05-03 20:00:00,qualified
+1694,107,Instagram,Graduation,2024-06-22 00:00:00,2024-06-24 05:00:00,contacted
+1695,512,Wedding Vendor,Graduation,2024-08-15 00:00:00,2024-08-15 09:00:00,contacted
+1696,1159,Google Search,Graduation,2024-10-02 00:00:00,2024-10-03 12:00:00,lost
+1697,12,Referral,Family portraits,2025-05-11 00:00:00,2025-05-11 08:00:00,lost
+1698,337,Google Search,Couples,2024-09-29 00:00:00,2024-10-01 06:00:00,lost
+1699,704,Referral,Family portraits,2025-12-21 00:00:00,2025-12-23 09:00:00,lost
+1700,1038,Instagram,Mini sessions,2025-01-13 00:00:00,2025-01-13 15:00:00,qualified
+1701,1063,Google Search,Branding/headshots,2025-02-18 00:00:00,2025-02-18 22:00:00,qualified
+1702,628,Repeat Client,Couples,2025-11-27 00:00:00,2025-11-29 08:00:00,lost
+1703,1100,Repeat Client,Weddings,2025-10-14 00:00:00,2025-10-15 01:00:00,lost
+1704,694,Referral,Mini sessions,2024-04-22 00:00:00,2024-04-24 01:00:00,qualified
+1705,446,Instagram,Couples,2024-07-02 00:00:00,2024-07-03 09:00:00,qualified
+1706,513,Google Search,Newborn,2025-07-25 00:00:00,2025-07-26 11:00:00,qualified
+1707,963,Paid Advertisement,Newborn,2024-04-22 00:00:00,2024-04-23 15:00:00,lost
+1708,87,Local Event,Couples,2025-06-14 00:00:00,2025-06-14 13:00:00,qualified
+1709,631,Google Search,Mini sessions,2024-03-27 00:00:00,2024-03-28 14:00:00,lost
+1710,192,Facebook,Maternity,2025-10-20 00:00:00,2025-10-21 17:00:00,lost
+1711,511,Facebook,Weddings,2024-11-14 00:00:00,2024-11-15 12:00:00,contacted
+1712,435,Instagram,Family portraits,2024-10-14 00:00:00,2024-10-16 06:00:00,lost
+1713,71,Google Search,Weddings,2024-06-20 00:00:00,2024-06-21 14:00:00,lost
+1714,745,google,Newborn,2024-11-02 00:00:00,2024-11-02 13:00:00,qualified
+1715,860,Paid Advertisement,Couples,2024-10-17 00:00:00,2024-10-17 12:00:00,contacted
+1716,727,Referral,Branding/headshots,2025-05-24 00:00:00,2025-05-24 22:00:00,qualified
+1717,100,Instagram,Graduation,2025-07-08 00:00:00,2025-07-09 07:00:00,lost
+1718,1107,Paid Advertisement,Couples,2024-01-03 00:00:00,2024-01-04 01:00:00,qualified
+1719,539,Instagram,Graduation,2025-12-21 00:00:00,2025-12-23 11:00:00,lost
+1720,252,Instagram,Weddings,2025-03-29 00:00:00,2025-03-30 03:00:00,qualified
+1721,1092,Local Event,Mini sessions,2025-03-14 00:00:00,2025-03-16 00:00:00,lost
+1722,317,Instagram,Mini sessions,2025-10-26 00:00:00,2025-10-26 14:00:00,qualified
+1723,858,Instagram,Family portraits,2024-02-27 00:00:00,2024-02-29 12:00:00,qualified
+1724,1196,Instagram,Graduation,2024-04-11 00:00:00,2024-04-12 14:00:00,qualified
+1725,859,Referral,Newborn,2025-02-28 00:00:00,2025-03-01 20:00:00,lost
+1726,516,Google Search,Mini sessions,2024-09-26 00:00:00,2024-09-27 03:00:00,contacted
+1727,207,Instagram,Graduation,2024-11-26 00:00:00,2024-11-28 07:00:00,qualified
+1728,1147,instgram,Weddings,2024-06-09 00:00:00,2024-06-09 01:00:00,contacted
+1729,211,Google Search,Graduation,2024-10-27 00:00:00,2024-10-27 06:00:00,qualified
+1730,946,instgram,Mini sessions,2025-10-30 00:00:00,2025-11-01 00:00:00,new
+1731,65,Local Event,Mini sessions,2025-12-23 00:00:00,2025-12-24 01:00:00,qualified
+1732,229,Google Search,Couples,2024-12-29 00:00:00,2024-12-31 05:00:00,qualified
+1733,688,Referral,Newborn,2025-03-29 00:00:00,2025-03-30 14:00:00,lost
+1734,386,Instagram,Maternity,2025-08-21 00:00:00,2025-08-21 20:00:00,contacted
+1735,860,Wedding Vendor,Branding/headshots,2024-01-30 00:00:00,2024-01-30 09:00:00,contacted
+1736,239,Google Search,Weddings,2024-05-23 00:00:00,2024-05-23 14:00:00,qualified
+1737,978,Instagram,Mini sessions,2024-10-03 00:00:00,2024-10-05 09:00:00,lost
+1738,816,Google Search,Family portraits,2024-05-15 00:00:00,2024-05-16 02:00:00,lost
+1739,684,Google Search,Newborn,2025-09-22 00:00:00,2025-09-24 22:00:00,qualified
+1740,516,Instagram,Graduation,2025-11-13 00:00:00,2025-11-13 21:00:00,lost
+1741,421,Referral,Couples,2024-07-18 00:00:00,2024-07-18 07:00:00,qualified
+1742,308,Paid Advertisement,Newborn,2025-11-28 00:00:00,2025-11-28 19:00:00,lost
+1743,979,Facebook,Newborn,2024-10-26 00:00:00,2024-10-28 19:00:00,qualified
+1744,827,Referral,Family portraits,2025-05-14 00:00:00,2025-05-15 20:00:00,qualified
+1745,245,Paid Advertisement,Family portraits,2025-11-29 00:00:00,2025-11-30 02:00:00,qualified
+1746,1112,Google Search,Family portraits,2024-09-08 00:00:00,2024-09-08 06:00:00,lost
+1747,816,Paid Advertisement,Mini sessions,2025-03-17 00:00:00,2025-03-17 15:00:00,qualified
+1748,536,Paid Advertisement,Weddings,2025-01-27 00:00:00,2025-01-27 05:00:00,qualified
+1749,611,Google Search,Family portraits,2025-11-02 00:00:00,2025-11-04 17:00:00,lost
+1750,744,Google Search,Graduation,2025-06-15 00:00:00,2025-06-15 17:00:00,lost
+1751,535,Instagram,Family portraits,2025-05-24 00:00:00,2025-05-24 18:00:00,lost
+1752,842,Paid Advertisement,Maternity,2025-03-24 00:00:00,2025-03-26 06:00:00,lost
+1753,572,Paid Advertisement,Couples,2025-05-09 00:00:00,2025-05-11 13:00:00,lost
+1754,511,Repeat Client,Mini sessions,2024-10-04 00:00:00,2024-10-06 07:00:00,lost
+1755,484,Google Search,Weddings,2025-06-08 00:00:00,2025-06-09 08:00:00,lost
+1756,824,Google Search,Branding/headshots,2025-05-13 00:00:00,2025-05-15 06:00:00,lost
+1757,776,Referral,Branding/headshots,2024-02-25 00:00:00,2024-02-25 21:00:00,lost
+1758,930,google,Branding/headshots,2024-07-18 00:00:00,2024-07-18 13:00:00,qualified
+1759,520,Instagram,Couples,2025-07-04 00:00:00,2025-07-05 08:00:00,lost
+1760,513,Wedding Vendor,Newborn,2024-08-31 00:00:00,2024-09-01 09:00:00,qualified
+1761,246,Referral,Maternity,2025-12-21 00:00:00,2025-12-23 07:00:00,lost
+1762,774,Referral,Family portraits,2024-03-12 00:00:00,2024-03-13 18:00:00,qualified
+1763,651,Paid Advertisement,Weddings,2024-09-03 00:00:00,2024-09-05 03:00:00,qualified
+1764,780,Instagram,Family portraits,2025-09-03 00:00:00,2025-09-04 03:00:00,lost
+1765,45,Referral,Couples,2024-12-19 00:00:00,2024-12-20 06:00:00,lost
+1766,984,Repeat Client,Newborn,2025-03-18 00:00:00,2025-03-20 10:00:00,contacted
+1767,233,Instagram,Weddings,2025-05-04 00:00:00,2025-05-05 19:00:00,qualified
+1768,1005,Facebook,Mini sessions,2024-07-12 00:00:00,2024-07-14 01:00:00,qualified
+1769,982,Instagram,Graduation,2024-04-21 00:00:00,2024-04-22 20:00:00,lost
+1770,162,Referral,Weddings,2025-03-06 00:00:00,2025-03-07 22:00:00,contacted
+1771,308,Facebook,Graduation,2024-03-02 00:00:00,2024-03-04 21:00:00,contacted
+1772,168,Referral,Newborn,2024-12-19 00:00:00,2024-12-21 19:00:00,lost
+1773,555,Referral,Graduation,2025-11-27 00:00:00,2025-11-29 22:00:00,qualified
+1774,474,Instagram,Branding/headshots,2025-11-05 00:00:00,2025-11-07 05:00:00,qualified
+1775,576,Instagram,Weddings,2025-04-10 00:00:00,2025-04-12 01:00:00,lost
+1776,992,Referral,Graduation,2025-07-14 00:00:00,2025-07-14 08:00:00,qualified
+1777,37,Local Event,Couples,2024-07-05 00:00:00,2024-07-06 18:00:00,lost
+1778,798,Paid Advertisement,Graduation,2024-11-26 00:00:00,2024-11-27 08:00:00,qualified
+1779,1099,Local Event,Weddings,2024-06-07 00:00:00,2024-06-07 04:00:00,qualified
+1780,58,Referral,Maternity,2025-12-19 00:00:00,2025-12-21 14:00:00,qualified
+1781,774,Instagram,Family portraits,2025-09-07 00:00:00,2025-09-09 18:00:00,qualified
+1782,962,Local Event,Graduation,2025-10-26 00:00:00,2025-10-27 11:00:00,qualified
+1783,742,Repeat Client,Couples,2025-06-01 00:00:00,2025-06-02 22:00:00,contacted
+1784,414,Referral,Couples,2024-10-01 00:00:00,2024-10-03 01:00:00,lost
+1785,927,Referral,Weddings,2025-10-02 00:00:00,2025-10-04 11:00:00,contacted
+1786,1038,Paid Advertisement,Graduation,2024-06-04 00:00:00,2024-06-05 01:00:00,lost
+1787,138,Facebook,Family portraits,2025-11-07 00:00:00,2025-11-09 13:00:00,lost
+1788,185,Instagram,Graduation,2024-11-08 00:00:00,2024-11-09 20:00:00,qualified
+1789,534,Instagram,Family portraits,2025-10-22 00:00:00,2025-10-23 06:00:00,qualified
+1790,154,Paid Advertisement,Mini sessions,2024-12-19 00:00:00,2024-12-20 15:00:00,qualified
+1791,723,Referral,Family portraits,2025-02-14 00:00:00,2025-02-15 16:00:00,lost
+1792,1066,Google Search,Couples,2025-05-01 00:00:00,2025-05-03 12:00:00,lost
+1793,873,Referral,Family portraits,2024-03-10 00:00:00,2024-03-12 18:00:00,qualified
+1794,340,Referral,Newborn,2025-07-29 00:00:00,2025-07-31 06:00:00,lost
+1795,857,Referral,Branding/headshots,2024-03-08 00:00:00,2024-03-08 16:00:00,lost
+1796,302,Instagram,Mini sessions,2025-10-15 00:00:00,2025-10-16 20:00:00,qualified
+1797,930,Local Event,Family portraits,2024-10-23 00:00:00,2024-10-23 16:00:00,new
+1798,717,Google Search,Graduation,2024-04-01 00:00:00,2024-04-03 14:00:00,lost
+1799,348,Facebook,Branding/headshots,2025-10-26 00:00:00,2025-10-26 15:00:00,qualified
+1800,503,instgram,Graduation,2025-12-26 00:00:00,2025-12-27 22:00:00,lost

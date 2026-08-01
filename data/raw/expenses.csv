@@ -1,0 +1,1001 @@
+expense_id,expense_date,expense_category,amount,description
+1,2025-12-09,Marketing,231.89,Operating expense
+2,2024-12-07,Contract labor,209.21,Operating expense
+3,2025-11-06,Software,18.05,Operating expense
+4,2025-07-27,Marketing,94.7,Operating expense
+5,2025-08-02,Studio supplies,76.33,Operating expense
+6,2025-01-05,Contract labor,115.62,Operating expense
+7,2024-03-24,Insurance,102.16,Operating expense
+8,2025-06-12,Contract labor,141.72,Operating expense
+9,2024-12-07,Insurance,40.63,Operating expense
+10,2025-09-13,Travel,39.88,Operating expense
+11,2024-11-27,Equipment,369.0,Operating expense
+12,2025-05-18,Studio supplies,69.15,Operating expense
+13,2025-05-01,Software,63.87,Operating expense
+14,2024-05-30,Marketing,66.4,Operating expense
+15,2024-12-05,Travel,67.73,Operating expense
+16,2024-11-05,Studio supplies,173.03,Operating expense
+17,2024-10-27,Marketing,219.37,Operating expense
+18,2024-05-24,Contract labor,476.99,Operating expense
+19,2024-03-17,Software,41.25,Operating expense
+20,2024-05-20,Marketing,132.05,Operating expense
+21,2024-06-05,Studio supplies,119.98,Operating expense
+22,2024-02-06,Marketing,164.6,Operating expense
+23,2024-08-26,Studio supplies,59.57,Operating expense
+24,2024-03-07,Software,83.35,Operating expense
+25,2024-07-02,Contract labor,300.15,Operating expense
+26,2024-04-03,Marketing,91.46,Operating expense
+27,2024-12-16,Studio supplies,60.81,Operating expense
+28,2025-06-10,Equipment,183.31,Operating expense
+29,2024-03-27,Studio supplies,50.59,Operating expense
+30,2024-06-22,Studio supplies,117.8,Operating expense
+31,2024-06-06,Studio supplies,24.54,Operating expense
+32,2024-01-02,Studio supplies,75.71,Operating expense
+33,2024-06-16,Studio supplies,113.47,Operating expense
+34,2024-12-20,Contract labor,104.98,Operating expense
+35,2025-01-04,Equipment,287.18,Operating expense
+36,2025-11-06,Contract labor,133.44,Operating expense
+37,2025-10-21,Marketing,19.55,Operating expense
+38,2024-05-02,Contract labor,441.25,Operating expense
+39,2024-06-18,Studio supplies,76.27,Operating expense
+40,2024-03-12,Equipment,337.59,Operating expense
+41,2025-12-29,Marketing,42.4,Operating expense
+42,2025-04-01,Marketing,178.99,Operating expense
+43,2024-11-21,Travel,9.48,Operating expense
+44,2025-05-14,Insurance,249.74,Operating expense
+45,2025-10-06,Marketing,204.4,Operating expense
+46,2025-06-24,Software,39.75,Operating expense
+47,2024-08-16,Software,81.11,Operating expense
+48,2025-02-28,Studio supplies,111.41,Operating expense
+49,2024-02-07,Software,70.21,Operating expense
+50,2025-05-25,Contract labor,250.71,Operating expense
+51,2025-05-02,Studio supplies,112.2,Operating expense
+52,2024-10-02,Insurance,364.71,Operating expense
+53,2024-07-06,Marketing,35.1,Operating expense
+54,2025-01-07,Contract labor,34.31,Operating expense
+55,2024-06-27,Travel,255.81,Operating expense
+56,2025-05-03,Marketing,356.3,Operating expense
+57,2025-05-26,Contract labor,282.1,Operating expense
+58,2024-08-10,Marketing,317.31,Operating expense
+59,2024-05-08,Insurance,56.54,Operating expense
+60,2024-02-03,Travel,107.32,Operating expense
+61,2025-07-05,Insurance,185.35,Operating expense
+62,2025-04-25,Studio supplies,18.49,Operating expense
+63,2024-05-25,Equipment,182.65,Operating expense
+64,2025-12-19,Travel,18.69,Operating expense
+65,2025-02-28,Studio supplies,34.7,Operating expense
+66,2024-02-09,Contract labor,39.68,Operating expense
+67,2025-01-24,Studio supplies,35.8,Operating expense
+68,2025-04-16,Travel,73.98,Operating expense
+69,2025-11-17,Marketing,373.17,Operating expense
+70,2025-07-01,Equipment,202.56,Operating expense
+71,2025-04-03,Marketing,92.09,Operating expense
+72,2024-07-24,Marketing,60.26,Operating expense
+73,2025-06-27,Studio supplies,15.74,Operating expense
+74,2024-03-31,Equipment,168.61,Operating expense
+75,2025-07-25,Equipment,533.14,Operating expense
+76,2024-07-22,Insurance,78.45,Operating expense
+77,2025-11-23,Marketing,270.56,Operating expense
+78,2024-04-12,Marketing,79.37,Operating expense
+79,2025-11-20,Travel,22.89,Operating expense
+80,2024-03-22,Marketing,47.03,Operating expense
+81,2025-12-03,Equipment,637.98,Operating expense
+82,2025-12-05,Contract labor,282.43,Operating expense
+83,2025-10-31,Contract labor,328.68,Operating expense
+84,2025-02-07,Studio supplies,195.52,Operating expense
+85,2024-07-05,Contract labor,207.63,Operating expense
+86,2024-06-16,Equipment,1226.74,Operating expense
+87,2024-06-12,Contract labor,137.6,Operating expense
+88,2025-07-13,Marketing,279.49,Operating expense
+89,2024-08-23,Marketing,181.03,Operating expense
+90,2024-02-25,Marketing,128.88,Operating expense
+91,2024-09-20,Studio supplies,21.39,Operating expense
+92,2024-11-26,Marketing,266.51,Operating expense
+93,2024-05-17,Insurance,71.29,Operating expense
+94,2024-11-16,Marketing,134.9,Operating expense
+95,2025-03-31,Studio supplies,113.1,Operating expense
+96,2024-07-29,Marketing,170.15,Operating expense
+97,2025-06-22,Studio supplies,131.5,Operating expense
+98,2024-04-25,Contract labor,375.4,Operating expense
+99,2024-07-10,Equipment,303.64,Operating expense
+100,2024-02-11,Insurance,68.8,Operating expense
+101,2024-09-30,Marketing,217.03,Operating expense
+102,2024-05-18,Travel,35.28,Operating expense
+103,2025-12-06,Contract labor,314.29,Operating expense
+104,2025-02-15,Contract labor,151.21,Operating expense
+105,2024-12-12,Equipment,120.51,Operating expense
+106,2025-12-15,Contract labor,403.15,Operating expense
+107,2025-05-18,Software,31.39,Operating expense
+108,2025-08-11,Travel,67.86,Operating expense
+109,2025-03-04,Software,41.4,Operating expense
+110,2025-07-29,Software,109.81,Operating expense
+111,2025-01-07,Software,75.37,Operating expense
+112,2025-02-06,Marketing,357.51,Operating expense
+113,2024-12-28,Software,81.63,Operating expense
+114,2024-02-29,Insurance,132.68,Operating expense
+115,2025-09-06,Studio supplies,118.34,Operating expense
+116,2024-02-19,Contract labor,158.87,Operating expense
+117,2024-01-08,Marketing,248.57,Operating expense
+118,2025-10-17,Contract labor,370.69,Operating expense
+119,2025-08-17,Contract labor,211.68,Operating expense
+120,2024-07-15,Equipment,120.9,Operating expense
+121,2025-10-22,Insurance,185.61,Operating expense
+122,2024-04-17,Insurance,22.7,Operating expense
+123,2025-11-16,Travel,76.0,Operating expense
+124,2025-02-08,Equipment,481.0,Operating expense
+125,2024-11-22,Software,15.37,Operating expense
+126,2025-09-28,Marketing,84.18,Operating expense
+127,2025-12-26,Travel,34.69,Operating expense
+128,2025-08-30,Equipment,169.5,Operating expense
+129,2024-11-02,Travel,136.4,Operating expense
+130,2024-06-06,Travel,64.01,Operating expense
+131,2025-05-25,Contract labor,163.77,Operating expense
+132,2025-09-23,Insurance,190.09,Operating expense
+133,2024-07-05,Insurance,70.05,Operating expense
+134,2025-07-17,Studio supplies,27.08,Operating expense
+135,2025-04-04,Marketing,136.39,Operating expense
+136,2025-11-18,Travel,75.77,Operating expense
+137,2024-12-05,Studio supplies,53.76,Operating expense
+138,2025-07-04,Equipment,585.39,Operating expense
+139,2025-11-08,Contract labor,91.33,Operating expense
+140,2025-02-12,Studio supplies,30.82,Operating expense
+141,2025-02-04,Studio supplies,35.38,Operating expense
+142,2025-09-03,Equipment,754.84,Operating expense
+143,2024-11-03,Software,9.32,Operating expense
+144,2024-10-04,Equipment,588.27,Operating expense
+145,2025-02-23,Software,70.58,Operating expense
+146,2024-12-03,Contract labor,119.09,Operating expense
+147,2025-03-26,Marketing,86.0,Operating expense
+148,2025-04-02,Marketing,49.16,Operating expense
+149,2025-05-22,Contract labor,221.05,Operating expense
+150,2024-04-27,Marketing,108.22,Operating expense
+151,2025-02-10,Marketing,163.05,Operating expense
+152,2025-05-09,Studio supplies,79.31,Operating expense
+153,2024-04-21,Contract labor,144.56,Operating expense
+154,2024-01-24,Equipment,310.08,Operating expense
+155,2025-12-05,Marketing,35.1,Operating expense
+156,2024-08-31,Travel,62.35,Operating expense
+157,2025-06-14,Marketing,208.88,Operating expense
+158,2025-10-31,Contract labor,95.71,Operating expense
+159,2025-01-01,Marketing,40.17,Operating expense
+160,2025-08-20,Marketing,513.84,Operating expense
+161,2024-04-29,Studio supplies,94.0,Operating expense
+162,2024-03-15,Insurance,21.96,Operating expense
+163,2024-07-16,Travel,57.19,Operating expense
+164,2024-01-07,Studio supplies,87.33,Operating expense
+165,2024-08-08,Contract labor,633.73,Operating expense
+166,2024-11-16,Software,49.68,Operating expense
+167,2024-12-29,Software,29.6,Operating expense
+168,2025-01-25,Marketing,325.21,Operating expense
+169,2025-02-11,Software,101.79,Operating expense
+170,2024-05-27,Marketing,152.06,Operating expense
+171,2025-07-25,Insurance,30.41,Operating expense
+172,2024-04-04,Studio supplies,47.43,Operating expense
+173,2025-08-18,Contract labor,344.72,Operating expense
+174,2025-03-06,Travel,154.69,Operating expense
+175,2024-01-22,Equipment,797.5,Operating expense
+176,2025-07-12,Travel,69.62,Operating expense
+177,2024-05-06,Software,50.91,Operating expense
+178,2024-01-06,Software,65.86,Operating expense
+179,2024-01-18,Software,156.28,Operating expense
+180,2025-10-26,Equipment,173.34,Operating expense
+181,2025-09-09,Studio supplies,182.72,Operating expense
+182,2024-07-28,Marketing,78.31,Operating expense
+183,2024-06-01,Software,18.42,Operating expense
+184,2025-07-09,Contract labor,247.97,Operating expense
+185,2024-11-08,Contract labor,62.62,Operating expense
+186,2024-09-20,Contract labor,407.22,Operating expense
+187,2025-02-05,Equipment,819.76,Operating expense
+188,2025-05-03,Equipment,295.61,Operating expense
+189,2025-08-14,Software,70.3,Operating expense
+190,2024-10-06,Marketing,8.46,Operating expense
+191,2024-12-20,Marketing,187.52,Operating expense
+192,2024-11-29,Marketing,316.65,Operating expense
+193,2024-05-22,Studio supplies,45.32,Operating expense
+194,2025-10-21,Travel,244.4,Operating expense
+195,2024-08-22,Insurance,116.05,Operating expense
+196,2025-03-06,Contract labor,211.05,Operating expense
+197,2025-12-05,Insurance,78.24,Operating expense
+198,2025-03-01,Travel,144.23,Operating expense
+199,2025-06-05,Marketing,167.85,Operating expense
+200,2025-09-16,Travel,61.04,Operating expense
+201,2024-08-15,Studio supplies,51.14,Operating expense
+202,2024-06-02,Insurance,101.76,Operating expense
+203,2025-02-14,Marketing,326.65,Operating expense
+204,2024-06-05,Software,66.73,Operating expense
+205,2024-10-16,Studio supplies,43.92,Operating expense
+206,2025-09-24,Contract labor,516.23,Operating expense
+207,2024-06-06,Equipment,117.58,Operating expense
+208,2025-04-10,Contract labor,204.89,Operating expense
+209,2025-04-14,Insurance,34.67,Operating expense
+210,2025-05-13,Contract labor,326.91,Operating expense
+211,2024-03-26,Marketing,135.2,Operating expense
+212,2024-03-10,Equipment,177.4,Operating expense
+213,2025-03-23,Contract labor,285.28,Operating expense
+214,2025-11-20,Equipment,217.14,Operating expense
+215,2024-06-19,Marketing,282.68,Operating expense
+216,2025-05-09,Marketing,191.9,Operating expense
+217,2024-07-20,Equipment,463.92,Operating expense
+218,2024-02-01,Insurance,12.01,Operating expense
+219,2025-05-26,Marketing,146.76,Operating expense
+220,2024-08-02,Insurance,109.05,Operating expense
+221,2025-10-16,Travel,125.92,Operating expense
+222,2024-08-02,Contract labor,30.44,Operating expense
+223,2025-05-06,Marketing,110.79,Operating expense
+224,2024-12-08,Software,57.43,Operating expense
+225,2024-10-10,Studio supplies,72.33,Operating expense
+226,2025-07-09,Insurance,139.26,Operating expense
+227,2024-07-27,Equipment,237.58,Operating expense
+228,2024-07-04,Marketing,119.6,Operating expense
+229,2025-06-15,Equipment,646.85,Operating expense
+230,2025-12-08,Insurance,143.4,Operating expense
+231,2025-06-27,Marketing,227.53,Operating expense
+232,2025-07-13,Contract labor,344.82,Operating expense
+233,2025-01-23,Travel,143.44,Operating expense
+234,2025-01-19,Contract labor,236.07,Operating expense
+235,2024-04-29,Marketing,249.77,Operating expense
+236,2024-08-02,Contract labor,91.24,Operating expense
+237,2024-05-22,Travel,124.7,Operating expense
+238,2025-12-11,Marketing,17.11,Operating expense
+239,2025-10-09,Software,132.61,Operating expense
+240,2025-06-09,Studio supplies,204.48,Operating expense
+241,2025-11-11,Studio supplies,313.16,Operating expense
+242,2025-12-12,Software,27.0,Operating expense
+243,2024-02-19,Studio supplies,75.92,Operating expense
+244,2025-06-09,Contract labor,91.99,Operating expense
+245,2024-11-02,Travel,23.44,Operating expense
+246,2025-05-28,Contract labor,47.89,Operating expense
+247,2025-07-22,Equipment,182.14,Operating expense
+248,2024-09-07,Contract labor,51.94,Operating expense
+249,2025-10-22,Insurance,188.69,Operating expense
+250,2024-01-18,Contract labor,310.69,Operating expense
+251,2024-05-16,Contract labor,405.81,Operating expense
+252,2025-12-07,Equipment,236.44,Operating expense
+253,2025-12-12,Insurance,38.39,Operating expense
+254,2025-01-30,Marketing,33.24,Operating expense
+255,2024-05-21,Marketing,83.55,Operating expense
+256,2024-09-03,Travel,18.2,Operating expense
+257,2025-02-08,Equipment,415.64,Operating expense
+258,2025-07-24,Marketing,358.99,Operating expense
+259,2024-05-12,Insurance,151.23,Operating expense
+260,2024-04-10,Marketing,24.02,Operating expense
+261,2025-07-15,Travel,72.89,Operating expense
+262,2025-08-12,Insurance,225.49,Operating expense
+263,2024-02-27,Marketing,26.79,Operating expense
+264,2024-04-09,Insurance,15.39,Operating expense
+265,2024-03-22,Studio supplies,96.05,Operating expense
+266,2025-01-10,Software,125.63,Operating expense
+267,2024-08-12,Studio supplies,113.36,Operating expense
+268,2024-07-31,Equipment,544.78,Operating expense
+269,2024-06-27,Equipment,427.04,Operating expense
+270,2025-07-14,Contract labor,383.35,Operating expense
+271,2024-02-27,Insurance,343.25,Operating expense
+272,2024-11-23,Marketing,86.05,Operating expense
+273,2025-01-17,Equipment,786.61,Operating expense
+274,2025-05-07,Marketing,21.37,Operating expense
+275,2024-08-31,Studio supplies,2.54,Operating expense
+276,2025-03-01,Travel,43.76,Operating expense
+277,2024-04-22,Contract labor,313.68,Operating expense
+278,2025-08-27,Contract labor,67.87,Operating expense
+279,2024-12-24,Software,98.99,Operating expense
+280,2024-01-24,Studio supplies,66.58,Operating expense
+281,2025-03-17,Contract labor,329.12,Operating expense
+282,2024-07-18,Marketing,443.15,Operating expense
+283,2025-12-01,Insurance,96.93,Operating expense
+284,2025-01-07,Contract labor,304.16,Operating expense
+285,2024-02-29,Studio supplies,75.17,Operating expense
+286,2025-06-02,Marketing,50.98,Operating expense
+287,2025-10-25,Travel,29.15,Operating expense
+288,2024-08-26,Studio supplies,36.38,Operating expense
+289,2025-07-29,Marketing,83.83,Operating expense
+290,2024-12-28,Software,29.88,Operating expense
+291,2025-09-18,Studio supplies,91.36,Operating expense
+292,2025-10-08,Software,65.75,Operating expense
+293,2025-09-14,Software,11.3,Operating expense
+294,2024-01-21,Travel,130.55,Operating expense
+295,2025-02-14,Marketing,337.66,Operating expense
+296,2024-06-09,Insurance,237.86,Operating expense
+297,2024-03-30,Studio supplies,72.62,Operating expense
+298,2024-02-08,Studio supplies,55.48,Operating expense
+299,2024-07-27,Contract labor,318.0,Operating expense
+300,2025-03-25,Marketing,35.14,Operating expense
+301,2025-03-06,Travel,83.9,Operating expense
+302,2025-05-18,Contract labor,109.37,Operating expense
+303,2024-05-21,Insurance,179.61,Operating expense
+304,2024-04-02,Equipment,1369.97,Operating expense
+305,2024-02-22,Travel,184.62,Operating expense
+306,2025-01-19,Equipment,491.51,Operating expense
+307,2024-04-05,Marketing,60.8,Operating expense
+308,2024-02-17,Studio supplies,93.35,Operating expense
+309,2024-08-07,Studio supplies,1.98,Operating expense
+310,2024-11-02,Software,147.96,Operating expense
+311,2024-02-06,Insurance,116.93,Operating expense
+312,2025-06-13,Marketing,122.05,Operating expense
+313,2024-05-02,Travel,70.69,Operating expense
+314,2025-10-21,Software,115.01,Operating expense
+315,2025-12-20,Marketing,185.71,Operating expense
+316,2025-06-19,Contract labor,347.3,Operating expense
+317,2025-08-15,Contract labor,213.87,Operating expense
+318,2024-05-24,Software,87.4,Operating expense
+319,2024-12-02,Marketing,71.21,Operating expense
+320,2025-03-02,Equipment,187.73,Operating expense
+321,2024-07-05,Equipment,375.42,Operating expense
+322,2025-03-20,Contract labor,652.89,Operating expense
+323,2024-03-17,Equipment,590.09,Operating expense
+324,2025-09-29,Contract labor,122.66,Operating expense
+325,2024-02-05,Equipment,187.06,Operating expense
+326,2024-03-15,Contract labor,272.54,Operating expense
+327,2024-11-09,Software,121.57,Operating expense
+328,2024-09-23,Marketing,508.87,Operating expense
+329,2024-05-11,Travel,40.54,Operating expense
+330,2024-01-09,Travel,217.0,Operating expense
+331,2024-12-02,Software,86.62,Operating expense
+332,2024-06-19,Studio supplies,101.29,Operating expense
+333,2024-10-14,Travel,50.16,Operating expense
+334,2024-01-26,Equipment,368.27,Operating expense
+335,2024-08-26,Contract labor,287.13,Operating expense
+336,2024-10-22,Studio supplies,103.02,Operating expense
+337,2024-07-23,Insurance,15.98,Operating expense
+338,2024-09-20,Marketing,167.63,Operating expense
+339,2024-11-27,Contract labor,595.7,Operating expense
+340,2025-12-19,Travel,116.39,Operating expense
+341,2024-01-15,Contract labor,99.36,Operating expense
+342,2024-01-04,Studio supplies,106.67,Operating expense
+343,2025-05-13,Contract labor,196.9,Operating expense
+344,2024-07-30,Contract labor,292.43,Operating expense
+345,2024-05-04,Travel,37.21,Operating expense
+346,2024-11-29,Insurance,10.87,Operating expense
+347,2024-08-05,Software,76.76,Operating expense
+348,2024-11-21,Travel,233.6,Operating expense
+349,2024-01-07,Contract labor,153.23,Operating expense
+350,2024-10-31,Equipment,827.61,Operating expense
+351,2025-12-20,Studio supplies,59.48,Operating expense
+352,2025-03-10,Contract labor,88.63,Operating expense
+353,2025-08-27,Equipment,602.32,Operating expense
+354,2025-06-30,Software,73.12,Operating expense
+355,2024-09-01,Travel,61.46,Operating expense
+356,2024-10-29,Insurance,49.24,Operating expense
+357,2024-06-05,Marketing,166.64,Operating expense
+358,2024-03-11,Insurance,205.84,Operating expense
+359,2025-09-28,Studio supplies,98.66,Operating expense
+360,2024-01-14,Marketing,420.38,Operating expense
+361,2025-10-15,Studio supplies,103.5,Operating expense
+362,2024-12-16,Marketing,78.3,Operating expense
+363,2024-10-05,Marketing,113.35,Operating expense
+364,2025-06-11,Insurance,51.0,Operating expense
+365,2024-08-10,Marketing,137.09,Operating expense
+366,2024-02-04,Contract labor,38.52,Operating expense
+367,2024-12-18,Studio supplies,52.2,Operating expense
+368,2024-10-18,Contract labor,134.15,Operating expense
+369,2024-11-08,Travel,49.61,Operating expense
+370,2025-03-09,Contract labor,329.86,Operating expense
+371,2025-01-13,Studio supplies,86.87,Operating expense
+372,2025-11-21,Insurance,80.55,Operating expense
+373,2025-05-10,Equipment,646.84,Operating expense
+374,2025-02-16,Marketing,47.14,Operating expense
+375,2025-02-27,Marketing,307.12,Operating expense
+376,2025-11-14,Marketing,129.18,Operating expense
+377,2024-12-15,Contract labor,162.73,Operating expense
+378,2024-08-31,Contract labor,178.34,Operating expense
+379,2024-09-10,Marketing,270.49,Operating expense
+380,2025-10-09,Software,97.1,Operating expense
+381,2025-06-03,Travel,305.01,Operating expense
+382,2025-11-16,Contract labor,361.04,Operating expense
+383,2025-05-04,Travel,166.39,Operating expense
+384,2024-11-19,Software,20.47,Operating expense
+385,2024-08-05,Software,69.33,Operating expense
+386,2024-05-04,Contract labor,281.39,Operating expense
+387,2025-08-09,Equipment,210.28,Operating expense
+388,2025-12-22,Software,66.09,Operating expense
+389,2025-11-19,Marketing,103.51,Operating expense
+390,2024-10-04,Studio supplies,27.84,Operating expense
+391,2025-01-19,Studio supplies,16.74,Operating expense
+392,2025-12-11,Travel,52.98,Operating expense
+393,2025-05-25,Travel,98.73,Operating expense
+394,2025-12-26,Marketing,274.56,Operating expense
+395,2025-09-14,Equipment,698.86,Operating expense
+396,2025-06-24,Marketing,173.41,Operating expense
+397,2025-09-30,Studio supplies,97.98,Operating expense
+398,2024-09-07,Travel,92.69,Operating expense
+399,2025-12-28,Equipment,69.45,Operating expense
+400,2024-01-27,Studio supplies,70.61,Operating expense
+401,2025-05-29,Marketing,208.31,Operating expense
+402,2024-12-01,Software,26.18,Operating expense
+403,2025-09-22,Travel,52.08,Operating expense
+404,2025-05-28,Equipment,811.51,Operating expense
+405,2024-09-11,Marketing,286.97,Operating expense
+406,2024-05-13,Marketing,130.25,Operating expense
+407,2024-08-12,Contract labor,48.16,Operating expense
+408,2025-11-02,Contract labor,197.86,Operating expense
+409,2024-04-05,Equipment,72.64,Operating expense
+410,2025-12-31,Software,39.08,Operating expense
+411,2025-08-12,Equipment,532.36,Operating expense
+412,2024-10-29,Contract labor,171.16,Operating expense
+413,2025-02-23,Equipment,191.15,Operating expense
+414,2025-07-06,Software,70.24,Operating expense
+415,2024-11-11,Contract labor,284.15,Operating expense
+416,2025-12-16,Marketing,344.19,Operating expense
+417,2025-06-09,Studio supplies,133.18,Operating expense
+418,2025-06-18,Marketing,189.98,Operating expense
+419,2024-11-21,Insurance,37.78,Operating expense
+420,2024-01-02,Travel,258.45,Operating expense
+421,2024-08-10,Travel,80.1,Operating expense
+422,2025-05-26,Contract labor,551.25,Operating expense
+423,2025-07-06,Software,60.25,Operating expense
+424,2024-04-30,Travel,84.8,Operating expense
+425,2025-05-19,Studio supplies,79.84,Operating expense
+426,2025-12-17,Equipment,199.93,Operating expense
+427,2025-11-07,Travel,282.16,Operating expense
+428,2024-03-03,Marketing,59.4,Operating expense
+429,2025-06-21,Insurance,155.49,Operating expense
+430,2025-07-18,Equipment,142.5,Operating expense
+431,2024-12-16,Contract labor,127.81,Operating expense
+432,2024-10-13,Travel,217.69,Operating expense
+433,2025-03-31,Studio supplies,148.63,Operating expense
+434,2025-10-30,Software,16.54,Operating expense
+435,2025-09-08,Insurance,35.33,Operating expense
+436,2024-03-08,Equipment,475.15,Operating expense
+437,2025-03-27,Travel,23.63,Operating expense
+438,2024-10-21,Insurance,97.47,Operating expense
+439,2025-02-12,Marketing,377.66,Operating expense
+440,2024-02-13,Studio supplies,17.5,Operating expense
+441,2025-12-16,Travel,121.61,Operating expense
+442,2025-11-27,Contract labor,60.24,Operating expense
+443,2024-04-05,Studio supplies,49.82,Operating expense
+444,2025-12-17,Marketing,114.23,Operating expense
+445,2025-07-23,Marketing,349.45,Operating expense
+446,2024-12-03,Marketing,142.87,Operating expense
+447,2025-06-12,Marketing,94.99,Operating expense
+448,2024-05-05,Insurance,43.88,Operating expense
+449,2025-07-16,Marketing,79.04,Operating expense
+450,2024-01-06,Equipment,330.11,Operating expense
+451,2024-03-08,Equipment,341.63,Operating expense
+452,2025-02-20,Travel,68.83,Operating expense
+453,2025-03-10,Equipment,87.88,Operating expense
+454,2025-06-19,Travel,35.27,Operating expense
+455,2024-12-29,Travel,197.2,Operating expense
+456,2025-06-25,Marketing,248.24,Operating expense
+457,2024-08-21,Software,34.13,Operating expense
+458,2024-06-15,Contract labor,268.65,Operating expense
+459,2024-10-17,Studio supplies,96.29,Operating expense
+460,2024-10-10,Equipment,673.94,Operating expense
+461,2024-03-21,Studio supplies,122.76,Operating expense
+462,2024-02-20,Travel,135.9,Operating expense
+463,2024-01-14,Studio supplies,142.31,Operating expense
+464,2025-01-21,Studio supplies,63.16,Operating expense
+465,2024-10-19,Contract labor,92.34,Operating expense
+466,2024-08-27,Marketing,15.01,Operating expense
+467,2025-09-29,Marketing,493.39,Operating expense
+468,2025-11-23,Travel,231.52,Operating expense
+469,2025-07-31,Insurance,229.95,Operating expense
+470,2024-02-16,Equipment,192.34,Operating expense
+471,2024-12-09,Contract labor,530.33,Operating expense
+472,2025-11-22,Travel,172.09,Operating expense
+473,2025-06-28,Marketing,123.51,Operating expense
+474,2024-07-26,Marketing,155.63,Operating expense
+475,2024-03-08,Software,63.07,Operating expense
+476,2024-01-14,Marketing,293.42,Operating expense
+477,2025-08-25,Marketing,58.83,Operating expense
+478,2024-04-05,Marketing,306.37,Operating expense
+479,2025-07-08,Software,50.9,Operating expense
+480,2025-04-11,Travel,15.92,Operating expense
+481,2024-05-14,Marketing,120.24,Operating expense
+482,2024-08-12,Marketing,119.05,Operating expense
+483,2024-11-04,Marketing,123.67,Operating expense
+484,2025-06-18,Marketing,67.33,Operating expense
+485,2024-02-13,Studio supplies,60.59,Operating expense
+486,2024-12-16,Marketing,171.13,Operating expense
+487,2024-09-11,Marketing,197.85,Operating expense
+488,2024-05-01,Marketing,105.74,Operating expense
+489,2025-08-28,Software,138.4,Operating expense
+490,2025-09-04,Travel,55.72,Operating expense
+491,2025-03-10,Insurance,281.78,Operating expense
+492,2025-08-23,Equipment,293.83,Operating expense
+493,2025-07-04,Marketing,374.94,Operating expense
+494,2025-06-26,Insurance,161.17,Operating expense
+495,2025-07-20,Contract labor,228.51,Operating expense
+496,2025-12-03,Studio supplies,34.61,Operating expense
+497,2024-02-03,Insurance,92.31,Operating expense
+498,2025-11-17,Software,58.3,Operating expense
+499,2024-02-28,Contract labor,293.53,Operating expense
+500,2024-12-25,Studio supplies,32.08,Operating expense
+501,2024-09-08,Marketing,465.89,Operating expense
+502,2024-04-20,Marketing,50.02,Operating expense
+503,2025-05-29,Marketing,18.38,Operating expense
+504,2025-10-09,Marketing,181.0,Operating expense
+505,2025-03-29,Studio supplies,273.41,Operating expense
+506,2024-05-03,Software,208.02,Operating expense
+507,2025-04-11,Insurance,255.94,Operating expense
+508,2024-09-13,Equipment,599.97,Operating expense
+509,2025-05-21,Software,9.4,Operating expense
+510,2024-11-26,Travel,11.86,Operating expense
+511,2024-12-05,Equipment,465.97,Operating expense
+512,2025-08-27,Equipment,413.25,Operating expense
+513,2025-05-27,Contract labor,202.13,Operating expense
+514,2024-12-24,Studio supplies,32.86,Operating expense
+515,2024-01-21,Studio supplies,71.83,Operating expense
+516,2025-11-27,Marketing,227.64,Operating expense
+517,2024-09-19,Marketing,70.87,Operating expense
+518,2025-05-16,Insurance,34.0,Operating expense
+519,2025-03-08,Marketing,80.96,Operating expense
+520,2025-06-02,Equipment,893.19,Operating expense
+521,2025-02-15,Equipment,644.47,Operating expense
+522,2024-06-01,Studio supplies,71.4,Operating expense
+523,2025-11-02,Marketing,113.69,Operating expense
+524,2024-08-19,Insurance,23.37,Operating expense
+525,2025-11-07,Contract labor,264.98,Operating expense
+526,2025-10-26,Insurance,63.02,Operating expense
+527,2024-05-21,Equipment,936.44,Operating expense
+528,2024-10-11,Studio supplies,51.22,Operating expense
+529,2024-06-30,Contract labor,308.9,Operating expense
+530,2024-10-24,Studio supplies,70.54,Operating expense
+531,2024-05-15,Marketing,40.86,Operating expense
+532,2024-03-15,Marketing,90.81,Operating expense
+533,2024-05-29,Marketing,142.21,Operating expense
+534,2025-01-09,Studio supplies,169.22,Operating expense
+535,2025-09-24,Software,24.24,Operating expense
+536,2024-10-29,Contract labor,56.03,Operating expense
+537,2025-10-21,Equipment,327.79,Operating expense
+538,2024-11-04,Contract labor,77.41,Operating expense
+539,2024-03-16,Contract labor,133.67,Operating expense
+540,2024-11-09,Software,61.66,Operating expense
+541,2024-11-17,Travel,6.5,Operating expense
+542,2024-03-25,Travel,49.64,Operating expense
+543,2024-04-04,Software,42.61,Operating expense
+544,2025-05-11,Marketing,314.04,Operating expense
+545,2025-05-27,Equipment,115.55,Operating expense
+546,2025-04-17,Studio supplies,72.03,Operating expense
+547,2025-04-22,Software,79.44,Operating expense
+548,2024-06-20,Software,180.45,Operating expense
+549,2025-02-19,Studio supplies,133.62,Operating expense
+550,2025-07-21,Contract labor,85.82,Operating expense
+551,2025-07-23,Marketing,150.12,Operating expense
+552,2024-08-30,Marketing,95.23,Operating expense
+553,2025-03-01,Travel,23.84,Operating expense
+554,2025-01-25,Marketing,169.67,Operating expense
+555,2025-09-19,Travel,257.73,Operating expense
+556,2025-07-22,Studio supplies,151.52,Operating expense
+557,2024-03-10,Equipment,1303.3,Operating expense
+558,2024-12-26,Travel,73.02,Operating expense
+559,2025-01-25,Contract labor,391.33,Operating expense
+560,2025-09-11,Equipment,808.1,Operating expense
+561,2024-06-19,Insurance,62.54,Operating expense
+562,2025-10-16,Studio supplies,50.5,Operating expense
+563,2025-08-21,Travel,25.98,Operating expense
+564,2025-07-30,Equipment,433.14,Operating expense
+565,2025-03-08,Software,22.05,Operating expense
+566,2024-11-03,Software,33.82,Operating expense
+567,2025-01-08,Contract labor,629.25,Operating expense
+568,2024-04-05,Contract labor,327.14,Operating expense
+569,2024-04-27,Marketing,57.18,Operating expense
+570,2024-11-20,Travel,128.15,Operating expense
+571,2024-08-23,Marketing,89.91,Operating expense
+572,2025-04-04,Contract labor,291.29,Operating expense
+573,2025-09-04,Travel,26.91,Operating expense
+574,2024-12-06,Studio supplies,91.84,Operating expense
+575,2025-10-14,Travel,14.16,Operating expense
+576,2024-06-02,Marketing,132.79,Operating expense
+577,2025-06-23,Marketing,318.85,Operating expense
+578,2024-08-27,Studio supplies,14.39,Operating expense
+579,2024-01-24,Contract labor,131.24,Operating expense
+580,2025-10-24,Contract labor,501.78,Operating expense
+581,2024-10-06,Contract labor,554.79,Operating expense
+582,2024-02-25,Contract labor,48.32,Operating expense
+583,2025-05-21,Software,32.29,Operating expense
+584,2024-12-30,Software,44.8,Operating expense
+585,2025-04-15,Contract labor,301.38,Operating expense
+586,2024-07-27,Marketing,83.13,Operating expense
+587,2024-02-12,Contract labor,250.29,Operating expense
+588,2025-12-02,Software,33.94,Operating expense
+589,2025-11-24,Equipment,275.75,Operating expense
+590,2025-07-10,Contract labor,595.55,Operating expense
+591,2024-05-06,Marketing,495.03,Operating expense
+592,2025-10-20,Marketing,292.8,Operating expense
+593,2025-06-27,Software,43.79,Operating expense
+594,2025-04-05,Travel,34.45,Operating expense
+595,2025-01-30,Contract labor,191.83,Operating expense
+596,2024-06-26,Contract labor,599.52,Operating expense
+597,2024-05-09,Travel,171.69,Operating expense
+598,2024-11-07,Contract labor,410.88,Operating expense
+599,2025-11-16,Studio supplies,26.84,Operating expense
+600,2024-12-08,Equipment,483.46,Operating expense
+601,2025-07-14,Equipment,389.02,Operating expense
+602,2025-05-21,Travel,90.2,Operating expense
+603,2024-06-02,Equipment,450.79,Operating expense
+604,2025-12-26,Studio supplies,80.67,Operating expense
+605,2024-04-13,Studio supplies,30.77,Operating expense
+606,2025-11-16,Software,124.4,Operating expense
+607,2024-12-12,Marketing,269.64,Operating expense
+608,2024-04-19,Travel,90.76,Operating expense
+609,2024-06-27,Studio supplies,148.64,Operating expense
+610,2025-02-27,Software,232.15,Operating expense
+611,2025-05-12,Insurance,60.19,Operating expense
+612,2025-11-03,Studio supplies,176.51,Operating expense
+613,2025-11-01,Contract labor,196.24,Operating expense
+614,2025-05-21,Contract labor,391.15,Operating expense
+615,2025-02-02,Equipment,397.46,Operating expense
+616,2025-06-04,Marketing,341.79,Operating expense
+617,2024-12-20,Travel,77.14,Operating expense
+618,2024-07-19,Travel,62.01,Operating expense
+619,2025-10-24,Marketing,663.79,Operating expense
+620,2025-01-11,Marketing,217.57,Operating expense
+621,2025-07-13,Marketing,597.3,Operating expense
+622,2025-04-20,Insurance,161.41,Operating expense
+623,2024-10-06,Studio supplies,20.6,Operating expense
+624,2025-08-01,Marketing,354.29,Operating expense
+625,2024-07-05,Software,41.01,Operating expense
+626,2025-06-24,Contract labor,101.28,Operating expense
+627,2025-03-24,Equipment,490.74,Operating expense
+628,2024-01-17,Marketing,260.92,Operating expense
+629,2025-04-25,Studio supplies,16.96,Operating expense
+630,2025-11-19,Contract labor,32.69,Operating expense
+631,2025-02-05,Marketing,266.5,Operating expense
+632,2025-09-22,Contract labor,111.84,Operating expense
+633,2025-02-11,Studio supplies,38.73,Operating expense
+634,2024-04-07,Equipment,159.14,Operating expense
+635,2024-10-01,Contract labor,27.15,Operating expense
+636,2025-11-05,Studio supplies,47.87,Operating expense
+637,2025-09-20,Travel,157.81,Operating expense
+638,2025-11-19,Contract labor,413.58,Operating expense
+639,2024-08-04,Studio supplies,45.11,Operating expense
+640,2025-01-16,Studio supplies,15.97,Operating expense
+641,2024-08-19,Contract labor,346.16,Operating expense
+642,2024-05-24,Studio supplies,75.17,Operating expense
+643,2024-11-17,Equipment,532.72,Operating expense
+644,2024-11-23,Insurance,146.81,Operating expense
+645,2025-08-27,Contract labor,349.76,Operating expense
+646,2025-02-28,Studio supplies,187.4,Operating expense
+647,2025-03-15,Travel,137.97,Operating expense
+648,2024-07-28,Insurance,343.54,Operating expense
+649,2025-12-11,Studio supplies,96.43,Operating expense
+650,2025-04-29,Travel,45.14,Operating expense
+651,2025-12-21,Travel,114.24,Operating expense
+652,2024-04-24,Contract labor,233.89,Operating expense
+653,2024-01-15,Contract labor,162.61,Operating expense
+654,2024-03-21,Equipment,157.6,Operating expense
+655,2025-06-12,Marketing,110.73,Operating expense
+656,2025-04-05,Software,24.43,Operating expense
+657,2024-09-25,Equipment,29.1,Operating expense
+658,2025-04-03,Marketing,193.4,Operating expense
+659,2025-06-16,Travel,85.64,Operating expense
+660,2024-04-09,Marketing,100.92,Operating expense
+661,2025-03-04,Studio supplies,21.79,Operating expense
+662,2025-11-01,Marketing,243.76,Operating expense
+663,2024-12-03,Marketing,273.83,Operating expense
+664,2024-07-16,Software,73.84,Operating expense
+665,2025-12-13,Marketing,104.68,Operating expense
+666,2024-07-20,Travel,65.83,Operating expense
+667,2024-10-30,Software,141.12,Operating expense
+668,2025-12-27,Studio supplies,210.1,Operating expense
+669,2025-08-04,Studio supplies,87.72,Operating expense
+670,2024-05-25,Contract labor,180.6,Operating expense
+671,2025-06-12,Software,122.36,Operating expense
+672,2024-09-23,Contract labor,224.21,Operating expense
+673,2025-07-15,Insurance,43.57,Operating expense
+674,2025-01-07,Studio supplies,38.72,Operating expense
+675,2024-05-12,Marketing,313.75,Operating expense
+676,2025-09-19,Software,27.91,Operating expense
+677,2024-04-19,Equipment,218.07,Operating expense
+678,2025-02-09,Equipment,187.28,Operating expense
+679,2025-01-25,Studio supplies,107.52,Operating expense
+680,2024-04-14,Travel,20.47,Operating expense
+681,2024-05-10,Marketing,93.63,Operating expense
+682,2024-05-25,Studio supplies,83.76,Operating expense
+683,2025-01-03,Marketing,245.77,Operating expense
+684,2025-02-10,Contract labor,268.4,Operating expense
+685,2024-07-04,Travel,146.68,Operating expense
+686,2025-01-21,Travel,58.62,Operating expense
+687,2025-12-27,Travel,14.28,Operating expense
+688,2025-09-23,Studio supplies,35.56,Operating expense
+689,2024-07-04,Travel,26.45,Operating expense
+690,2024-12-19,Studio supplies,29.82,Operating expense
+691,2025-01-31,Contract labor,325.54,Operating expense
+692,2024-01-01,Contract labor,194.22,Operating expense
+693,2025-01-18,Travel,118.5,Operating expense
+694,2024-03-05,Contract labor,172.55,Operating expense
+695,2024-10-08,Studio supplies,25.45,Operating expense
+696,2025-06-12,Equipment,825.55,Operating expense
+697,2025-08-07,Contract labor,56.37,Operating expense
+698,2024-06-10,Studio supplies,33.4,Operating expense
+699,2024-07-25,Marketing,154.42,Operating expense
+700,2024-02-05,Software,68.55,Operating expense
+701,2024-01-24,Equipment,271.77,Operating expense
+702,2025-04-25,Contract labor,229.63,Operating expense
+703,2024-06-01,Marketing,67.0,Operating expense
+704,2025-05-21,Equipment,189.55,Operating expense
+705,2025-12-08,Software,94.2,Operating expense
+706,2025-10-01,Software,251.95,Operating expense
+707,2025-08-21,Marketing,104.06,Operating expense
+708,2025-01-07,Equipment,626.69,Operating expense
+709,2025-09-07,Software,55.89,Operating expense
+710,2025-12-12,Insurance,37.29,Operating expense
+711,2024-05-04,Insurance,113.75,Operating expense
+712,2025-10-23,Software,54.81,Operating expense
+713,2025-03-06,Studio supplies,35.63,Operating expense
+714,2025-09-24,Equipment,317.07,Operating expense
+715,2024-04-02,Studio supplies,53.2,Operating expense
+716,2024-02-29,Marketing,176.65,Operating expense
+717,2025-08-14,Software,51.39,Operating expense
+718,2024-04-20,Studio supplies,12.52,Operating expense
+719,2025-01-25,Travel,81.27,Operating expense
+720,2024-07-05,Travel,143.86,Operating expense
+721,2025-09-27,Travel,149.91,Operating expense
+722,2025-02-18,Software,100.64,Operating expense
+723,2025-09-07,Contract labor,197.31,Operating expense
+724,2024-06-28,Software,121.64,Operating expense
+725,2025-07-26,Equipment,141.11,Operating expense
+726,2025-10-13,Software,71.95,Operating expense
+727,2024-06-28,Studio supplies,109.66,Operating expense
+728,2024-01-24,Marketing,114.17,Operating expense
+729,2024-06-06,Travel,101.02,Operating expense
+730,2025-03-20,Travel,103.93,Operating expense
+731,2024-04-03,Studio supplies,92.13,Operating expense
+732,2025-02-02,Software,63.26,Operating expense
+733,2025-09-14,Equipment,509.98,Operating expense
+734,2024-11-07,Marketing,352.01,Operating expense
+735,2025-03-17,Insurance,98.35,Operating expense
+736,2024-11-24,Insurance,138.19,Operating expense
+737,2025-10-28,Contract labor,322.43,Operating expense
+738,2025-07-24,Contract labor,299.93,Operating expense
+739,2025-03-16,Marketing,151.68,Operating expense
+740,2024-05-01,Marketing,186.34,Operating expense
+741,2025-08-27,Software,11.32,Operating expense
+742,2024-09-10,Travel,49.21,Operating expense
+743,2024-10-22,Studio supplies,100.09,Operating expense
+744,2024-07-18,Contract labor,123.88,Operating expense
+745,2025-03-27,Equipment,161.23,Operating expense
+746,2024-07-19,Software,65.47,Operating expense
+747,2025-10-01,Equipment,250.1,Operating expense
+748,2024-07-07,Studio supplies,67.54,Operating expense
+749,2024-05-27,Marketing,121.35,Operating expense
+750,2024-10-12,Contract labor,418.2,Operating expense
+751,2024-10-14,Equipment,174.57,Operating expense
+752,2024-10-27,Contract labor,387.86,Operating expense
+753,2025-11-12,Insurance,76.12,Operating expense
+754,2025-10-15,Travel,82.78,Operating expense
+755,2024-12-10,Marketing,486.87,Operating expense
+756,2024-08-06,Equipment,150.96,Operating expense
+757,2025-08-29,Software,93.66,Operating expense
+758,2025-03-10,Equipment,97.41,Operating expense
+759,2025-10-26,Marketing,245.97,Operating expense
+760,2024-12-23,Insurance,95.47,Operating expense
+761,2025-04-21,Studio supplies,59.67,Operating expense
+762,2025-10-12,Travel,60.23,Operating expense
+763,2025-05-06,Software,185.87,Operating expense
+764,2024-12-10,Studio supplies,80.46,Operating expense
+765,2025-07-03,Travel,126.58,Operating expense
+766,2024-01-10,Software,82.29,Operating expense
+767,2024-04-02,Studio supplies,12.47,Operating expense
+768,2024-09-11,Equipment,232.41,Operating expense
+769,2025-08-10,Studio supplies,52.22,Operating expense
+770,2025-09-18,Travel,24.08,Operating expense
+771,2025-08-18,Software,28.45,Operating expense
+772,2024-10-23,Contract labor,24.6,Operating expense
+773,2024-08-11,Insurance,12.71,Operating expense
+774,2024-07-09,Marketing,173.84,Operating expense
+775,2024-07-10,Contract labor,664.87,Operating expense
+776,2025-11-22,Equipment,418.75,Operating expense
+777,2024-11-04,Equipment,144.44,Operating expense
+778,2024-09-22,Studio supplies,99.35,Operating expense
+779,2025-11-26,Marketing,892.41,Operating expense
+780,2025-06-24,Studio supplies,65.52,Operating expense
+781,2025-03-08,Contract labor,220.82,Operating expense
+782,2025-01-28,Software,166.68,Operating expense
+783,2025-05-24,Contract labor,279.14,Operating expense
+784,2024-09-02,Marketing,85.44,Operating expense
+785,2024-03-29,Insurance,203.56,Operating expense
+786,2024-07-10,Contract labor,263.31,Operating expense
+787,2025-06-12,Marketing,244.02,Operating expense
+788,2024-01-02,Studio supplies,70.19,Operating expense
+789,2025-02-17,Travel,81.6,Operating expense
+790,2025-09-27,Marketing,211.32,Operating expense
+791,2024-09-28,Software,73.85,Operating expense
+792,2024-03-27,Software,59.75,Operating expense
+793,2024-01-26,Contract labor,372.6,Operating expense
+794,2024-06-01,Travel,46.96,Operating expense
+795,2025-08-16,Studio supplies,23.51,Operating expense
+796,2025-05-02,Equipment,214.6,Operating expense
+797,2025-12-17,Studio supplies,80.72,Operating expense
+798,2024-11-09,Studio supplies,40.18,Operating expense
+799,2025-10-24,Contract labor,266.63,Operating expense
+800,2025-10-01,Marketing,344.68,Operating expense
+801,2025-10-03,Contract labor,374.28,Operating expense
+802,2025-08-05,Insurance,15.5,Operating expense
+803,2025-07-01,Marketing,77.64,Operating expense
+804,2025-05-23,Studio supplies,147.62,Operating expense
+805,2025-12-05,Software,34.38,Operating expense
+806,2025-04-05,Software,9.26,Operating expense
+807,2024-03-12,Contract labor,250.88,Operating expense
+808,2024-04-02,Insurance,63.24,Operating expense
+809,2025-09-26,Studio supplies,123.12,Operating expense
+810,2024-12-07,Studio supplies,35.87,Operating expense
+811,2024-06-20,Studio supplies,94.45,Operating expense
+812,2025-06-24,Insurance,145.23,Operating expense
+813,2025-06-16,Marketing,31.47,Operating expense
+814,2024-07-18,Equipment,1103.01,Operating expense
+815,2025-02-03,Contract labor,69.7,Operating expense
+816,2024-02-04,Studio supplies,35.44,Operating expense
+817,2024-09-18,Studio supplies,8.76,Operating expense
+818,2025-01-16,Contract labor,56.87,Operating expense
+819,2024-12-04,Software,49.75,Operating expense
+820,2024-11-25,Studio supplies,67.53,Operating expense
+821,2024-03-29,Contract labor,110.07,Operating expense
+822,2025-01-28,Studio supplies,59.35,Operating expense
+823,2025-06-23,Equipment,192.58,Operating expense
+824,2025-05-17,Software,45.04,Operating expense
+825,2025-06-15,Studio supplies,22.59,Operating expense
+826,2025-04-10,Travel,27.86,Operating expense
+827,2025-06-04,Studio supplies,41.5,Operating expense
+828,2025-08-16,Marketing,24.72,Operating expense
+829,2025-05-06,Software,163.88,Operating expense
+830,2024-01-02,Travel,149.76,Operating expense
+831,2025-01-01,Contract labor,262.52,Operating expense
+832,2025-08-14,Contract labor,1090.01,Operating expense
+833,2025-08-24,Studio supplies,186.36,Operating expense
+834,2025-12-03,Contract labor,281.26,Operating expense
+835,2025-05-22,Travel,101.39,Operating expense
+836,2025-02-04,Marketing,85.54,Operating expense
+837,2024-07-07,Equipment,716.33,Operating expense
+838,2025-02-16,Insurance,74.14,Operating expense
+839,2024-02-06,Travel,127.3,Operating expense
+840,2024-12-17,Marketing,114.86,Operating expense
+841,2024-02-24,Insurance,75.03,Operating expense
+842,2025-10-07,Contract labor,141.6,Operating expense
+843,2025-12-15,Equipment,103.29,Operating expense
+844,2024-03-06,Software,118.97,Operating expense
+845,2024-05-14,Software,56.72,Operating expense
+846,2025-10-26,Contract labor,114.32,Operating expense
+847,2025-06-02,Travel,64.76,Operating expense
+848,2024-12-05,Studio supplies,104.14,Operating expense
+849,2025-03-21,Studio supplies,51.85,Operating expense
+850,2024-04-13,Equipment,668.02,Operating expense
+851,2025-12-21,Travel,87.55,Operating expense
+852,2025-11-04,Contract labor,172.95,Operating expense
+853,2025-09-05,Marketing,595.72,Operating expense
+854,2025-12-15,Insurance,53.06,Operating expense
+855,2025-01-29,Contract labor,283.27,Operating expense
+856,2025-12-02,Insurance,203.95,Operating expense
+857,2025-04-07,Contract labor,263.15,Operating expense
+858,2024-10-30,Equipment,344.72,Operating expense
+859,2024-06-27,Marketing,74.11,Operating expense
+860,2024-12-23,Equipment,944.95,Operating expense
+861,2024-11-19,Marketing,90.9,Operating expense
+862,2024-11-13,Marketing,158.28,Operating expense
+863,2025-04-22,Travel,82.76,Operating expense
+864,2025-07-23,Contract labor,259.64,Operating expense
+865,2025-09-07,Marketing,122.14,Operating expense
+866,2025-06-01,Contract labor,129.76,Operating expense
+867,2025-04-26,Marketing,203.87,Operating expense
+868,2025-04-07,Equipment,526.29,Operating expense
+869,2024-08-10,Studio supplies,22.13,Operating expense
+870,2025-06-27,Contract labor,328.24,Operating expense
+871,2025-04-04,Marketing,242.34,Operating expense
+872,2024-06-26,Contract labor,308.31,Operating expense
+873,2024-08-09,Contract labor,87.4,Operating expense
+874,2024-10-14,Marketing,36.29,Operating expense
+875,2024-12-07,Equipment,508.24,Operating expense
+876,2024-02-15,Marketing,90.9,Operating expense
+877,2024-06-25,Travel,17.02,Operating expense
+878,2024-06-16,Studio supplies,190.92,Operating expense
+879,2025-11-07,Equipment,53.47,Operating expense
+880,2025-10-05,Equipment,639.53,Operating expense
+881,2025-07-22,Studio supplies,24.14,Operating expense
+882,2025-06-21,Software,55.56,Operating expense
+883,2024-05-11,Equipment,33.6,Operating expense
+884,2025-09-13,Marketing,46.08,Operating expense
+885,2025-12-22,Marketing,189.0,Operating expense
+886,2024-03-13,Insurance,73.18,Operating expense
+887,2025-06-21,Equipment,450.63,Operating expense
+888,2024-04-14,Marketing,274.72,Operating expense
+889,2025-07-22,Studio supplies,37.38,Operating expense
+890,2024-12-05,Marketing,257.06,Operating expense
+891,2025-10-29,Equipment,231.81,Operating expense
+892,2025-08-29,Studio supplies,60.27,Operating expense
+893,2024-08-05,Marketing,304.23,Operating expense
+894,2025-07-12,Marketing,266.74,Operating expense
+895,2024-10-03,Insurance,63.71,Operating expense
+896,2025-12-03,Contract labor,40.25,Operating expense
+897,2025-09-19,Contract labor,212.39,Operating expense
+898,2025-06-24,Contract labor,73.95,Operating expense
+899,2025-08-28,Contract labor,464.43,Operating expense
+900,2024-01-29,Contract labor,188.44,Operating expense
+901,2025-07-13,Equipment,885.22,Operating expense
+902,2024-07-05,Marketing,410.82,Operating expense
+903,2025-05-05,Marketing,452.94,Operating expense
+904,2025-10-01,Marketing,459.79,Operating expense
+905,2025-08-23,Contract labor,49.18,Operating expense
+906,2025-03-05,Software,102.92,Operating expense
+907,2024-04-10,Software,74.83,Operating expense
+908,2024-03-01,Studio supplies,40.53,Operating expense
+909,2025-09-20,Equipment,282.79,Operating expense
+910,2025-08-29,Travel,117.48,Operating expense
+911,2024-07-05,Studio supplies,29.07,Operating expense
+912,2025-10-17,Marketing,63.21,Operating expense
+913,2025-10-17,Equipment,158.29,Operating expense
+914,2025-08-10,Marketing,129.49,Operating expense
+915,2025-11-26,Marketing,354.63,Operating expense
+916,2024-01-13,Marketing,227.53,Operating expense
+917,2024-09-10,Studio supplies,108.47,Operating expense
+918,2025-09-02,Travel,155.63,Operating expense
+919,2024-11-11,Studio supplies,106.56,Operating expense
+920,2025-09-22,Contract labor,91.63,Operating expense
+921,2024-05-12,Studio supplies,48.96,Operating expense
+922,2025-06-11,Insurance,127.65,Operating expense
+923,2025-06-03,Marketing,330.25,Operating expense
+924,2025-04-29,Marketing,68.53,Operating expense
+925,2024-07-10,Travel,137.36,Operating expense
+926,2024-05-08,Travel,115.52,Operating expense
+927,2025-10-19,Travel,70.59,Operating expense
+928,2024-01-21,Contract labor,709.16,Operating expense
+929,2025-12-17,Software,7.22,Operating expense
+930,2025-09-07,Equipment,175.77,Operating expense
+931,2024-02-21,Contract labor,324.24,Operating expense
+932,2025-11-08,Contract labor,260.11,Operating expense
+933,2024-03-13,Insurance,88.63,Operating expense
+934,2024-02-19,Equipment,247.19,Operating expense
+935,2025-01-11,Marketing,180.95,Operating expense
+936,2024-12-19,Contract labor,497.81,Operating expense
+937,2024-05-06,Marketing,47.46,Operating expense
+938,2024-12-11,Equipment,407.27,Operating expense
+939,2025-02-12,Software,26.27,Operating expense
+940,2024-03-07,Travel,76.89,Operating expense
+941,2024-12-22,Software,26.82,Operating expense
+942,2024-09-10,Marketing,279.67,Operating expense
+943,2025-01-14,Studio supplies,48.87,Operating expense
+944,2025-06-07,Contract labor,299.98,Operating expense
+945,2025-02-01,Studio supplies,32.25,Operating expense
+946,2025-05-11,Software,204.78,Operating expense
+947,2024-05-19,Equipment,250.58,Operating expense
+948,2025-06-10,Studio supplies,83.93,Operating expense
+949,2025-10-06,Equipment,218.91,Operating expense
+950,2025-07-03,Contract labor,219.63,Operating expense
+951,2025-07-03,Contract labor,220.55,Operating expense
+952,2024-10-11,Contract labor,261.7,Operating expense
+953,2025-03-21,Equipment,48.15,Operating expense
+954,2025-02-23,Equipment,152.75,Operating expense
+955,2024-11-24,Travel,32.05,Operating expense
+956,2024-06-14,Marketing,427.16,Operating expense
+957,2024-05-02,Insurance,37.38,Operating expense
+958,2025-09-19,Contract labor,397.63,Operating expense
+959,2024-11-27,Marketing,65.02,Operating expense
+960,2024-05-05,Studio supplies,42.41,Operating expense
+961,2024-04-17,Contract labor,119.57,Operating expense
+962,2025-10-02,Marketing,14.55,Operating expense
+963,2025-09-02,Travel,38.59,Operating expense
+964,2024-07-14,Marketing,22.33,Operating expense
+965,2024-10-20,Marketing,21.49,Operating expense
+966,2024-06-25,Travel,147.45,Operating expense
+967,2025-01-30,Software,58.9,Operating expense
+968,2024-03-16,Insurance,130.65,Operating expense
+969,2024-10-26,Marketing,128.01,Operating expense
+970,2025-08-16,Contract labor,216.66,Operating expense
+971,2025-11-11,Contract labor,514.24,Operating expense
+972,2025-09-09,Software,76.94,Operating expense
+973,2025-12-23,Software,12.86,Operating expense
+974,2025-05-14,Marketing,218.1,Operating expense
+975,2025-09-21,Software,23.49,Operating expense
+976,2025-06-25,Marketing,48.65,Operating expense
+977,2024-08-31,Contract labor,112.8,Operating expense
+978,2024-05-14,Insurance,90.65,Operating expense
+979,2024-02-03,Equipment,80.26,Operating expense
+980,2025-12-25,Contract labor,205.95,Operating expense
+981,2024-03-25,Insurance,59.22,Operating expense
+982,2024-04-18,Studio supplies,88.17,Operating expense
+983,2024-01-31,Studio supplies,40.1,Operating expense
+984,2024-03-21,Studio supplies,132.68,Operating expense
+985,2025-02-01,Marketing,159.37,Operating expense
+986,2024-08-02,Equipment,623.4,Operating expense
+987,2025-12-28,Insurance,113.21,Operating expense
+988,2025-09-29,Contract labor,150.78,Operating expense
+989,2025-07-18,Marketing,303.02,Operating expense
+990,2025-04-11,Studio supplies,77.47,Operating expense
+991,2025-09-13,Studio supplies,27.08,Operating expense
+992,2025-07-26,Contract labor,155.61,Operating expense
+993,2024-12-12,Software,42.61,Operating expense
+994,2024-11-29,Contract labor,366.91,Operating expense
+995,2024-12-17,Software,112.38,Operating expense
+996,2025-07-05,Contract labor,157.0,Operating expense
+997,2025-03-09,Insurance,38.82,Operating expense
+998,2024-05-28,Insurance,35.75,Operating expense
+999,2025-08-05,Travel,47.06,Operating expense
+1000,2025-07-21,Marketing,572.38,Operating expense

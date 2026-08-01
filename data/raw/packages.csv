@@ -1,0 +1,7 @@
+package_id,package_name,default_service,list_price,variable_cost,duration_minutes
+1,Mini Moment,Mini sessions,225,55,20
+2,Essential Portrait,Family portraits,475,110,60
+3,Signature Story,Couples,650,145,90
+4,Milestone,Graduation,525,120,70
+5,Brand Builder,Branding/headshots,850,210,120
+6,Wedding Collection,Weddings,3200,1150,480

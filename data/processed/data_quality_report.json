@@ -1,0 +1,7 @@
+{
+  "duplicate_clients_removed": 10,
+  "invalid_emails_blank": 12,
+  "negative_payments_corrected": 17,
+  "missing_phones_retained_as_blank": 94,
+  "bookings_without_completed_sessions": 198
+}
