@@ -1,0 +1,16 @@
+{
+  "total_revenue": 638507.04,
+  "net_revenue": 638507.04,
+  "total_expenses": 177619.83,
+  "gross_profit": 460887.21,
+  "profit_margin": 0.7218,
+  "average_booking_value": 856.77,
+  "lead_to_booking_conversion_rate": 0.5,
+  "repeat_client_rate": 0.3312,
+  "cancellation_rate": 0.0767,
+  "rescheduling_rate": 0.0889,
+  "outstanding_balance": 132582.74,
+  "average_lead_response_hours": 36.7,
+  "average_days_inquiry_to_booking": 12.27,
+  "session_completion_rate": 0.78
+}
